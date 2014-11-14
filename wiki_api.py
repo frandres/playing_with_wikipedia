@@ -8,7 +8,7 @@ def read_category_to_list(filename):
     new_list = []
     for line in lines:
         line = line.rsplit(",", 5)
-        new_list.append(line[0].replace("\"", ""))
+        new_list.append(unicode(line[0].replace("\"", ""), "utf8"))
 
     return new_list
 
@@ -76,7 +76,7 @@ def find_outlinks(page_list, window_size):
         # Save all the page titles into a list by scrolling on the previous dictionary.
         title_list = []
         for elem in raw_title_list:
-            title_list.append(elem['title'])
+            title_list.append(elem['title'].replace(" ", "_"))
 
         # Save all the output links in the dictionary for the current query.
         page_link_dict[query] = title_list
@@ -150,6 +150,7 @@ def tkl_triple(pair_list):
 
     return tkl_list
 
+
 def main():
     #Input files for the categories generated with Catscan2
     category1 = "List_of_poems_depth_100.txt"
@@ -163,12 +164,14 @@ def main():
     #and the values being all of the output links for that page. Receives as parameter
     #a list of pages for a certain category, and a window size that will define
     #how many pages to process per query.
-    outlinks_dict_of_category1 = find_outlinks(['Il_Canzoniere','The_Raven', 'The_Canterbury_Tales'], 1)
+    outlinks_dict_of_category1 = find_outlinks([u'Il_Canzoniere',u'The_Raven', u'The_Canterbury_Tales'], 1)
     #outlinks_dict_of_category1 = find_outlinks(cat1_page_list, 1)
+    print outlinks_dict_of_category1
 
     #Will create a list of tuples. Each tuple is a pair of (page_in_category1, page_in_category2).
     #The tuple exists in the list if page_in_category2 is in the output links of page_in_category1.
     pair_list = find_pairs(outlinks_dict_of_category1, cat2_page_list)
+    print pair_list
 
     #Builds a list of triple (text, key, list).
     #Text is the text in the category 1 pages (of the key)
