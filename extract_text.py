@@ -1,83 +1,89 @@
 import re
-
+from nltk.tokenize import sent_tokenize
+import itertools
 '''
     Given a list [(text,[id0,id1])] returns a ranking of the words
 '''
-def get_ranking(pairs, minimum_freq = 10):
+def get_ranking(pairs, minimum_freq = 2):
     frequency = {}
-    for (text,(ids0,ids1)) in pairs:
-        for id0 in ids0:
-            for id1 in ids1:
-                l = extract_test(id0,id1,text,both_ways=True)
-                for t in l:
-                    if l in frequency:
-                        frequency[l]+=1
-                    else:
-                        frequency[l] = 0.0
+    for (text,ids0,ids1) in pairs:
+        for t in extract_all_contexts(ids0,ids1,text,both_ways=True):
+            if t in frequency:
+                frequency[t]+=1
+            else:
+                frequency[t] = 1.0
 
     sorted_text = []
+    print 'Freqs'
     for (text,freq) in frequency.items():
         if freq>=minimum_freq:
-            sorted_text.append(freq,text)
-    sorted_text.sort()
-    
-    for i in range(0,10):
-        print sorted_text[i]
+            sorted_text.append((freq,text))
 
-def extract_text(id0, id1, text, window=0, both_ways = False, whole_sentence = False,eliminate_ids = False, threshold = 50):
-    id0 = id0.replace('_',' ')
-    id1 = id1.replace('_',' ')
-    regexp = '(.*)('+id0+'.*?'+id1+').*'
-    if whole_sentence:
-        # regexp = '(.*)\.(.*?'+id0+'.*?'+id1+'.*?\.).*'
-        window = 0
-    #regexp = '.*?('+id0+'^((?!'+id0+').)*$'+id1+')(.*)'
-    print ('Using a window of size ' + str(window) + ' and the regexp:') 
-    print(regexp)
-    
-    pattern = re.compile(regexp,re.DOTALL)
+    sorted_text.sort(reverse= True)
 
-    keep_looking = True
-    matches = []
-    text_for_reg_exps = text
+    print '-------------- RANKING ----------------'
+    for i in range(0,min(10,len(sorted_text))):
+        print str(i) + ' |' + str(sorted_text[i][1]) + '| with freq: '+ str(sorted_text[i][0])
+        print ' '
 
-    positions = []
-    while keep_looking:
-        m = pattern.search(text_for_reg_exps)
-        if m is None:
-            break
-        groups = m.groups()
-        keep_looking = len(groups) == 2
-        match = groups[1]
-        text_for_reg_exps = groups[0]
-        positions.append(len(text_for_reg_exps))
-        matches.append(match)
-
-    ans = []
-    for i in range(0,len(matches)):
-        
-        # Augment the obtained text with a window of size window or with a whole sentence.
-
-        i0 = positions[i]-window
-        i1 = positions[i]+len(matches[i])+window
-
-        if whole_sentence:
-            while i0>=0 and text[i0-1] != '.':
-                i0-= 1
-            while i1<len(text) and text[i1] != '.':
-                i1+= 1
-
-        matches[i] = text[i0:i1]
-        # Replace the ids.
-        if eliminate_ids:
-            matches[i] = matches[i].replace(id0,'')
-            matches[i] = matches[i].replace(id1,'')
-        matches[i] = matches[i].strip()
-
-        if len(matches[i])>threshold:
-            ans.append(matches[i])
-
+def reg_exps(ids0,ids1,both_ways):
     if both_ways:
-        return ans + extract_text(id1, id0, text, window=0, both_ways = both_ways, whole_sentence = whole_sentence,eliminate_ids = eliminate_ids)
+        return itertools.chain(reg_exps_iter(ids0,ids1),reg_exps_iter(ids1,ids0))
     else:
-        return matches
+        return reg_exps_iter(ids0,ids1)
+
+def reg_exps_iter(ids0,ids1):
+    regexps = []
+    for id0 in ids0:
+        for id1 in ids1:
+            yield (re.compile(id0+'.*?'+id1),re.compile('.*'+id0+'(.*)'+id1))
+
+def extract_closest_context(regexp,string):
+    match = re.search(regexp,string)
+    if match:
+        return match.group(1)
+    else:
+        raise('Closest context not found')
+
+def extract_context(id0,id1,text,both_ways=False):
+    # Let's find all occurrences of pairs (id0<WHATEVER>id1)
+    f_regexp = re.compile(id0+'.*?'+id1)
+    new_c = re.findall(f_regexp, text, flags=0)
+
+    # And make sure we use the smallest one
+    c_regexp = re.compile('.*'+id0+'(.*)'+id1)
+    if both_ways:
+        return [extract_closest_context(c_regexp,p) for p in new_c] +  extract_context(id1,id0,text)
+    else:
+        return [extract_closest_context(c_regexp,p) for p in new_c]
+
+def extract_all_contexts(ids0, ids1, text, both_ways = False):
+
+    # Initialize the answer
+
+    contexts = []
+
+    # Segment the text into sentences:
+    sentences = sent_tokenize(text)
+
+    # Let's compile all the regexps we need:
+
+    for sentence in sentences:
+        for id0 in ids0:
+            for id1 in ids1:
+                for x in extract_context(id0,id1,text,both_ways):
+                    yield x
+
+#print (extract_text(['a','c'],['b','d'],'a lalala c b d c a lalalala b a a b b. ', both_ways = True))
+for x in extract_all_contexts(['a','c'],['b','d'],'ac tttttt d ac tttt b', both_ways = True):
+    print x
+
+
+
+
+
+
+
+
+
+
