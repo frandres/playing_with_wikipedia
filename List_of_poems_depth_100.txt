@@ -1,5 +1,3 @@
-|subset
-"title","id","namespace","len","touched","nstext"
 "Nam_quốc_sơn_hà","15874325","0","5243","20141019081900","(Article)"
 "Versus_de_scachis","486431","0","1090","20140802044336","(Article)"
 "Karlevi_Runestone","8806097","0","7662","20141016030957","(Article)"
