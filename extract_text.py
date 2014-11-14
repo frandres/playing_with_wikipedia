@@ -7,6 +7,7 @@ import itertools
 def get_ranking(pairs, minimum_freq = 2):
     frequency = {}
     for (text,ids0,ids1) in pairs:
+        print 'Doc'
         for t in extract_all_contexts(ids0,ids1,text,both_ways=True):
             if t in frequency:
                 frequency[t]+=1
@@ -66,6 +67,7 @@ def extract_all_contexts(ids0, ids1, text, both_ways = False):
     # Segment the text into sentences:
     sentences = sent_tokenize(text)
 
+    print ('Segmented')
     # Let's compile all the regexps we need:
 
     for sentence in sentences:
@@ -75,8 +77,8 @@ def extract_all_contexts(ids0, ids1, text, both_ways = False):
                     yield x
 
 #print (extract_text(['a','c'],['b','d'],'a lalala c b d c a lalalala b a a b b. ', both_ways = True))
-for x in extract_all_contexts(['a','c'],['b','d'],'ac tttttt d ac tttt b', both_ways = True):
-    print x
+#for x in extract_all_contexts(['a','c'],['b','d'],'ac tttttt d ac tttt b', both_ways = True):
+#    print x
 
 
 
