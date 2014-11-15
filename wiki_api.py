@@ -1,4 +1,5 @@
 from wikitools import wiki, api
+import xml.etree.ElementTree as ET
 import pprint
 
 
@@ -150,6 +151,35 @@ def tkl_triple(pair_list):
 
     return tkl_list
 
+#Builds a list of triple (text, key, list).
+#Same as above method, retrieves the query result in XML and produces cleaner text.
+def tkl_triple_xml(pair_list):
+    # Dictionary with category 1 pages as keys and category 2 pages
+    # as values
+    key_set_dict = group_pairs_into_dict(pair_list)
+
+    # List that concatenates the result of each query and makes the tkl triple
+    tkl_list = []
+    i = 1
+    # Execute a query for each page in category 1 (first page of the tuple of pair_list)
+    for page_key in key_set_dict.keys():
+        site = wiki.Wiki("http://en.wikipedia.org/w/api.php")
+        params = {'action': 'query',
+            'prop': 'extracts',
+            'format': 'xml',
+            'titles': page_key}
+        req = api.APIRequest(site, params)
+        res = req.query(querycontinue=False)
+        #pprint.pprint(res)
+        key = res['query']['pages'].keys()[0]
+        text = res['query']['pages'][key]['extract']
+
+        tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
+
+        print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
+        i += 1
+
+    return tkl_list
 
 def main():
     #Input files for the categories generated with Catscan2
@@ -166,18 +196,21 @@ def main():
     #how many pages to process per query.
     outlinks_dict_of_category1 = find_outlinks([u'Il_Canzoniere',u'The_Raven', u'The_Canterbury_Tales'], 1)
     #outlinks_dict_of_category1 = find_outlinks(cat1_page_list, 1)
-    print outlinks_dict_of_category1
+    print "Outlinks of category1: "+str(outlinks_dict_of_category1)
 
     #Will create a list of tuples. Each tuple is a pair of (page_in_category1, page_in_category2).
     #The tuple exists in the list if page_in_category2 is in the output links of page_in_category1.
     pair_list = find_pairs(outlinks_dict_of_category1, cat2_page_list)
-    print pair_list
+    print "Pair list: "+str(pair_list)
 
     #Builds a list of triple (text, key, list).
     #Text is the text in the category 1 pages (of the key)
     #Key are the category 1 pages
     #List is  the list of pages in category 2 that appear in the category 1 page
-    tkl_triple_list = tkl_triple(pair_list)
+    # RAW TEXT TRIPLET
+    # tkl_triple_list = tkl_triple(pair_list)
+    # CLEAN TRIPLET
+    tkl_triple_list = tkl_triple_xml(pair_list)
 
     print "*******************************"
     for t in tkl_triple_list:
