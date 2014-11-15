@@ -1,7 +1,7 @@
 from wikitools import wiki, api
 import xml.etree.ElementTree as ET
 import pprint
-
+from extract_text import get_ranking
 
 #Receives a filename string as input and will return a list with each of the lines.
 def read_category_to_list(filename):
@@ -213,10 +213,10 @@ def main():
     tkl_triple_list = tkl_triple_xml(pair_list)
 
     print "*******************************"
-    for t in tkl_triple_list:
+    for t in []:# tkl_triple_list:
         print "*******************************"
         print t
         print "*******************************"
     print "*******************************"
-
+    get_ranking(tkl_triple_list)
 main()
