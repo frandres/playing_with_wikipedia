@@ -43,7 +43,7 @@ def find_outlinks(page_list, window_size):
     #List of query strings, where each element in the list is a string joined
     #by '|' containing the number of pages specified by window size.
     query_strings = generate_query_strings(page_list, window_size)
-    print query_strings
+    #print query_strings
 
     #Now executing each of the queries in query strings.
     i=1
@@ -82,8 +82,8 @@ def find_outlinks(page_list, window_size):
         # Save all the output links in the dictionary for the current query.
         page_link_dict[query] = title_list
 
-        print("Outlink query "+str(i)+" of "+str(len(query_strings))+" complete.")
-        i += 1
+        #print("Outlink query "+str(i)+" of "+str(len(query_strings))+" complete.")
+        i += 1  
 
     return page_link_dict
 
@@ -146,7 +146,7 @@ def tkl_triple(pair_list):
         text = res['query']['export']['*']
         tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
 
-        print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
+        #print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
         i += 1
 
     return tkl_list
@@ -176,7 +176,7 @@ def tkl_triple_xml(pair_list):
 
         tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
 
-        print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
+        #print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
         i += 1
 
     return tkl_list
@@ -194,14 +194,14 @@ def main():
     #and the values being all of the output links for that page. Receives as parameter
     #a list of pages for a certain category, and a window size that will define
     #how many pages to process per query.
-    outlinks_dict_of_category1 = find_outlinks([u'Il_Canzoniere',u'The_Raven', u'The_Canterbury_Tales'], 1)
-    #outlinks_dict_of_category1 = find_outlinks(cat1_page_list, 1)
-    print "Outlinks of category1: "+str(outlinks_dict_of_category1)
+    #outlinks_dict_of_category1 = find_outlinks([u'Il_Canzoniere',u'The_Raven', u'The_Canterbury_Tales'], 1)
+    outlinks_dict_of_category1 = find_outlinks(cat1_page_list, 1)
+    #print "Outlinks of category1: "+str(outlinks_dict_of_category1)
 
     #Will create a list of tuples. Each tuple is a pair of (page_in_category1, page_in_category2).
     #The tuple exists in the list if page_in_category2 is in the output links of page_in_category1.
     pair_list = find_pairs(outlinks_dict_of_category1, cat2_page_list)
-    print "Pair list: "+str(pair_list)
+    #print "Pair list: "+str(pair_list)
 
     #Builds a list of triple (text, key, list).
     #Text is the text in the category 1 pages (of the key)
@@ -212,11 +212,13 @@ def main():
     # CLEAN TRIPLET
     tkl_triple_list = tkl_triple_xml(pair_list)
 
+    '''
     print "*******************************"
-    for t in []:# tkl_triple_list:
+    for t in tkl_triple_list:
         print "*******************************"
         print t
         print "*******************************"
     print "*******************************"
+    '''
     get_ranking(tkl_triple_list)
 main()

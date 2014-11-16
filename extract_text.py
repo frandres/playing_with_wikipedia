@@ -9,13 +9,13 @@ def get_ranking(pairs, minimum_freq = 1):
     i = 0
     for (text,ids0,ids1) in pairs:
         i+=1
-        if i ==3:
-            break
         for t in extract_all_contexts(ids0,ids1,text,both_ways=True):
             if t in frequency:
                 frequency[t]+=1
             else:
                 frequency[t] = 1.0
+
+    print 'Found: ' + str(len(frequency.keys())) + ' contexts.'
 
     sorted_text = []
     for (text,freq) in frequency.items():
@@ -25,8 +25,8 @@ def get_ranking(pairs, minimum_freq = 1):
     sorted_text.sort(reverse= True)
 
     print '-------------- RANKING ----------------'
-    for i in range(0,min(10,len(sorted_text))):
-        print str(i) + ' |' + sorted_text[i][1] + '| with freq: '+ str(sorted_text[i][0])
+    for i in range(0,min(50,len(sorted_text))):
+        print str(i) + ' |' + sorted_text[i][1].encode('utf8') + '| with freq: '+ str(sorted_text[i][0])
         print ' '
 
 def extract_closest_context(regexp,string):
