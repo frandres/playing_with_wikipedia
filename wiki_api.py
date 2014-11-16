@@ -1,7 +1,18 @@
 from wikitools import wiki, api
-import xml.etree.ElementTree as ET
 import pprint
 from extract_text import get_ranking
+import sys
+import cPickle as pickle
+
+
+# Class that allows redirecting all prints and system messages to a file, and printing to the console at the same time.
+class Redirect(object):
+    def __init__(self, *files):
+        self.files = files
+    def write(self, obj):
+        for f in self.files:
+            f.write(obj)
+
 
 #Receives a filename string as input and will return a list with each of the lines.
 def read_category_to_list(filename):
@@ -46,7 +57,8 @@ def find_outlinks(page_list, window_size):
     #print query_strings
 
     #Now executing each of the queries in query strings.
-    i=1
+    i = 1
+    skipped = 0
     for query in query_strings:
         params = {'action' : 'query',
             'prop' : 'links',
@@ -71,20 +83,27 @@ def find_outlinks(page_list, window_size):
         #   "ns": 0,
         #   "title": "Metaphysics"
         #   }
-        # Contains all the links (in the pllimit) and the property ns (not used).
-        raw_title_list = query_result['query']['pages'][page_ids]['links']
 
-        # Save all the page titles into a list by scrolling on the previous dictionary.
-        title_list = []
-        for elem in raw_title_list:
-            title_list.append(elem['title'].replace(" ", "_"))
+        try:
+            # Contains all the links (in the pllimit) and the property ns (not used).
+            raw_title_list = query_result['query']['pages'][page_ids]['links']
 
-        # Save all the output links in the dictionary for the current query.
-        page_link_dict[query] = title_list
+            # Save all the page titles into a list by scrolling on the previous dictionary.
+            title_list = []
+            for elem in raw_title_list:
+                title_list.append(elem['title'].replace(" ", "_"))
 
-        #print("Outlink query "+str(i)+" of "+str(len(query_strings))+" complete.")
-        i += 1  
+            # Save all the output links in the dictionary for the current query.
+            page_link_dict[query] = title_list
 
+            print("Outlink query "+str(i)+" of "+str(len(query_strings))+" complete.")
+        except Exception:
+            print("Outlink query "+str(i)+" of "+str(len(query_strings))+" failed.")
+            skipped += 1
+        i += 1
+
+    if skipped != 0:
+        print("Skipped: "+str(skipped)+" outlink searches due to error in keys.")
     return page_link_dict
 
 
@@ -97,7 +116,6 @@ def find_pairs(outlinks_dict_of_category1, category2_list):
         list_of_pages = outlinks_dict_of_category1[page_id]
 
         for page in list_of_pages:
-            # TODO : FIX UNICODE ISSUE
             if page in category2_list:
                 tuple_list.append((page_id, page))
 
@@ -146,7 +164,7 @@ def tkl_triple(pair_list):
         text = res['query']['export']['*']
         tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
 
-        #print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
+        print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
         i += 1
 
     return tkl_list
@@ -176,12 +194,17 @@ def tkl_triple_xml(pair_list):
 
         tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
 
-        #print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
+        print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
         i += 1
 
     return tkl_list
 
-def main():
+
+def create_triplet_database():
+    #Initialize writer to console and file
+    f = open('output.txt', 'w')
+    sys.stdout = Redirect(sys.stdout, f)
+
     #Input files for the categories generated with Catscan2
     category1 = "List_of_poems_depth_100.txt"
     category2 = "List_of_poets_depth_100.txt"
@@ -209,8 +232,13 @@ def main():
     #List is  the list of pages in category 2 that appear in the category 1 page
     # RAW TEXT TRIPLET
     # tkl_triple_list = tkl_triple(pair_list)
+
     # CLEAN TRIPLET
     tkl_triple_list = tkl_triple_xml(pair_list)
+
+    #Once the queries are finished, will dump triplet object to file:
+    pickle.dump(tkl_triple_list, open("triplets_poems.pkl", 'wb'), -1)
+    print "Pickle dumped triplets successfully!"
 
     '''
     print "*******************************"
@@ -220,5 +248,14 @@ def main():
         print "*******************************"
     print "*******************************"
     '''
-    get_ranking(tkl_triple_list)
-main()
+
+###############
+# START
+###############
+#If the line below is enabled, all the queries will be executed, a "triplets_poems.pkl" file containing all the
+#triplets will be generated.
+#create_triplet_database()
+
+#Loading the triplets from file and running the ranking function
+tkl_triple_list = pickle.load(open("triplets_poems.pkl", 'rb'))
+get_ranking(tkl_triple_list)
