@@ -20,7 +20,6 @@ def dump_contexts(triplets, dump_name = 'dump.pkl'):
 
         # Let's now get all contexts and building a list with it.
         for t in extract_all_contexts(preprocess_ids(ids0),preprocess_ids(ids1),text,both_ways=True):
-            t = preprocess_context(t)
             contexts.append(t)
 
     pickle.dump(contexts, open(dump_name, 'wb'), -1)
