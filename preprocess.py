@@ -18,8 +18,8 @@ class MLStripper(HTMLParser):
 
 def preprocess_id(ids):
     ids = ids.replace('_',' ')
-    ids = ids.replace('(','\\\\(')
-    ids = ids.replace(')','\\\\)')
+    ids = ids.replace('(','\(')
+    ids = ids.replace(')','\)')
     return ids
 
 def preprocess_ids(ids):
@@ -28,14 +28,14 @@ def preprocess_ids(ids):
 
 def preprocess_context(context):
     # Remove punctuation signs
-    punctuation='()?:;,.!/"\''
     for p in punctuation:
-        context.replace(p,' ')
+        context = context.replace(p,' ')
     '''
     # Lemmatize
     wnl = WordNetLemmatizer()
     context = wnl.lemmatize(context)
     '''
+    context = context.strip()
     return context
 
     
