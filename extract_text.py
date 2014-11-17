@@ -1,6 +1,5 @@
 import re
 from nltk.tokenize import sent_tokenize
-import itertools
 
 def extract_closest_context(regexp,string):
     match = re.search(regexp,string)

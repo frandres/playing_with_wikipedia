@@ -22,6 +22,10 @@ def preprocess_id(ids):
     ids = ids.replace(')','\\\\)')
     return ids
 
+def preprocess_ids(ids):
+    for i in ids:
+        yield preprocess_id(i)
+
 def preprocess_context(context):
     # Remove punctuation signs
     punctuation='()?:;,.!/"\''

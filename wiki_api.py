@@ -1,6 +1,7 @@
 from wikitools import wiki, api
 import pprint
 from ranking import get_ranking
+from dump_contexts import dump_contexts
 import sys
 import cPickle as pickle
 
@@ -258,5 +259,6 @@ def create_triplet_database():
 
 #Loading the triplets from file and running the ranking function
 tkl_triple_list = pickle.load(open("triplets_poems.pkl", 'rb'))
-test = tkl_triple_list[0:500]
-get_ranking(test)
+test = tkl_triple_list[0:10]
+dump_contexts(test)
+#get_ranking(test)
