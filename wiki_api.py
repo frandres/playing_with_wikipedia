@@ -259,6 +259,7 @@ def create_triplet_database():
 
 #Loading the triplets from file and running the ranking function
 tkl_triple_list = pickle.load(open("triplets_poems.pkl", 'rb'))
-test = tkl_triple_list[0:10]
-dump_contexts(test)
-#get_ranking(test)
+test = tkl_triple_list[0:500]
+#dump_contexts(test, 'poems_500.pkl')
+cs = pickle.load(open("poems_500.pkl", 'rb'))
+get_ranking(test,contexts= cs)
