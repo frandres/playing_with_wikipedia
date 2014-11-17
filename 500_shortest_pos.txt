@@ -1,0 +1,270 @@
+-------------- RANKING ----------------
+0 |is a poem by| with freq: 926.0
+ 
+1 |is a poem by poet| with freq: 45.0
+ 
+2 |is a poem from| with freq: 34.0
+ 
+3 |is a poem by the| with freq: 25.0
+ 
+4 |is a poetry by| with freq: 24.0
+ 
+5 |is an poem by| with freq: 20.0
+ 
+6 |is a collection by| with freq: 20.0
+ 
+7 |is a collection of poetry by| with freq: 16.0
+ 
+8 |is a collection of by| with freq: 16.0
+ 
+9 |is collection of poetry| with freq: 14.0
+ 
+10 |is a poem by the poet| with freq: 14.0
+ 
+11 |is a sonnet by| with freq: 11.0
+ 
+12 |is a book of poems by| with freq: 10.0
+ 
+13 |is a book of by| with freq: 10.0
+ 
+14 |is a poem the| with freq: 8.0
+ 
+15 |is a poem in by| with freq: 7.0
+ 
+16 |is a book by| with freq: 7.0
+ 
+17 |was the son of| with freq: 5.0
+ 
+18 |is book of by| with freq: 5.0
+ 
+19 |is a poem by English| with freq: 5.0
+ 
+20 |Greek   was to| with freq: 5.0
+ 
+21 |Greek   was| with freq: 5.0
+ 
+22 |is a poem to| with freq: 4.0
+ 
+23 |is a poem of| with freq: 4.0
+ 
+24 |is a poem in| with freq: 4.0
+ 
+25 |is a Middle of the| with freq: 4.0
+ 
+26 |Μύδων  gen   Μύδωνος  was one of the defenders of| with freq: 3.0
+ 
+27 |the  was a| with freq: 3.0
+ 
+28 |is an poem written| with freq: 3.0
+ 
+29 |is a work by| with freq: 3.0
+ 
+30 |is a translation into Middle Scots of the Latin| with freq: 3.0
+ 
+31 |is a poetry collection by| with freq: 3.0
+ 
+32 |is a poem in the| with freq: 3.0
+ 
+33 |is a poem by writer| with freq: 3.0
+ 
+34 |is a poem by American poet| with freq: 3.0
+ 
+35 |is a collection of poetry by the| with freq: 3.0
+ 
+36 |is a character in| with freq: 3.0
+ 
+37 |Middle English  The Prioresses Tale  follows| with freq: 3.0
+ 
+38 |Ancient Greek  Πάνθοος   son of Othryas  was an elder of| with freq: 3.0
+ 
+39 |Ancient Greek    was| with freq: 3.0
+ 
+40 |Μύδων  gen   Μύδωνος  was one of the defenders of Troy in| with freq: 2.0
+ 
+41 |was the son of the| with freq: 2.0
+ 
+42 |was a king of of| with freq: 2.0
+ 
+43 |is the poetry of| with freq: 2.0
+ 
+44 |is the collection the| with freq: 2.0
+ 
+45 |is the collection of the poetry of Bahr ul uloom Hazrat Moulana Maulvi| with freq: 2.0
+ 
+46 |is the  the| with freq: 2.0
+ 
+47 |is collection of the| with freq: 2.0
+ 
+48 |is book of poetry by| with freq: 2.0
+ 
+49 |is a translation into Middle Scots of the Latin Virgil s| with freq: 2.0
+ 
+50 |is a poem by in the| with freq: 2.0
+ 
+51 |is a part of| with freq: 2.0
+ 
+52 |is a collection of by the| with freq: 2.0
+ 
+53 |is a book of poetry by| with freq: 2.0
+ 
+54 |The  is a poem| with freq: 2.0
+ 
+55 |The  is a| with freq: 2.0
+ 
+56 |Middle English  The Prioresses Tale  follows The Shipman s Tale in| with freq: 2.0
+ 
+57 |Greek   was and| with freq: 2.0
+ 
+58 |Greek   was Greek| with freq: 2.0
+ 
+59 |” is a poem by American poet| with freq: 1.0
+ 
+60 |Ἐτεωνεύς  was the son of Boethous  and King| with freq: 1.0
+ 
+61 |Μύδων  gen   Μύδωνος  was one of the defenders of Troy in Homer s| with freq: 1.0
+ 
+62 |ˈmaɪnɒs  or  ˈmaɪnəs   Greek  Μίνως  Minōs  was a king of Crete  son of| with freq: 1.0
+ 
+63 |ˈhɛrə   Greek Ἥρα  Hēra  equivalently Ἥρη  Hērē  in Ionic and Homer  is the wife and one of three sisters of| with freq: 1.0
+ 
+64 |was the son of and| with freq: 1.0
+ 
+65 |was the son of  and| with freq: 1.0
+ 
+66 |was a king of| with freq: 1.0
+ 
+67 |subtitled The Great Renunciation  is a book by| with freq: 1.0
+ 
+68 |s  is a poem to| with freq: 1.0
+ 
+69 |s  is a poem| with freq: 1.0
+ 
+70 |or was son of| with freq: 1.0
+ 
+71 |or Nausinoös was the son of| with freq: 1.0
+ 
+72 |or Brut is a verse literary history of Britain by the poet| with freq: 1.0
+ 
+73 |known as  is a poem by poet| with freq: 1.0
+ 
+74 |is two poems by| with freq: 1.0
+ 
+75 |is the collection of the poetry of Bahr ul uloom Hazrat Moulana Maulvi Muhammad Abdul Qadeer Siddiqi Qadri| with freq: 1.0
+ 
+76 |is the  as| with freq: 1.0
+ 
+77 |is published work by writer| with freq: 1.0
+ 
+78 |is poem the century| with freq: 1.0
+ 
+79 |is an poem the| with freq: 1.0
+ 
+80 |is an award winning poem by the Indian English poet| with freq: 1.0
+ 
+81 |is a work by Spanish Romantic poet| with freq: 1.0
+ 
+82 |is a verse by| with freq: 1.0
+ 
+83 |is a sonnet by the English Romantic poet| with freq: 1.0
+ 
+84 |is a series of poems by| with freq: 1.0
+ 
+85 |is a prose by| with freq: 1.0
+ 
+86 |is a poem of by| with freq: 1.0
+ 
+87 |is a poem in the form of a dream vision by| with freq: 1.0
+ 
+88 |is a poem from the collection A Door in the Hive written by| with freq: 1.0
+ 
+89 |is a poem from one of| with freq: 1.0
+ 
+90 |is a poem by the American Quaker poet| with freq: 1.0
+ 
+91 |is a poem by prolific Australian writer and poet| with freq: 1.0
+ 
+92 |is a poem by century poet| with freq: 1.0
+ 
+93 |is a poem by Nigerian writer| with freq: 1.0
+ 
+94 |is a poem by English poet| with freq: 1.0
+ 
+95 |is a poem by English author| with freq: 1.0
+ 
+96 |is a poem by Australian poet| with freq: 1.0
+ 
+97 |is a poem by 8th century Chinese poet| with freq: 1.0
+ 
+98 |is a poem attributed to| with freq: 1.0
+ 
+99 |is a cycle of poems by the| with freq: 1.0
+ 
+100 |is a compilation of 100 poems by| with freq: 1.0
+ 
+101 |is a collection the| with freq: 1.0
+ 
+102 |is a collection of poetry by writer| with freq: 1.0
+ 
+103 |is a collection of poetry by the English author| with freq: 1.0
+ 
+104 |is a collection of poetry by poet| with freq: 1.0
+ 
+105 |is a collection of poetry by African American writer and poet| with freq: 1.0
+ 
+106 |is a collection of poems by| with freq: 1.0
+ 
+107 |is a collection of haiku poetry by| with freq: 1.0
+ 
+108 |is a collection of by writer| with freq: 1.0
+ 
+109 |is a collection of by the writer| with freq: 1.0
+ 
+110 |is a collection of by and| with freq: 1.0
+ 
+111 |is a c  by| with freq: 1.0
+ 
+112 |is a book of poems by former English Poet Laureate| with freq: 1.0
+ 
+113 |is a Shakespeare s| with freq: 1.0
+ 
+114 |is a Breton lai by the medieval poet| with freq: 1.0
+ 
+115 |genus 
+In Homer s| with freq: 1.0
+ 
+116 |en  is prose by| with freq: 1.0
+ 
+117 |and other poems is a book of poems by| with freq: 1.0
+ 
+118 |The King s Book   is a fifteenth century poem attributed to| with freq: 1.0
+ 
+119 |The Contemplations  is a collection of poetry by| with freq: 1.0
+ 
+120 |Sanskrit  पाण्‍डु Pāṇḍu  is the son of Ambalika and Rishi Veda| with freq: 1.0
+ 
+121 |Russian  Сказка о рыбаке и рыбке  Skazka o rybake i rybke  is a fairy tale in verse by| with freq: 1.0
+ 
+122 |Russian  Сказка о  Skazka o  is fairy tale in verse by| with freq: 1.0
+ 
+123 |Poem is  the| with freq: 1.0
+ 
+124 |Middle English  The Prioresses Tale  follows The Shipman s Tale in Geoffrey Chaucer s| with freq: 1.0
+ 
+125 |Magardhwaja as per Hindu Mythology  is son of Hanuman  who makes his appearance in epic| with freq: 1.0
+ 
+126 |Greek  Ἀστεροπαῖος  Latin  Asteropaeus  was a leader of the Trojan allied Paeonians along with fellow warrior| with freq: 1.0
+ 
+127 |Greek  Ταλθύβιος  was herald and friend to| with freq: 1.0
+ 
+128 |Greek   was Greek epic| with freq: 1.0
+ 
+129 |German  Das Buch der Bilder  is a collection of poetry by the Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+130 |German   is a collection of by Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+131 |Capital of Pain  is a book of poems by French surrealist poet| with freq: 1.0
+ 
+132 |Ancient Greek  Ἀμφιμέδων  was the son of Melaneus and one of the suitors of| with freq: 1.0
+ 
+133 |Ancient Greek   was| with freq: 1.0
+ 
