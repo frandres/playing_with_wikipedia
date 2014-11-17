@@ -1,0 +1,6920 @@
+-------------- RANKING ----------------
+0 |is a poem by| with freq: 184752.0
+ 
+1 |is a poem by poet| with freq: 8227.0
+ 
+2 |is a poem by the| with freq: 3559.0
+ 
+3 |is a collection by| with freq: 3125.0
+ 
+4 |is a poem by the poet| with freq: 2880.0
+ 
+5 |is an poem by| with freq: 2067.0
+ 
+6 |is a poem from| with freq: 2066.0
+ 
+7 |is a poem in by| with freq: 2008.0
+ 
+8 |is a poetry by| with freq: 1667.0
+ 
+9 |is a poem in| with freq: 1586.0
+ 
+10 |is a poem the| with freq: 1489.0
+ 
+11 |is a poetry collection by| with freq: 1379.0
+ 
+12 |is a collection of by| with freq: 1220.0
+ 
+13 |is a book by| with freq: 703.0
+ 
+14 |is a collection of poems by| with freq: 684.0
+ 
+15 |is a poem by the English poet| with freq: 651.0
+ 
+16 |is epic poem by| with freq: 491.0
+ 
+17 |is a poem by English poet| with freq: 476.0
+ 
+18 |is a poem by writer| with freq: 341.0
+ 
+19 |is a poem by and| with freq: 329.0
+ 
+20 |is a poem by American poet| with freq: 328.0
+ 
+21 |is a poem poet| with freq: 312.0
+ 
+22 |is a poem by American| with freq: 302.0
+ 
+23 |is a collection of| with freq: 299.0
+ 
+24 |is a poem of| with freq: 291.0
+ 
+25 |is a book of by| with freq: 291.0
+ 
+26 |is collection of by| with freq: 287.0
+ 
+27 |is a collection of poetry by| with freq: 286.0
+ 
+28 |is a sonnet by| with freq: 279.0
+ 
+29 |is a poem  by| with freq: 258.0
+ 
+30 |is a poem by English| with freq: 219.0
+ 
+31 |was the son of| with freq: 213.0
+ 
+32 |is one of the English poet| with freq: 195.0
+ 
+33 |is one of by English poet| with freq: 192.0
+ 
+34 |is a poem written| with freq: 187.0
+ 
+35 |is a poem in the| with freq: 184.0
+ 
+36 |The  is a poem by| with freq: 184.0
+ 
+37 |of  is a poem by| with freq: 181.0
+ 
+38 |the  is a poem by| with freq: 178.0
+ 
+39 |is a book of poems by| with freq: 170.0
+ 
+40 |is a poem the poet| with freq: 168.0
+ 
+41 |The  is a| with freq: 163.0
+ 
+42 |is a collection by poet| with freq: 141.0
+ 
+43 |is a verse by| with freq: 133.0
+ 
+44 |is   by| with freq: 133.0
+ 
+45 |The  is a poem| with freq: 126.0
+ 
+46 |was a son of| with freq: 125.0
+ 
+47 |is a line poem by| with freq: 121.0
+ 
+48 |is a poem to| with freq: 117.0
+ 
+49 |is a language by| with freq: 112.0
+ 
+50 |of   is a poem by| with freq: 104.0
+ 
+51 |of  is poem by| with freq: 100.0
+ 
+52 |is collection of poems by| with freq: 99.0
+ 
+53 |is a poem and| with freq: 99.0
+ 
+54 |is one of the English| with freq: 97.0
+ 
+55 |is one of by the English poet| with freq: 95.0
+ 
+56 |is one of by poet| with freq: 95.0
+ 
+57 |is one of 154 sonnets by the English playwright and poet| with freq: 95.0
+ 
+58 |is a book of poetry by| with freq: 95.0
+ 
+59 |English   is| with freq: 93.0
+ 
+60 |is one of 154 sonnets by| with freq: 92.0
+ 
+61 |is one of sonnets| with freq: 89.0
+ 
+62 |is the poem by| with freq: 88.0
+ 
+63 |is a ballad by| with freq: 86.0
+ 
+64 |is the  of| with freq: 82.0
+ 
+65 |is a collection of poems| with freq: 82.0
+ 
+66 |is a poem by in| with freq: 81.0
+ 
+67 |Ancient Greek   was| with freq: 81.0
+ 
+68 |is a poem in by poet| with freq: 80.0
+ 
+69 |is collection of poetry by| with freq: 73.0
+ 
+70 |is a poem  of| with freq: 71.0
+ 
+71 |The  is poem by| with freq: 71.0
+ 
+72 |is book of by| with freq: 70.0
+ 
+73 |is an poem by the| with freq: 70.0
+ 
+74 |is the name of| with freq: 68.0
+ 
+75 |is a book of| with freq: 68.0
+ 
+76 |is an poem the| with freq: 66.0
+ 
+77 |is an poem by poet| with freq: 66.0
+ 
+78 |is a poem by the writer| with freq: 66.0
+ 
+79 |is a play by| with freq: 65.0
+ 
+80 |is a poem in by the poet| with freq: 64.0
+ 
+81 |is a poem   by| with freq: 63.0
+ 
+82 |is a poem was| with freq: 62.0
+ 
+83 |is a Scots by| with freq: 62.0
+ 
+84 |is narrative poem by| with freq: 61.0
+ 
+85 |is a prose by| with freq: 60.0
+ 
+86 |or    is| with freq: 59.0
+ 
+87 |is a poem by the English| with freq: 59.0
+ 
+88 |was a son of and| with freq: 57.0
+ 
+89 |the   is a poem by| with freq: 56.0
+ 
+90 |The  is the| with freq: 56.0
+ 
+91 |is one by English| with freq: 55.0
+ 
+92 |is a poem of by| with freq: 55.0
+ 
+93 |Ancient Greek    was| with freq: 55.0
+ 
+94 |the  is a| with freq: 54.0
+ 
+95 |or   was| with freq: 54.0
+ 
+96 |or  is poem by| with freq: 52.0
+ 
+97 |is a collection of poems by poet| with freq: 52.0
+ 
+98 |is a poem in by the| with freq: 51.0
+ 
+99 |is a poem by  the| with freq: 51.0
+ 
+100 |Greek   was| with freq: 51.0
+ 
+101 |or  is a poem by| with freq: 50.0
+ 
+102 |or   is| with freq: 50.0
+ 
+103 |is a poem attributed to| with freq: 49.0
+ 
+104 |is a poem by and poet| with freq: 47.0
+ 
+105 |Greek    is| with freq: 47.0
+ 
+106 |is collection of poetry| with freq: 46.0
+ 
+107 |is a character in| with freq: 46.0
+ 
+108 |of   is| with freq: 45.0
+ 
+109 |is a poem by the poet and| with freq: 45.0
+ 
+110 |is a collection of by poet| with freq: 45.0
+ 
+111 |is a poem in  by| with freq: 43.0
+ 
+112 |English   is a| with freq: 43.0
+ 
+113 |is the  in| with freq: 41.0
+ 
+114 |is a poem by American writer| with freq: 41.0
+ 
+115 |is a poem  in| with freq: 41.0
+ 
+116 |is an poem by the poet| with freq: 40.0
+ 
+117 |is a work by| with freq: 40.0
+ 
+118 |is a poem by of| with freq: 40.0
+ 
+119 |as  is a poem by| with freq: 40.0
+ 
+120 |English  The  is| with freq: 40.0
+ 
+121 |is the   of| with freq: 39.0
+ 
+122 |is epic poem the| with freq: 39.0
+ 
+123 |is a poem that| with freq: 39.0
+ 
+124 |is a collection by the| with freq: 39.0
+ 
+125 |The   is a poem by| with freq: 39.0
+ 
+126 |is the  the| with freq: 38.0
+ 
+127 |is the  by| with freq: 38.0
+ 
+128 |is one of The Canterbury Tales by| with freq: 38.0
+ 
+129 |is a poem in of| with freq: 38.0
+ 
+130 |or    is a| with freq: 37.0
+ 
+131 |is book of poems by| with freq: 37.0
+ 
+132 |is a poem by author| with freq: 36.0
+ 
+133 |the  is poem by| with freq: 35.0
+ 
+134 |is epic poem by the| with freq: 35.0
+ 
+135 |is  poem by| with freq: 35.0
+ 
+136 |is a poetry collection by Finnish poet| with freq: 34.0
+ 
+137 |is a poem in and| with freq: 34.0
+ 
+138 |is a poem by Irish poet| with freq: 34.0
+ 
+139 |English  is a| with freq: 34.0
+ 
+140 |is a poem written the| with freq: 33.0
+ 
+141 |is a poem published| with freq: 33.0
+ 
+142 |is a poem by writer and| with freq: 33.0
+ 
+143 |is a collection of by the| with freq: 33.0
+ 
+144 |was a poem by| with freq: 31.0
+ 
+145 |or  is a poem| with freq: 31.0
+ 
+146 |is book of poetry by| with freq: 31.0
+ 
+147 |is an poem written| with freq: 31.0
+ 
+148 |of    is| with freq: 30.0
+ 
+149 |is an poem in by| with freq: 29.0
+ 
+150 |is a poem composed| with freq: 29.0
+ 
+151 |is a poem and by| with freq: 29.0
+ 
+152 |as    is a poem by| with freq: 29.0
+ 
+153 |Greek   is| with freq: 29.0
+ 
+154 |is a poetry by poet| with freq: 28.0
+ 
+155 |is a poem by poet and| with freq: 28.0
+ 
+156 |is a Middle by| with freq: 28.0
+ 
+157 |in   is| with freq: 28.0
+ 
+158 |is the poems by| with freq: 27.0
+ 
+159 |is poem the poet| with freq: 27.0
+ 
+160 |was the son of the| with freq: 26.0
+ 
+161 |the  is a poem| with freq: 26.0
+ 
+162 |is a poem  by poet| with freq: 26.0
+ 
+163 |is the name by| with freq: 25.0
+ 
+164 |is a poem in  the| with freq: 25.0
+ 
+165 |is a poem by in the| with freq: 25.0
+ 
+166 |as  is poem by| with freq: 25.0
+ 
+167 |The   is| with freq: 25.0
+ 
+168 |A  is a poem by| with freq: 25.0
+ 
+169 |the   is a| with freq: 24.0
+ 
+170 |or    is the| with freq: 24.0
+ 
+171 |is a poem by the Scottish poet| with freq: 24.0
+ 
+172 |also The  is| with freq: 24.0
+ 
+173 |The   is a| with freq: 24.0
+ 
+174 |is collection of poems by poet| with freq: 23.0
+ 
+175 |is a poem by the Roman poet| with freq: 23.0
+ 
+176 |was the son of and| with freq: 22.0
+ 
+177 |was   and| with freq: 22.0
+ 
+178 |is epic poem by poet| with freq: 22.0
+ 
+179 |is collection of the| with freq: 22.0
+ 
+180 |is collection by poet| with freq: 22.0
+ 
+181 |is a sonnet by the English poet| with freq: 22.0
+ 
+182 |is a poem by  in| with freq: 22.0
+ 
+183 |in  is a poem by| with freq: 22.0
+ 
+184 |or is a poem by| with freq: 21.0
+ 
+185 |or   is a| with freq: 21.0
+ 
+186 |of  is poem by the poet| with freq: 21.0
+ 
+187 |is a poem by Sir| with freq: 21.0
+ 
+188 |is a play by the| with freq: 21.0
+ 
+189 |is a collection the| with freq: 21.0
+ 
+190 |The  is poem| with freq: 21.0
+ 
+191 |to  is a poem by| with freq: 20.0
+ 
+192 |the   is poem by| with freq: 20.0
+ 
+193 |of  is a poem by poet| with freq: 20.0
+ 
+194 |is an poem in| with freq: 20.0
+ 
+195 |is a poem the  of| with freq: 20.0
+ 
+196 |is a collection by poet and| with freq: 20.0
+ 
+197 |is   in| with freq: 20.0
+ 
+198 |Ancient Greek    is| with freq: 20.0
+ 
+199 |was the son of  and| with freq: 19.0
+ 
+200 |the   is a poem| with freq: 19.0
+ 
+201 |the   is| with freq: 19.0
+ 
+202 |is a Shakespeare s| with freq: 19.0
+ 
+203 |The   is a poem| with freq: 19.0
+ 
+204 |Greek   was a son of| with freq: 19.0
+ 
+205 |Ancient Greek   is| with freq: 19.0
+ 
+206 |A  is poem by| with freq: 19.0
+ 
+207 |or   is a poem by| with freq: 18.0
+ 
+208 |is the name of by| with freq: 18.0
+ 
+209 |is the  and| with freq: 18.0
+ 
+210 |is epic poem by the poet| with freq: 18.0
+ 
+211 |is a poem in by the English poet| with freq: 18.0
+ 
+212 |is a poem by William in| with freq: 18.0
+ 
+213 |Ancient Greek   was the son of| with freq: 18.0
+ 
+214 |is written the poet| with freq: 17.0
+ 
+215 |is written the playwright and| with freq: 17.0
+ 
+216 |is a poem by British poet| with freq: 17.0
+ 
+217 |is a poem by  and| with freq: 17.0
+ 
+218 |is   to| with freq: 17.0
+ 
+219 |is   the| with freq: 17.0
+ 
+220 |The  is a poem in by| with freq: 17.0
+ 
+221 |Ancient Greek   was son of| with freq: 17.0
+ 
+222 |s  is poem by| with freq: 16.0
+ 
+223 |of  is poem by poet| with freq: 16.0
+ 
+224 |is the son of| with freq: 16.0
+ 
+225 |is the poet and| with freq: 16.0
+ 
+226 |is a poem in in| with freq: 16.0
+ 
+227 |is a poem  and| with freq: 16.0
+ 
+228 |is a novel by| with freq: 16.0
+ 
+229 |is a film by| with freq: 16.0
+ 
+230 |The  is one of| with freq: 16.0
+ 
+231 |A   is a poem by| with freq: 16.0
+ 
+232 |” is a poem by| with freq: 15.0
+ 
+233 |on  is a poem by| with freq: 15.0
+ 
+234 |of  is a poem| with freq: 15.0
+ 
+235 |is epic poem  by| with freq: 15.0
+ 
+236 |is a poem  in by| with freq: 15.0
+ 
+237 |is a collection of the| with freq: 15.0
+ 
+238 |is a collection by writer| with freq: 15.0
+ 
+239 |is a collection by and| with freq: 15.0
+ 
+240 |is a Greek in| with freq: 15.0
+ 
+241 |The   is poem by| with freq: 15.0
+ 
+242 |was a son of and of| with freq: 14.0
+ 
+243 |of   is a| with freq: 14.0
+ 
+244 |is an poem by writer| with freq: 14.0
+ 
+245 |is a poem from of| with freq: 14.0
+ 
+246 |is a poem by the American| with freq: 14.0
+ 
+247 |is a poem by the  and the| with freq: 14.0
+ 
+248 |is a poem by William| with freq: 14.0
+ 
+249 |is a poem by Roman poet| with freq: 14.0
+ 
+250 |is a drama by| with freq: 14.0
+ 
+251 |is a collection of by the poet| with freq: 14.0
+ 
+252 |is a Greek poem| with freq: 14.0
+ 
+253 |is a Breton lai by| with freq: 14.0
+ 
+254 |in  is a collection by| with freq: 14.0
+ 
+255 |also    the| with freq: 14.0
+ 
+256 |Latin     is| with freq: 14.0
+ 
+257 |Greek   was a| with freq: 14.0
+ 
+258 |English  is a collection by| with freq: 14.0
+ 
+259 |was the son of of| with freq: 13.0
+ 
+260 |was the son of King| with freq: 13.0
+ 
+261 |or     is| with freq: 13.0
+ 
+262 |is the work of| with freq: 13.0
+ 
+263 |is a poem by published in| with freq: 13.0
+ 
+264 |is a collection of poetry| with freq: 13.0
+ 
+265 |in   is a poem by| with freq: 13.0
+ 
+266 |Greek   was and| with freq: 13.0
+ 
+267 |the  is a poem in by| with freq: 12.0
+ 
+268 |or      is| with freq: 12.0
+ 
+269 |of    is a| with freq: 12.0
+ 
+270 |is the Geoffrey Chaucer s| with freq: 12.0
+ 
+271 |is long poem by| with freq: 12.0
+ 
+272 |is a poem in Scots by| with freq: 12.0
+ 
+273 |is a poem by and the| with freq: 12.0
+ 
+274 |is a poem by Australian poet| with freq: 12.0
+ 
+275 |is a poem   of| with freq: 12.0
+ 
+276 |is a line poem| with freq: 12.0
+ 
+277 |is a collection of poetry by the| with freq: 12.0
+ 
+278 |is a collection by author| with freq: 12.0
+ 
+279 |is a book by poet| with freq: 12.0
+ 
+280 |is a Breton lai by the medieval poet| with freq: 12.0
+ 
+281 |is English poem by| with freq: 12.0
+ 
+282 |in  is poem by| with freq: 12.0
+ 
+283 |a  is the| with freq: 12.0
+ 
+284 |to is a poem by| with freq: 11.0
+ 
+285 |s  is a poem by| with freq: 11.0
+ 
+286 |or   is the| with freq: 11.0
+ 
+287 |of  is poem| with freq: 11.0
+ 
+288 |is the title of by| with freq: 11.0
+ 
+289 |is the title by| with freq: 11.0
+ 
+290 |is the book of| with freq: 11.0
+ 
+291 |is epic  by| with freq: 11.0
+ 
+292 |is collection of by poet| with freq: 11.0
+ 
+293 |is an poem written the| with freq: 11.0
+ 
+294 |is a story in| with freq: 11.0
+ 
+295 |is a sonnet by poet| with freq: 11.0
+ 
+296 |is a series of by| with freq: 11.0
+ 
+297 |is a poem by the  the| with freq: 11.0
+ 
+298 |is a poem by British| with freq: 11.0
+ 
+299 |is a line by| with freq: 11.0
+ 
+300 |is a Middle English poem by| with freq: 11.0
+ 
+301 |is a Greek epic poem| with freq: 11.0
+ 
+302 |is   poem by| with freq: 11.0
+ 
+303 |the  is poem| with freq: 10.0
+ 
+304 |or  is poem| with freq: 10.0
+ 
+305 |of  is a poem the| with freq: 10.0
+ 
+306 |of  is a poem by the poet| with freq: 10.0
+ 
+307 |is the collection of| with freq: 10.0
+ 
+308 |is poem  in  by| with freq: 10.0
+ 
+309 |is an poem in the| with freq: 10.0
+ 
+310 |is a poetry poet| with freq: 10.0
+ 
+311 |is a poetry collection by poet| with freq: 10.0
+ 
+312 |is a poetry collection by Finnish poet and translator| with freq: 10.0
+ 
+313 |is a poetry by author| with freq: 10.0
+ 
+314 |is a poem to the| with freq: 10.0
+ 
+315 |is a poem the edition of| with freq: 10.0
+ 
+316 |is a poem in of by| with freq: 10.0
+ 
+317 |is a poem by the author| with freq: 10.0
+ 
+318 |is a poem by the English and| with freq: 10.0
+ 
+319 |is a poem by William in the| with freq: 10.0
+ 
+320 |is a poem by Scottish poet| with freq: 10.0
+ 
+321 |is a poem by  of| with freq: 10.0
+ 
+322 |is a nonsense poem by| with freq: 10.0
+ 
+323 |is a language poetry| with freq: 10.0
+ 
+324 |is a collection of by and| with freq: 10.0
+ 
+325 |is a collection by Finnish poet| with freq: 10.0
+ 
+326 |is a Middle English by| with freq: 10.0
+ 
+327 |is a Middle English| with freq: 10.0
+ 
+328 |is Geoffrey Chaucer s| with freq: 10.0
+ 
+329 |is  by poet| with freq: 10.0
+ 
+330 |is   of| with freq: 10.0
+ 
+331 |and  is a poem by| with freq: 10.0
+ 
+332 |The Tale  is one of| with freq: 10.0
+ 
+333 |The  is a poem in| with freq: 10.0
+ 
+334 |Latin     is a poem by| with freq: 10.0
+ 
+335 |Greek    is a| with freq: 10.0
+ 
+336 |Ancient Greek     was the| with freq: 10.0
+ 
+337 |was the son of and of| with freq: 9.0
+ 
+338 |the  is a poem by the poet| with freq: 9.0
+ 
+339 |is the name of a| with freq: 9.0
+ 
+340 |is one of Canterbury Tales by| with freq: 9.0
+ 
+341 |is line poem by| with freq: 9.0
+ 
+342 |is epic poem in by| with freq: 9.0
+ 
+343 |is a series of poems by| with freq: 9.0
+ 
+344 |is a poetry written| with freq: 9.0
+ 
+345 |is a poem of the| with freq: 9.0
+ 
+346 |is a poem by the Roman| with freq: 9.0
+ 
+347 |is a poem by the  and| with freq: 9.0
+ 
+348 |is a poem  the| with freq: 9.0
+ 
+349 |is a collection of poetry by writer| with freq: 9.0
+ 
+350 |is a century poem by| with freq: 9.0
+ 
+351 |is a century by| with freq: 9.0
+ 
+352 |is a Scots poem by| with freq: 9.0
+ 
+353 |is a Middle of| with freq: 9.0
+ 
+354 |is a Latin the| with freq: 9.0
+ 
+355 |is a Latin poem by| with freq: 9.0
+ 
+356 |is The Canterbury Tales by| with freq: 9.0
+ 
+357 |is   and| with freq: 9.0
+ 
+358 |also     is a| with freq: 9.0
+ 
+359 |A   is poem by| with freq: 9.0
+ 
+360 |was the daughter of| with freq: 8.0
+ 
+361 |the  is poem in| with freq: 8.0
+ 
+362 |or   is a poem| with freq: 8.0
+ 
+363 |or     is a| with freq: 8.0
+ 
+364 |of   is a poem by poet| with freq: 8.0
+ 
+365 |of    is a poem by| with freq: 8.0
+ 
+366 |known as  was| with freq: 8.0
+ 
+367 |is the poem of| with freq: 8.0
+ 
+368 |is the poem by poet| with freq: 8.0
+ 
+369 |is the collection of poetry| with freq: 8.0
+ 
+370 |is poetry by poet and| with freq: 8.0
+ 
+371 |is poem  by poet| with freq: 8.0
+ 
+372 |is an poem of| with freq: 8.0
+ 
+373 |is a sonnet by the English Romantic poet| with freq: 8.0
+ 
+374 |is a sonnet by English poet| with freq: 8.0
+ 
+375 |is a prose and by| with freq: 8.0
+ 
+376 |is a poem written poet| with freq: 8.0
+ 
+377 |is a poem which| with freq: 8.0
+ 
+378 |is a poem in by English poet and| with freq: 8.0
+ 
+379 |is a poem in by English poet| with freq: 8.0
+ 
+380 |is a poem in by English| with freq: 8.0
+ 
+381 |is a poem first published| with freq: 8.0
+ 
+382 |is a poem by the Scottish| with freq: 8.0
+ 
+383 |is a poem by century| with freq: 8.0
+ 
+384 |is a poem by and in| with freq: 8.0
+ 
+385 |is a poem by Romantic| with freq: 8.0
+ 
+386 |is a poem by Indian poet| with freq: 8.0
+ 
+387 |is a poem  s| with freq: 8.0
+ 
+388 |is a poem  by the| with freq: 8.0
+ 
+389 |is a poem   edition of| with freq: 8.0
+ 
+390 |is a parody of the| with freq: 8.0
+ 
+391 |is a book written| with freq: 8.0
+ 
+392 |is a book and| with freq: 8.0
+ 
+393 |is a ballad by poet| with freq: 8.0
+ 
+394 |is a William the| with freq: 8.0
+ 
+395 |is a Middle of the| with freq: 8.0
+ 
+396 |is a Latin by| with freq: 8.0
+ 
+397 |is a Greek epic| with freq: 8.0
+ 
+398 |as The  is a poem by| with freq: 8.0
+ 
+399 |and is a poem by| with freq: 8.0
+ 
+400 |also as    is a poem by| with freq: 8.0
+ 
+401 |also    is a| with freq: 8.0
+ 
+402 |also     a| with freq: 8.0
+ 
+403 |The Tale  is| with freq: 8.0
+ 
+404 |Russian   is poem by| with freq: 8.0
+ 
+405 |Greek  is a| with freq: 8.0
+ 
+406 |Greek   is a| with freq: 8.0
+ 
+407 |English  The  is a| with freq: 8.0
+ 
+408 |English   is the| with freq: 8.0
+ 
+409 |English   is a poem by| with freq: 8.0
+ 
+410 |Ancient Greek   was the son of and| with freq: 8.0
+ 
+411 |was a Trojan of| with freq: 7.0
+ 
+412 |to is poem by| with freq: 7.0
+ 
+413 |the  is poem by the poet| with freq: 7.0
+ 
+414 |or   was a| with freq: 7.0
+ 
+415 |or    is a poem| with freq: 7.0
+ 
+416 |of  is poem the| with freq: 7.0
+ 
+417 |of  is a poem in by| with freq: 7.0
+ 
+418 |of   is the| with freq: 7.0
+ 
+419 |of    is poem by| with freq: 7.0
+ 
+420 |is the son of and| with freq: 7.0
+ 
+421 |is the name of of| with freq: 7.0
+ 
+422 |is the century poet| with freq: 7.0
+ 
+423 |is satirical poem by| with freq: 7.0
+ 
+424 |is one of the poems by| with freq: 7.0
+ 
+425 |is epic poem by and| with freq: 7.0
+ 
+426 |is a prose poem by| with freq: 7.0
+ 
+427 |is a poetry by the| with freq: 7.0
+ 
+428 |is a poem written  by| with freq: 7.0
+ 
+429 |is a poem that was| with freq: 7.0
+ 
+430 |is a poem in of the| with freq: 7.0
+ 
+431 |is a poem in  in| with freq: 7.0
+ 
+432 |is a poem by the German| with freq: 7.0
+ 
+433 |is a poem by the English Romantic poet| with freq: 7.0
+ 
+434 |is a poem by the American poet| with freq: 7.0
+ 
+435 |is a poem by in of| with freq: 7.0
+ 
+436 |is a poem by Romantic poet| with freq: 7.0
+ 
+437 |is a poem by  to| with freq: 7.0
+ 
+438 |is a poem and poet| with freq: 7.0
+ 
+439 |is a poem  to| with freq: 7.0
+ 
+440 |is a poem  in the| with freq: 7.0
+ 
+441 |is a play by and| with freq: 7.0
+ 
+442 |is a love by| with freq: 7.0
+ 
+443 |is a cycle by| with freq: 7.0
+ 
+444 |is a collection by the writer| with freq: 7.0
+ 
+445 |is a century the| with freq: 7.0
+ 
+446 |is a Greek in the| with freq: 7.0
+ 
+447 |in the  is| with freq: 7.0
+ 
+448 |and   is a| with freq: 7.0
+ 
+449 |also as  is poem by| with freq: 7.0
+ 
+450 |also as  is a poem by| with freq: 7.0
+ 
+451 |a  is a poem by| with freq: 7.0
+ 
+452 |Greek  Homer s| with freq: 7.0
+ 
+453 |Greek   was to| with freq: 7.0
+ 
+454 |English  is a poem by| with freq: 7.0
+ 
+455 |Ancient Greek     was| with freq: 7.0
+ 
+456 |was a Trojan the| with freq: 6.0
+ 
+457 |was  and father of| with freq: 6.0
+ 
+458 |was   of| with freq: 6.0
+ 
+459 |the  is the| with freq: 6.0
+ 
+460 |the       is a poem by| with freq: 6.0
+ 
+461 |referred to as  is a poem by| with freq: 6.0
+ 
+462 |pronounced    was the| with freq: 6.0
+ 
+463 |or was the son of| with freq: 6.0
+ 
+464 |or Great  is a poem| with freq: 6.0
+ 
+465 |or   is poem by| with freq: 6.0
+ 
+466 |or      is a| with freq: 6.0
+ 
+467 |on the     is a poem by| with freq: 6.0
+ 
+468 |of  is an poem by| with freq: 6.0
+ 
+469 |is the son of  in| with freq: 6.0
+ 
+470 |is the name of a poem by| with freq: 6.0
+ 
+471 |is sonnet the poet| with freq: 6.0
+ 
+472 |is poetry by poet| with freq: 6.0
+ 
+473 |is poem verse by| with freq: 6.0
+ 
+474 |is poem the century| with freq: 6.0
+ 
+475 |is poem the  in| with freq: 6.0
+ 
+476 |is epic by the poet| with freq: 6.0
+ 
+477 |is epic by poet| with freq: 6.0
+ 
+478 |is collection of poems| with freq: 6.0
+ 
+479 |is collection of  by| with freq: 6.0
+ 
+480 |is an poem by the English poet| with freq: 6.0
+ 
+481 |is an poem by American| with freq: 6.0
+ 
+482 |is an poem  written| with freq: 6.0
+ 
+483 |is an adaptation of| with freq: 6.0
+ 
+484 |is a tale in| with freq: 6.0
+ 
+485 |is a romance by| with freq: 6.0
+ 
+486 |is a poem which in| with freq: 6.0
+ 
+487 |is a poem was the| with freq: 6.0
+ 
+488 |is a poem the  the| with freq: 6.0
+ 
+489 |is a poem of lines by| with freq: 6.0
+ 
+490 |is a poem of by poet| with freq: 6.0
+ 
+491 |is a poem by which in| with freq: 6.0
+ 
+492 |is a poem by the Indian poet| with freq: 6.0
+ 
+493 |is a poem by in his| with freq: 6.0
+ 
+494 |is a poem by in  the| with freq: 6.0
+ 
+495 |is a poem by William in response to the| with freq: 6.0
+ 
+496 |is a poem by Nigerian writer| with freq: 6.0
+ 
+497 |is a poem by  it was| with freq: 6.0
+ 
+498 |is a poem   in| with freq: 6.0
+ 
+499 |is a film by and| with freq: 6.0
+ 
+500 |is a collection of short poems by| with freq: 6.0
+ 
+501 |is a collection of poems by the poet| with freq: 6.0
+ 
+502 |is a collection of in by| with freq: 6.0
+ 
+503 |is a collection of and by| with freq: 6.0
+ 
+504 |is a collection by the poet| with freq: 6.0
+ 
+505 |is a collection and| with freq: 6.0
+ 
+506 |is a century poem| with freq: 6.0
+ 
+507 |is a book in by| with freq: 6.0
+ 
+508 |is a William Shakespeare s| with freq: 6.0
+ 
+509 |is a Scots the| with freq: 6.0
+ 
+510 |is a Scots poem| with freq: 6.0
+ 
+511 |is a Latin of| with freq: 6.0
+ 
+512 |is a Greek  of| with freq: 6.0
+ 
+513 |is Greek epic poem| with freq: 6.0
+ 
+514 |for    is| with freq: 6.0
+ 
+515 |and   is| with freq: 6.0
+ 
+516 |also as The  is a poem by| with freq: 6.0
+ 
+517 |also as   is a poem by| with freq: 6.0
+ 
+518 |a  is a| with freq: 6.0
+ 
+519 |The  is poem in by| with freq: 6.0
+ 
+520 |The  is a ballad by| with freq: 6.0
+ 
+521 |Middle English  The Tale  is| with freq: 6.0
+ 
+522 |Latin   is a| with freq: 6.0
+ 
+523 |Latin     is the| with freq: 6.0
+ 
+524 |Greek epic attributed to| with freq: 6.0
+ 
+525 |Greek   was Greek| with freq: 6.0
+ 
+526 |Greek   is an| with freq: 6.0
+ 
+527 |Greek      is a| with freq: 6.0
+ 
+528 |English  The  is the| with freq: 6.0
+ 
+529 |Ancient Greek     was the son of| with freq: 6.0
+ 
+530 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of| with freq: 5.0
+ 
+531 |written John  of the| with freq: 5.0
+ 
+532 |was the son of and the| with freq: 5.0
+ 
+533 |was the brother of| with freq: 5.0
+ 
+534 |the  is a poem by poet| with freq: 5.0
+ 
+535 |the     is a poem by| with freq: 5.0
+ 
+536 |s   is a poem by| with freq: 5.0
+ 
+537 |or is a poem| with freq: 5.0
+ 
+538 |or        is a| with freq: 5.0
+ 
+539 |on the  is a poem by| with freq: 5.0
+ 
+540 |of  is poem by the| with freq: 5.0
+ 
+541 |of    is the| with freq: 5.0
+ 
+542 |is the name poem by| with freq: 5.0
+ 
+543 |is the Chaucer s| with freq: 5.0
+ 
+544 |is the  in of| with freq: 5.0
+ 
+545 |is the   by| with freq: 5.0
+ 
+546 |is poetry by Canadian| with freq: 5.0
+ 
+547 |is poem the   of| with freq: 5.0
+ 
+548 |is one of the Lais of| with freq: 5.0
+ 
+549 |is one of poems| with freq: 5.0
+ 
+550 |is narrative poem in by| with freq: 5.0
+ 
+551 |is epic poem of by| with freq: 5.0
+ 
+552 |is epic poem in by the poet| with freq: 5.0
+ 
+553 |is an poem  to| with freq: 5.0
+ 
+554 |is an adaptation by| with freq: 5.0
+ 
+555 |is a travel book in prose and verse by| with freq: 5.0
+ 
+556 |is a s by| with freq: 5.0
+ 
+557 |is a poetry the| with freq: 5.0
+ 
+558 |is a poetry by poet and| with freq: 5.0
+ 
+559 |is a poetry by and| with freq: 5.0
+ 
+560 |is a poetry by Canadian author| with freq: 5.0
+ 
+561 |is a poem was attributed to| with freq: 5.0
+ 
+562 |is a poem that the| with freq: 5.0
+ 
+563 |is a poem in verse by| with freq: 5.0
+ 
+564 |is a poem from the| with freq: 5.0
+ 
+565 |is a poem composed the| with freq: 5.0
+ 
+566 |is a poem by the century poet| with freq: 5.0
+ 
+567 |is a poem by the Scottish northern renaissance poet| with freq: 5.0
+ 
+568 |is a poem by the Romantic| with freq: 5.0
+ 
+569 |is a poem by the English poet and| with freq: 5.0
+ 
+570 |is a poem by in in| with freq: 5.0
+ 
+571 |is a poem by and in the| with freq: 5.0
+ 
+572 |is a poem by William  in| with freq: 5.0
+ 
+573 |is a poem by Robert in| with freq: 5.0
+ 
+574 |is a poem by Robert| with freq: 5.0
+ 
+575 |is a poem by English Romantic poet| with freq: 5.0
+ 
+576 |is a poem by American and| with freq: 5.0
+ 
+577 |is a poem by  and the| with freq: 5.0
+ 
+578 |is a poem by   in| with freq: 5.0
+ 
+579 |is a poem and in| with freq: 5.0
+ 
+580 |is a poem a| with freq: 5.0
+ 
+581 |is a poem German| with freq: 5.0
+ 
+582 |is a poem  written| with freq: 5.0
+ 
+583 |is a parody the| with freq: 5.0
+ 
+584 |is a language poem by| with freq: 5.0
+ 
+585 |is a collection poet and| with freq: 5.0
+ 
+586 |is a collection poet| with freq: 5.0
+ 
+587 |is a collection of poetry by poet| with freq: 5.0
+ 
+588 |is a collection of poems the| with freq: 5.0
+ 
+589 |is a collection of of| with freq: 5.0
+ 
+590 |is a collection of by writer| with freq: 5.0
+ 
+591 |is a collection of English poems by| with freq: 5.0
+ 
+592 |is a character in s| with freq: 5.0
+ 
+593 |is a ballad by English poet| with freq: 5.0
+ 
+594 |is a ballad by English| with freq: 5.0
+ 
+595 |is a Breton by| with freq: 5.0
+ 
+596 |is Irish poem by| with freq: 5.0
+ 
+597 |is Greek epic attributed to| with freq: 5.0
+ 
+598 |is  by the poet| with freq: 5.0
+ 
+599 |is   s| with freq: 5.0
+ 
+600 |is    of| with freq: 5.0
+ 
+601 |as or  is| with freq: 5.0
+ 
+602 |and the   is| with freq: 5.0
+ 
+603 |and of  is the| with freq: 5.0
+ 
+604 |and    is the| with freq: 5.0
+ 
+605 |also    was| with freq: 5.0
+ 
+606 |also    is a poem| with freq: 5.0
+ 
+607 |a poem attributed to| with freq: 5.0
+ 
+608 |a   is the| with freq: 5.0
+ 
+609 |The s  is| with freq: 5.0
+ 
+610 |The  is poem by the| with freq: 5.0
+ 
+611 |The   is the| with freq: 5.0
+ 
+612 |James   is| with freq: 5.0
+ 
+613 |Greek  was the son of the| with freq: 5.0
+ 
+614 |Greek   is the| with freq: 5.0
+ 
+615 |Greek   is Greek| with freq: 5.0
+ 
+616 |Greek    is epic| with freq: 5.0
+ 
+617 |Greek      is a Greek  son of| with freq: 5.0
+ 
+618 |Greek      is| with freq: 5.0
+ 
+619 |German   is a poem by| with freq: 5.0
+ 
+620 |French   is| with freq: 5.0
+ 
+621 |English The  is| with freq: 5.0
+ 
+622 |English  is a collection| with freq: 5.0
+ 
+623 |English   is a collection by| with freq: 5.0
+ 
+624 |Ancient Greek   was the son of and of| with freq: 5.0
+ 
+625 |Ancient Greek   was attributed to| with freq: 5.0
+ 
+626 |” is a poem| with freq: 4.0
+ 
+627 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of| with freq: 4.0
+ 
+628 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King| with freq: 4.0
+ 
+629 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of| with freq: 4.0
+ 
+630 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of| with freq: 4.0
+ 
+631 |was the squire of King| with freq: 4.0
+ 
+632 |was the son of King and| with freq: 4.0
+ 
+633 |was the name the| with freq: 4.0
+ 
+634 |was a suitor of| with freq: 4.0
+ 
+635 |was a son of  of  of| with freq: 4.0
+ 
+636 |was a Trojan hero the| with freq: 4.0
+ 
+637 |was   in and| with freq: 4.0
+ 
+638 |təˈlɛməkəs   Greek  Τηλέμαχος  Tēlemakhos  literally  far fighter   is a figure in Greek mythology  the son of| with freq: 4.0
+ 
+639 |to is a poem by the poet| with freq: 4.0
+ 
+640 |the  the Geoffrey Chaucer s| with freq: 4.0
+ 
+641 |the  of  is the| with freq: 4.0
+ 
+642 |the  is a poem in| with freq: 4.0
+ 
+643 |the   is a poem in by| with freq: 4.0
+ 
+644 |s  is the| with freq: 4.0
+ 
+645 |or is poem by| with freq: 4.0
+ 
+646 |or is book of| with freq: 4.0
+ 
+647 |or  the  is a poem by| with freq: 4.0
+ 
+648 |or  the  is a| with freq: 4.0
+ 
+649 |or  of  is poem by| with freq: 4.0
+ 
+650 |or  of  is a poem by| with freq: 4.0
+ 
+651 |or    is attributed to| with freq: 4.0
+ 
+652 |or    is a poem by| with freq: 4.0
+ 
+653 |or      pronounced| with freq: 4.0
+ 
+654 |of  is a poem poet| with freq: 4.0
+ 
+655 |of   is poem by| with freq: 4.0
+ 
+656 |of     is poem by| with freq: 4.0
+ 
+657 |literally    is a| with freq: 4.0
+ 
+658 |literally    is| with freq: 4.0
+ 
+659 |known as or  is| with freq: 4.0
+ 
+660 |known as  is| with freq: 4.0
+ 
+661 |is work the poet| with freq: 4.0
+ 
+662 |is the title of a poem by| with freq: 4.0
+ 
+663 |is the title of a| with freq: 4.0
+ 
+664 |is the shield that| with freq: 4.0
+ 
+665 |is the poetry by| with freq: 4.0
+ 
+666 |is the name of the| with freq: 4.0
+ 
+667 |is the name of poem| with freq: 4.0
+ 
+668 |is the name a poem by| with freq: 4.0
+ 
+669 |is the daughter of| with freq: 4.0
+ 
+670 |is the collection by| with freq: 4.0
+ 
+671 |is the book by| with freq: 4.0
+ 
+672 |is the Greek  of| with freq: 4.0
+ 
+673 |is the American writer| with freq: 4.0
+ 
+674 |is the  the s| with freq: 4.0
+ 
+675 |is the  s| with freq: 4.0
+ 
+676 |is the  as| with freq: 4.0
+ 
+677 |is the  and the| with freq: 4.0
+ 
+678 |is the  a| with freq: 4.0
+ 
+679 |is the  Geoffrey Chaucer s| with freq: 4.0
+ 
+680 |is the   s| with freq: 4.0
+ 
+681 |is the   and| with freq: 4.0
+ 
+682 |is poems the poet| with freq: 4.0
+ 
+683 |is poem the  edition of| with freq: 4.0
+ 
+684 |is poem T  S  Eliot s| with freq: 4.0
+ 
+685 |is part of s| with freq: 4.0
+ 
+686 |is one of poems by| with freq: 4.0
+ 
+687 |is one of English poet| with freq: 4.0
+ 
+688 |is one of  in| with freq: 4.0
+ 
+689 |is language poem by| with freq: 4.0
+ 
+690 |is famous poem by| with freq: 4.0
+ 
+691 |is epic poem  in by| with freq: 4.0
+ 
+692 |is epic  by the| with freq: 4.0
+ 
+693 |is collection of and by| with freq: 4.0
+ 
+694 |is book by poet and| with freq: 4.0
+ 
+695 |is an poem of by| with freq: 4.0
+ 
+696 |is an poem in by the poet| with freq: 4.0
+ 
+697 |is an poem by English poet| with freq: 4.0
+ 
+698 |is an poem and| with freq: 4.0
+ 
+699 |is an poem  in| with freq: 4.0
+ 
+700 |is an poem  by| with freq: 4.0
+ 
+701 |is an ode by| with freq: 4.0
+ 
+702 |is a series of poems| with freq: 4.0
+ 
+703 |is a series of| with freq: 4.0
+ 
+704 |is a satire by| with freq: 4.0
+ 
+705 |is a s the| with freq: 4.0
+ 
+706 |is a poetry collection by writer| with freq: 4.0
+ 
+707 |is a poetry collection by the writer| with freq: 4.0
+ 
+708 |is a poetry collection by author| with freq: 4.0
+ 
+709 |is a poetry by writer| with freq: 4.0
+ 
+710 |is a poetry by Canadian| with freq: 4.0
+ 
+711 |is a poem the century| with freq: 4.0
+ 
+712 |is a poem that the Greek| with freq: 4.0
+ 
+713 |is a poem that in the| with freq: 4.0
+ 
+714 |is a poem s| with freq: 4.0
+ 
+715 |is a poem of by the poet| with freq: 4.0
+ 
+716 |is a poem of  by| with freq: 4.0
+ 
+717 |is a poem in his| with freq: 4.0
+ 
+718 |is a poem in by the poet and| with freq: 4.0
+ 
+719 |is a poem in by English and| with freq: 4.0
+ 
+720 |is a poem in Book of| with freq: 4.0
+ 
+721 |is a poem in  of the| with freq: 4.0
+ 
+722 |is a poem by writer and poet| with freq: 4.0
+ 
+723 |is a poem by to| with freq: 4.0
+ 
+724 |is a poem by the s| with freq: 4.0
+ 
+725 |is a poem by the poet of| with freq: 4.0
+ 
+726 |is a poem by the poet and the| with freq: 4.0
+ 
+727 |is a poem by the poet and in the| with freq: 4.0
+ 
+728 |is a poem by the Romantic poet| with freq: 4.0
+ 
+729 |is a poem by the Greek| with freq: 4.0
+ 
+730 |is a poem by in and| with freq: 4.0
+ 
+731 |is a poem by century poet| with freq: 4.0
+ 
+732 |is a poem by a| with freq: 4.0
+ 
+733 |is a poem by William the| with freq: 4.0
+ 
+734 |is a poem by William  to| with freq: 4.0
+ 
+735 |is a poem by Welsh poet| with freq: 4.0
+ 
+736 |is a poem by Roman poet Gaius Valerius| with freq: 4.0
+ 
+737 |is a poem by Greek| with freq: 4.0
+ 
+738 |is a poem by Geoffrey Chaucer the| with freq: 4.0
+ 
+739 |is a poem by Geoffrey Chaucer| with freq: 4.0
+ 
+740 |is a poem by English the| with freq: 4.0
+ 
+741 |is a poem by English poet and| with freq: 4.0
+ 
+742 |is a poem by English author| with freq: 4.0
+ 
+743 |is a poem by English and| with freq: 4.0
+ 
+744 |is a poem by Canadian| with freq: 4.0
+ 
+745 |is a poem by  and in| with freq: 4.0
+ 
+746 |is a poem an| with freq: 4.0
+ 
+747 |is a poem Welsh| with freq: 4.0
+ 
+748 |is a poem  was the| with freq: 4.0
+ 
+749 |is a poem  by the poet| with freq: 4.0
+ 
+750 |is a part of| with freq: 4.0
+ 
+751 |is a mock heroic poem by| with freq: 4.0
+ 
+752 |is a medieval by| with freq: 4.0
+ 
+753 |is a love poem by| with freq: 4.0
+ 
+754 |is a lost of| with freq: 4.0
+ 
+755 |is a film and| with freq: 4.0
+ 
+756 |is a collection of the poet| with freq: 4.0
+ 
+757 |is a collection of poetry the| with freq: 4.0
+ 
+758 |is a collection of poet| with freq: 4.0
+ 
+759 |is a collection of poems by the| with freq: 4.0
+ 
+760 |is a collection of poems  by| with freq: 4.0
+ 
+761 |is a collection of by poet and| with freq: 4.0
+ 
+762 |is a collection by American| with freq: 4.0
+ 
+763 |is a book in| with freq: 4.0
+ 
+764 |is a book by the poet| with freq: 4.0
+ 
+765 |is a book by and| with freq: 4.0
+ 
+766 |is a ballad the| with freq: 4.0
+ 
+767 |is a Scots of| with freq: 4.0
+ 
+768 |is a Middle poem by| with freq: 4.0
+ 
+769 |is a Middle by the| with freq: 4.0
+ 
+770 |is a Latin of the| with freq: 4.0
+ 
+771 |is a Hindi by| with freq: 4.0
+ 
+772 |is a Greek  the| with freq: 4.0
+ 
+773 |is a Geoffrey Chaucer s| with freq: 4.0
+ 
+774 |is Middle English by| with freq: 4.0
+ 
+775 |in the   is poem by| with freq: 4.0
+ 
+776 |in   is poem by| with freq: 4.0
+ 
+777 |in    is| with freq: 4.0
+ 
+778 |from   or is a| with freq: 4.0
+ 
+779 |from   is a| with freq: 4.0
+ 
+780 |by the  was| with freq: 4.0
+ 
+781 |as  or  is a poem by| with freq: 4.0
+ 
+782 |as  is poem| with freq: 4.0
+ 
+783 |as  is a collection by| with freq: 4.0
+ 
+784 |as    is poem by| with freq: 4.0
+ 
+785 |as     is| with freq: 4.0
+ 
+786 |and  is poem by| with freq: 4.0
+ 
+787 |and     is a| with freq: 4.0
+ 
+788 |also called The  is one of| with freq: 4.0
+ 
+789 |also as    is the| with freq: 4.0
+ 
+790 |also  the son| with freq: 4.0
+ 
+791 |also  is the poet| with freq: 4.0
+ 
+792 |also  is a poem| with freq: 4.0
+ 
+793 |also    is the| with freq: 4.0
+ 
+794 |also    a| with freq: 4.0
+ 
+795 |also     is| with freq: 4.0
+ 
+796 |also       was a Greek of| with freq: 4.0
+ 
+797 |a  is  the| with freq: 4.0
+ 
+798 |To  is a poem by| with freq: 4.0
+ 
+799 |To   is a poem by| with freq: 4.0
+ 
+800 |The  is poem by the poet| with freq: 4.0
+ 
+801 |The  is a collection by| with freq: 4.0
+ 
+802 |The   is poem| with freq: 4.0
+ 
+803 |The    is a| with freq: 4.0
+ 
+804 |Tale  is the| with freq: 4.0
+ 
+805 |John the  is| with freq: 4.0
+ 
+806 |Greek  or  was a| with freq: 4.0
+ 
+807 |Greek   was son of| with freq: 4.0
+ 
+808 |Greek   is the son of| with freq: 4.0
+ 
+809 |Greek   is a Greek| with freq: 4.0
+ 
+810 |Greek    is an| with freq: 4.0
+ 
+811 |Greek    is Greek| with freq: 4.0
+ 
+812 |Greek      is a Greek| with freq: 4.0
+ 
+813 |Greek      is Greek  of| with freq: 4.0
+ 
+814 |Greek       was the son of| with freq: 4.0
+ 
+815 |English poet  and published| with freq: 4.0
+ 
+816 |English  of  is a poem| with freq: 4.0
+ 
+817 |Ancient Greek   was son of and of of| with freq: 4.0
+ 
+818 |Ancient Greek   was son of and of  and of| with freq: 4.0
+ 
+819 |Ancient Greek   was son of and of| with freq: 4.0
+ 
+820 |Ancient Greek   was son of and| with freq: 4.0
+ 
+821 |Ancient Greek    is epic| with freq: 4.0
+ 
+822 |A  is a poem in by| with freq: 4.0
+ 
+823 |” is a poem in| with freq: 3.0
+ 
+824 |Μύδων  gen   Μύδωνος  was one of the defenders of| with freq: 3.0
+ 
+825 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of Anchises  by his wife Themiste  sister of Laomedon and daughter of| with freq: 3.0
+ 
+826 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King Priam and Queen| with freq: 3.0
+ 
+827 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of Hector  Crown Prince of| with freq: 3.0
+ 
+828 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of Nausithous  or of Phaeax  the son of| with freq: 3.0
+ 
+829 |written and  of  the| with freq: 3.0
+ 
+830 |was the squire of King Alcinous of Phaeacia who  on the evening of| with freq: 3.0
+ 
+831 |was the son of and of of| with freq: 3.0
+ 
+832 |was the son of King of| with freq: 3.0
+ 
+833 |was one of the suitors of| with freq: 3.0
+ 
+834 |was a son of and his and| with freq: 3.0
+ 
+835 |was a son of and his| with freq: 3.0
+ 
+836 |was a son of and and| with freq: 3.0
+ 
+837 |was a son of  of  and   and of| with freq: 3.0
+ 
+838 |was a son of  of   and father of   and| with freq: 3.0
+ 
+839 |was a Greek of and of| with freq: 3.0
+ 
+840 |was Greek of the Trojan War| with freq: 3.0
+ 
+841 |was  father of| with freq: 3.0
+ 
+842 |was  and  his  of and| with freq: 3.0
+ 
+843 |was   the| with freq: 3.0
+ 
+844 |was   of and| with freq: 3.0
+ 
+845 |təˈlɛməkəs   Greek  Τηλέμαχος  Tēlemakhos  literally  far fighter   is a figure in Greek mythology  the son of Odysseus and| with freq: 3.0
+ 
+846 |title  is a poem by| with freq: 3.0
+ 
+847 |the name given to| with freq: 3.0
+ 
+848 |the  was a| with freq: 3.0
+ 
+849 |the  is the poet| with freq: 3.0
+ 
+850 |the  is poem written| with freq: 3.0
+ 
+851 |the  is an| with freq: 3.0
+ 
+852 |the  is a poem the poet| with freq: 3.0
+ 
+853 |the  is a poem the| with freq: 3.0
+ 
+854 |the   is a poem by poet| with freq: 3.0
+ 
+855 |son of  was  the| with freq: 3.0
+ 
+856 |s epic poem the| with freq: 3.0
+ 
+857 |s   is a poem| with freq: 3.0
+ 
+858 |referred to as  is poem| with freq: 3.0
+ 
+859 |originally  is poem by| with freq: 3.0
+ 
+860 |or of  is poem| with freq: 3.0
+ 
+861 |or of  is a poem by| with freq: 3.0
+ 
+862 |or  the  is a poem| with freq: 3.0
+ 
+863 |or  is epic poem by| with freq: 3.0
+ 
+864 |or  is epic poem| with freq: 3.0
+ 
+865 |or  is Latin by| with freq: 3.0
+ 
+866 |or  The   is a poem| with freq: 3.0
+ 
+867 |or  English  The  is a| with freq: 3.0
+ 
+868 |or    is an| with freq: 3.0
+ 
+869 |of  is poem in the| with freq: 3.0
+ 
+870 |of  is poem by English poet| with freq: 3.0
+ 
+871 |of  is a poem in the| with freq: 3.0
+ 
+872 |of  is a collection of by| with freq: 3.0
+ 
+873 |of  is a book of by| with freq: 3.0
+ 
+874 |of   is poem in by| with freq: 3.0
+ 
+875 |of   is a poem by the poet| with freq: 3.0
+ 
+876 |of     is a poem by| with freq: 3.0
+ 
+877 |meaning   by| with freq: 3.0
+ 
+878 |meaning    the| with freq: 3.0
+ 
+879 |meaning    by| with freq: 3.0
+ 
+880 |meaning    a| with freq: 3.0
+ 
+881 |ləˈvɪniə   Latin  Lāuīnĭa  laːˈwiːnia   is the daughter of| with freq: 3.0
+ 
+882 |known as     is| with freq: 3.0
+ 
+883 |known    is a poem by| with freq: 3.0
+ 
+884 |is work by the poet| with freq: 3.0
+ 
+885 |is two poems by| with freq: 3.0
+ 
+886 |is the work of poet| with freq: 3.0
+ 
+887 |is the title of a series of philosophical aphorisms by| with freq: 3.0
+ 
+888 |is the son of  of| with freq: 3.0
+ 
+889 |is the son and| with freq: 3.0
+ 
+890 |is the son Odysseus and| with freq: 3.0
+ 
+891 |is the shield that Achilles uses in his fight with| with freq: 3.0
+ 
+892 |is the poem by the| with freq: 3.0
+ 
+893 |is the name to| with freq: 3.0
+ 
+894 |is the name a| with freq: 3.0
+ 
+895 |is the life of| with freq: 3.0
+ 
+896 |is the collection of poetry by| with freq: 3.0
+ 
+897 |is the collection of by| with freq: 3.0
+ 
+898 |is the  was| with freq: 3.0
+ 
+899 |is poem lines by| with freq: 3.0
+ 
+900 |is poem Greek poet| with freq: 3.0
+ 
+901 |is one of the twelve of| with freq: 3.0
+ 
+902 |is one of the s| with freq: 3.0
+ 
+903 |is one of s the| with freq: 3.0
+ 
+904 |is narrative poem the| with freq: 3.0
+ 
+905 |is narrative poem by American poet| with freq: 3.0
+ 
+906 |is narrative poem  by| with freq: 3.0
+ 
+907 |is musical with music by lyrics by| with freq: 3.0
+ 
+908 |is long poem by poet| with freq: 3.0
+ 
+909 |is known poem by| with freq: 3.0
+ 
+910 |is first collection of by| with freq: 3.0
+ 
+911 |is epic poem that was to| with freq: 3.0
+ 
+912 |is epic poem of| with freq: 3.0
+ 
+913 |is epic poem in the| with freq: 3.0
+ 
+914 |is epic poem   by| with freq: 3.0
+ 
+915 |is collection of poetry and| with freq: 3.0
+ 
+916 |is century of the| with freq: 3.0
+ 
+917 |is century attributed to| with freq: 3.0
+ 
+918 |is book by poet| with freq: 3.0
+ 
+919 |is author and poet| with freq: 3.0
+ 
+920 |is and a poem by| with freq: 3.0
+ 
+921 |is ancient Greek epic poem| with freq: 3.0
+ 
+922 |is ancient Greek epic| with freq: 3.0
+ 
+923 |is an poem to| with freq: 3.0
+ 
+924 |is an poem the century| with freq: 3.0
+ 
+925 |is an award winning poem by| with freq: 3.0
+ 
+926 |is an Greek and| with freq: 3.0
+ 
+927 |is a work the| with freq: 3.0
+ 
+928 |is a work of| with freq: 3.0
+ 
+929 |is a work by the poet| with freq: 3.0
+ 
+930 |is a work by poet| with freq: 3.0
+ 
+931 |is a verse poem by| with freq: 3.0
+ 
+932 |is a verse by poet| with freq: 3.0
+ 
+933 |is a translation of| with freq: 3.0
+ 
+934 |is a translation into Middle Scots of the Latin| with freq: 3.0
+ 
+935 |is a story by| with freq: 3.0
+ 
+936 |is a sonnet by the poet| with freq: 3.0
+ 
+937 |is a sonnet by the Romantic poet| with freq: 3.0
+ 
+938 |is a reworking of| with freq: 3.0
+ 
+939 |is a poetry collection by Canadian author| with freq: 3.0
+ 
+940 |is a poem written German| with freq: 3.0
+ 
+941 |is a poem of by the| with freq: 3.0
+ 
+942 |is a poem in the poet| with freq: 3.0
+ 
+943 |is a poem in of  by| with freq: 3.0
+ 
+944 |is a poem in in the| with freq: 3.0
+ 
+945 |is a poem in by English the| with freq: 3.0
+ 
+946 |is a poem in by  the| with freq: 3.0
+ 
+947 |is a poem in by  it was| with freq: 3.0
+ 
+948 |is a poem in and in| with freq: 3.0
+ 
+949 |is a poem in  by the| with freq: 3.0
+ 
+950 |is a poem by the poet  the| with freq: 3.0
+ 
+951 |is a poem by the century| with freq: 3.0
+ 
+952 |is a poem by the English poet William| with freq: 3.0
+ 
+953 |is a poem by his| with freq: 3.0
+ 
+954 |is a poem by and  the| with freq: 3.0
+ 
+955 |is a poem by William in in| with freq: 3.0
+ 
+956 |is a poem by William in and| with freq: 3.0
+ 
+957 |is a poem by William Wordsworth and the| with freq: 3.0
+ 
+958 |is a poem by William Wordsworth and| with freq: 3.0
+ 
+959 |is a poem by German writer| with freq: 3.0
+ 
+960 |is a poem by German| with freq: 3.0
+ 
+961 |is a poem by English of| with freq: 3.0
+ 
+962 |is a poem by  in the| with freq: 3.0
+ 
+963 |is a poem by  in  in| with freq: 3.0
+ 
+964 |is a poem by  for  the| with freq: 3.0
+ 
+965 |is a poem and song by| with freq: 3.0
+ 
+966 |is a poem and  of| with freq: 3.0
+ 
+967 |is a poem about| with freq: 3.0
+ 
+968 |is a poem a poet| with freq: 3.0
+ 
+969 |is a poem Irish poet| with freq: 3.0
+ 
+970 |is a poem  of the| with freq: 3.0
+ 
+971 |is a poem  of by| with freq: 3.0
+ 
+972 |is a poem  composed the| with freq: 3.0
+ 
+973 |is a poem  attributed to| with freq: 3.0
+ 
+974 |is a poem  and of| with freq: 3.0
+ 
+975 |is a poem  an| with freq: 3.0
+ 
+976 |is a poem  a| with freq: 3.0
+ 
+977 |is a poem   by poet| with freq: 3.0
+ 
+978 |is a parody of the Iliad attributed to| with freq: 3.0
+ 
+979 |is a parody of the Iliad| with freq: 3.0
+ 
+980 |is a love in| with freq: 3.0
+ 
+981 |is a love by poet| with freq: 3.0
+ 
+982 |is a line poem in| with freq: 3.0
+ 
+983 |is a length by| with freq: 3.0
+ 
+984 |is a language written| with freq: 3.0
+ 
+985 |is a hymn by| with freq: 3.0
+ 
+986 |is a feature by| with freq: 3.0
+ 
+987 |is a collection of poems by and| with freq: 3.0
+ 
+988 |is a collection of poems and by| with freq: 3.0
+ 
+989 |is a collection of English by| with freq: 3.0
+ 
+990 |is a collection of English| with freq: 3.0
+ 
+991 |is a collection of  by| with freq: 3.0
+ 
+992 |is a collection by American poet| with freq: 3.0
+ 
+993 |is a book of poems by American| with freq: 3.0
+ 
+994 |is a book of by poet| with freq: 3.0
+ 
+995 |is a book length poem by| with freq: 3.0
+ 
+996 |is a book by author| with freq: 3.0
+ 
+997 |is a book by English| with freq: 3.0
+ 
+998 |is a book by American| with freq: 3.0
+ 
+999 |is a book and by| with freq: 3.0
+ 
+1000 |is a ballet based the| with freq: 3.0
+ 
+1001 |is a ballad by the poet| with freq: 3.0
+ 
+1002 |is a ballad by the English poet| with freq: 3.0
+ 
+1003 |is a William of| with freq: 3.0
+ 
+1004 |is a Middle the| with freq: 3.0
+ 
+1005 |is Middle English poem| with freq: 3.0
+ 
+1006 |is Greek attributed to| with freq: 3.0
+ 
+1007 |is English and poet| with freq: 3.0
+ 
+1008 |is   by  by| with freq: 3.0
+ 
+1009 |is    the| with freq: 3.0
+ 
+1010 |in the   is a poem by| with freq: 3.0
+ 
+1011 |in Geoffrey Chaucer s| with freq: 3.0
+ 
+1012 |in  is a poetry by| with freq: 3.0
+ 
+1013 |from the  is a| with freq: 3.0
+ 
+1014 |from of  is a poem by| with freq: 3.0
+ 
+1015 |from  is a poem| with freq: 3.0
+ 
+1016 |for    is poem by| with freq: 3.0
+ 
+1017 |for    is a poem by| with freq: 3.0
+ 
+1018 |as or  is poem| with freq: 3.0
+ 
+1019 |as of  is poem by| with freq: 3.0
+ 
+1020 |as  The is a poem by| with freq: 3.0
+ 
+1021 |and is a poem by the| with freq: 3.0
+ 
+1022 |and    is| with freq: 3.0
+ 
+1023 |also the  was| with freq: 3.0
+ 
+1024 |also known the  of of| with freq: 3.0
+ 
+1025 |also is a poem| with freq: 3.0
+ 
+1026 |also called The Tale  is one of| with freq: 3.0
+ 
+1027 |also as  is a poem| with freq: 3.0
+ 
+1028 |also The  is the| with freq: 3.0
+ 
+1029 |also  is the son| with freq: 3.0
+ 
+1030 |also   known as| with freq: 3.0
+ 
+1031 |also    is| with freq: 3.0
+ 
+1032 |also    by| with freq: 3.0
+ 
+1033 |also     in Greek mythology  of| with freq: 3.0
+ 
+1034 |a  Homer s| with freq: 3.0
+ 
+1035 |The  is poem written| with freq: 3.0
+ 
+1036 |The  is poem in| with freq: 3.0
+ 
+1037 |The  is an poem by| with freq: 3.0
+ 
+1038 |The  is a poetry by| with freq: 3.0
+ 
+1039 |The  is a poem by the| with freq: 3.0
+ 
+1040 |The  is a book by| with freq: 3.0
+ 
+1041 |The  is a Scots by| with freq: 3.0
+ 
+1042 |Swedish   is a collection by the Swedish writer| with freq: 3.0
+ 
+1043 |Song   is a poem by| with freq: 3.0
+ 
+1044 |Song   is| with freq: 3.0
+ 
+1045 |Poem  is poem by| with freq: 3.0
+ 
+1046 |Middle English  The Tale  is the| with freq: 3.0
+ 
+1047 |Middle English  The Prioresses Tale  follows| with freq: 3.0
+ 
+1048 |Middle English  Tale  is| with freq: 3.0
+ 
+1049 |Latin   is the| with freq: 3.0
+ 
+1050 |Greek  Τηλεγόνεια  Tēlegoneia  Latin  Telegonia  is a lost ancient Greek epic poem about| with freq: 3.0
+ 
+1051 |Greek  was son of the| with freq: 3.0
+ 
+1052 |Greek  was son of| with freq: 3.0
+ 
+1053 |Greek  or  was| with freq: 3.0
+ 
+1054 |Greek   was ancient| with freq: 3.0
+ 
+1055 |Greek   is epic the| with freq: 3.0
+ 
+1056 |Greek   epic attributed to| with freq: 3.0
+ 
+1057 |Greek    is one of| with freq: 3.0
+ 
+1058 |Greek     also known     of and of| with freq: 3.0
+ 
+1059 |Greek      is a Greek  son of Odysseus| with freq: 3.0
+ 
+1060 |Greek       is a character in| with freq: 3.0
+ 
+1061 |Great  is a| with freq: 3.0
+ 
+1062 |German   is the| with freq: 3.0
+ 
+1063 |French   is the| with freq: 3.0
+ 
+1064 |English  of  is| with freq: 3.0
+ 
+1065 |English  is the| with freq: 3.0
+ 
+1066 |English   is poem by| with freq: 3.0
+ 
+1067 |Book   is| with freq: 3.0
+ 
+1068 |Ancient Greek  Πάνθοος   son of Othryas  was an elder of| with freq: 3.0
+ 
+1069 |Ancient Greek   was wife of| with freq: 3.0
+ 
+1070 |Ancient Greek   was the| with freq: 3.0
+ 
+1071 |Ancient Greek   was son of  of  of  and| with freq: 3.0
+ 
+1072 |Ancient Greek    is an| with freq: 3.0
+ 
+1073 |Ancient Greek    is a| with freq: 3.0
+ 
+1074 |Ancient Greek    is Greek poem that was attributed to| with freq: 3.0
+ 
+1075 |Ancient Greek     was the son of  of| with freq: 3.0
+ 
+1076 |A Poem is an| with freq: 3.0
+ 
+1077 |” is a poem by poet| with freq: 2.0
+ 
+1078 |Ἀρχέλοχος  was a son of Antenor and along with his brother| with freq: 2.0
+ 
+1079 |Μύδων  gen   Μύδωνος  was one of the defenders of Troy in| with freq: 2.0
+ 
+1080 |Μέντης  is the name of two different Trojan War leaders  the King of the Cicones  according to the| with freq: 2.0
+ 
+1081 |Κεβριόνης  was the illegitimate son of King| with freq: 2.0
+ 
+1082 |Εὔνηος  was a son of Jason and Queen Hypsipyle of| with freq: 2.0
+ 
+1083 |Δηίφοβος  was a son of| with freq: 2.0
+ 
+1084 |Αἰνειάδαι in Greek  were the friends  family and companions of| with freq: 2.0
+ 
+1085 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of Anchises  by his wife Themiste  sister of Laomedon and daughter of Ilus and| with freq: 2.0
+ 
+1086 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King Priam and Queen Hecuba of| with freq: 2.0
+ 
+1087 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of Hector  Crown Prince of Troy and Princess| with freq: 2.0
+ 
+1088 |ænˈkaɪsiːz   an KY seez or   æŋˈkaɪsiːz  ang KY seez  Ancient Greek  Ἀγχίσης  pronounced  aŋkʰi͜ísɛ͜ɛs   was the son of| with freq: 2.0
+ 
+1089 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of Nausithous  or of Phaeax  the son of Poseidon and Corcyra   and father of| with freq: 2.0
+ 
+1090 |was the squire of King Alcinous of Phaeacia who  on the evening of Odysseus s escorted departure to| with freq: 2.0
+ 
+1091 |was the son of of of| with freq: 2.0
+ 
+1092 |was the son of and one of the suitors of| with freq: 2.0
+ 
+1093 |was the son of and of  brother of| with freq: 2.0
+ 
+1094 |was the son of and  of| with freq: 2.0
+ 
+1095 |was the son of King and of| with freq: 2.0
+ 
+1096 |was the son of King Priam of| with freq: 2.0
+ 
+1097 |was the son of  of| with freq: 2.0
+ 
+1098 |was a son of of| with freq: 2.0
+ 
+1099 |was a son of and brother| with freq: 2.0
+ 
+1100 |was a son of  of   and father of| with freq: 2.0
+ 
+1101 |was a slave of| with freq: 2.0
+ 
+1102 |was a priest of| with freq: 2.0
+ 
+1103 |was a name of| with freq: 2.0
+ 
+1104 |was a king of of| with freq: 2.0
+ 
+1105 |was a hero of| with freq: 2.0
+ 
+1106 |was a Trojan in| with freq: 2.0
+ 
+1107 |was a Trojan and the| with freq: 2.0
+ 
+1108 |was a Greek of the Trojan War the| with freq: 2.0
+ 
+1109 |was a Greek of| with freq: 2.0
+ 
+1110 |was a Greek  the| with freq: 2.0
+ 
+1111 |was a Cretan commander  father of| with freq: 2.0
+ 
+1112 |was Greek of of| with freq: 2.0
+ 
+1113 |was English  for| with freq: 2.0
+ 
+1114 |was   to| with freq: 2.0
+ 
+1115 |was   in| with freq: 2.0
+ 
+1116 |was     of and| with freq: 2.0
+ 
+1117 |to  is poem| with freq: 2.0
+ 
+1118 |to   is the| with freq: 2.0
+ 
+1119 |to   is a poem by the poet| with freq: 2.0
+ 
+1120 |title   is a poem by| with freq: 2.0
+ 
+1121 |the s  is a poem by| with freq: 2.0
+ 
+1122 |the name given to the| with freq: 2.0
+ 
+1123 |the  of  is a poem by| with freq: 2.0
+ 
+1124 |the  is poem in by| with freq: 2.0
+ 
+1125 |the  is poem by the poet and| with freq: 2.0
+ 
+1126 |the  is poem by poet| with freq: 2.0
+ 
+1127 |the  is a poem by the| with freq: 2.0
+ 
+1128 |the   is the| with freq: 2.0
+ 
+1129 |the    is a poem by| with freq: 2.0
+ 
+1130 |spelled    is the| with freq: 2.0
+ 
+1131 |s  is poem in by| with freq: 2.0
+ 
+1132 |s  is poem| with freq: 2.0
+ 
+1133 |s  is an poem by| with freq: 2.0
+ 
+1134 |s  is a poem| with freq: 2.0
+ 
+1135 |published  is a poem by| with freq: 2.0
+ 
+1136 |possibly meaning     son of the| with freq: 2.0
+ 
+1137 |poem  was written| with freq: 2.0
+ 
+1138 |originally  is poem by the poet| with freq: 2.0
+ 
+1139 |originally    is a poem by| with freq: 2.0
+ 
+1140 |original title   is a poem by| with freq: 2.0
+ 
+1141 |original name Die Kraniche des| with freq: 2.0
+ 
+1142 |or was son of| with freq: 2.0
+ 
+1143 |or of  is poem in by| with freq: 2.0
+ 
+1144 |or of  is poem in| with freq: 2.0
+ 
+1145 |or is poem in by the| with freq: 2.0
+ 
+1146 |or is poem by the poet| with freq: 2.0
+ 
+1147 |or is epic of the Iliad the| with freq: 2.0
+ 
+1148 |or is a poem the| with freq: 2.0
+ 
+1149 |or is a poem by the poet| with freq: 2.0
+ 
+1150 |or is a poem by the| with freq: 2.0
+ 
+1151 |or Great  is a poem by| with freq: 2.0
+ 
+1152 |or  the   is a| with freq: 2.0
+ 
+1153 |or  of  is poem by the poet| with freq: 2.0
+ 
+1154 |or  is poem the| with freq: 2.0
+ 
+1155 |or  is an poem in by the poet| with freq: 2.0
+ 
+1156 |or  is an poem in by the| with freq: 2.0
+ 
+1157 |or  is an poem by| with freq: 2.0
+ 
+1158 |or  is a poem the| with freq: 2.0
+ 
+1159 |or  is a poem in by| with freq: 2.0
+ 
+1160 |or  also     is| with freq: 2.0
+ 
+1161 |or  The  is a| with freq: 2.0
+ 
+1162 |or  The   is poem by| with freq: 2.0
+ 
+1163 |or   was the son of| with freq: 2.0
+ 
+1164 |or   of  is a poem| with freq: 2.0
+ 
+1165 |or   is poem in by| with freq: 2.0
+ 
+1166 |or   is poem| with freq: 2.0
+ 
+1167 |or   is a poem in by| with freq: 2.0
+ 
+1168 |or   attributed to| with freq: 2.0
+ 
+1169 |or   also   is a| with freq: 2.0
+ 
+1170 |or    is  the| with freq: 2.0
+ 
+1171 |or    in   is| with freq: 2.0
+ 
+1172 |or    attributed to| with freq: 2.0
+ 
+1173 |or         is a| with freq: 2.0
+ 
+1174 |on the   is a poem by| with freq: 2.0
+ 
+1175 |of s poem the| with freq: 2.0
+ 
+1176 |of and  is a poem by| with freq: 2.0
+ 
+1177 |of Geoffrey Chaucer s| with freq: 2.0
+ 
+1178 |of  is the poem by the poet| with freq: 2.0
+ 
+1179 |of  is poem the poet| with freq: 2.0
+ 
+1180 |of  is poem in| with freq: 2.0
+ 
+1181 |of  is poem by the English poet| with freq: 2.0
+ 
+1182 |of  is poem by the English| with freq: 2.0
+ 
+1183 |of  is an poem by the poet| with freq: 2.0
+ 
+1184 |of  is an poem| with freq: 2.0
+ 
+1185 |of  is a poem the poet| with freq: 2.0
+ 
+1186 |of  is a poem in| with freq: 2.0
+ 
+1187 |of  is a poem by the Roman poet| with freq: 2.0
+ 
+1188 |of  is a collection of poems by| with freq: 2.0
+ 
+1189 |of   or  is a poem by| with freq: 2.0
+ 
+1190 |of   is poem by the poet| with freq: 2.0
+ 
+1191 |of   is a poem in by| with freq: 2.0
+ 
+1192 |of   is a poem by the| with freq: 2.0
+ 
+1193 |of    is epic in| with freq: 2.0
+ 
+1194 |of    is Homer| with freq: 2.0
+ 
+1195 |nɔːˈsɪkiə  or  nɔːsɪˈkeɪə   Greek  Ναυσικάα or Ναυσικᾶ  pronounced  na͜ʊsikâ   also Nausicaä  Nausikaa  is a character in| with freq: 2.0
+ 
+1196 |ləˈvɪniə   Latin  Lāuīnĭa  laːˈwiːnia   is the daughter of Latinus and| with freq: 2.0
+ 
+1197 |literally    is poem by| with freq: 2.0
+ 
+1198 |known as The  is poem by| with freq: 2.0
+ 
+1199 |known as  or  is poem by| with freq: 2.0
+ 
+1200 |known as  is a poem by poet| with freq: 2.0
+ 
+1201 |known as   is a poem by| with freq: 2.0
+ 
+1202 |known as   is| with freq: 2.0
+ 
+1203 |known as    is poem by| with freq: 2.0
+ 
+1204 |known as    is| with freq: 2.0
+ 
+1205 |known  is the poem by| with freq: 2.0
+ 
+1206 |known  is a poem by| with freq: 2.0
+ 
+1207 |known   in   is and| with freq: 2.0
+ 
+1208 |known     is a poem by| with freq: 2.0
+ 
+1209 |is writer and poet| with freq: 2.0
+ 
+1210 |is work of poet| with freq: 2.0
+ 
+1211 |is war poem by| with freq: 2.0
+ 
+1212 |is version of the| with freq: 2.0
+ 
+1213 |is two  the  the| with freq: 2.0
+ 
+1214 |is the work by| with freq: 2.0
+ 
+1215 |is the title of poem by| with freq: 2.0
+ 
+1216 |is the title of a series of by| with freq: 2.0
+ 
+1217 |is the title of| with freq: 2.0
+ 
+1218 |is the tale in| with freq: 2.0
+ 
+1219 |is the sonnets by| with freq: 2.0
+ 
+1220 |is the son to| with freq: 2.0
+ 
+1221 |is the poetry of| with freq: 2.0
+ 
+1222 |is the poems the| with freq: 2.0
+ 
+1223 |is the poem the| with freq: 2.0
+ 
+1224 |is the poem by the poet| with freq: 2.0
+ 
+1225 |is the poem by American| with freq: 2.0
+ 
+1226 |is the name of two of| with freq: 2.0
+ 
+1227 |is the name of two| with freq: 2.0
+ 
+1228 |is the name of poem by| with freq: 2.0
+ 
+1229 |is the name of an| with freq: 2.0
+ 
+1230 |is the name of  of| with freq: 2.0
+ 
+1231 |is the name   and| with freq: 2.0
+ 
+1232 |is the line of| with freq: 2.0
+ 
+1233 |is the daughter of and| with freq: 2.0
+ 
+1234 |is the collection the| with freq: 2.0
+ 
+1235 |is the collection of the poetry of Bahr ul uloom Hazrat Moulana Maulvi| with freq: 2.0
+ 
+1236 |is the book of by| with freq: 2.0
+ 
+1237 |is the War of| with freq: 2.0
+ 
+1238 |is the Geoffrey Chaucer s   the| with freq: 2.0
+ 
+1239 |is the  the  the| with freq: 2.0
+ 
+1240 |is the  s the| with freq: 2.0
+ 
+1241 |is the  in by| with freq: 2.0
+ 
+1242 |is the  in and| with freq: 2.0
+ 
+1243 |is the  by the| with freq: 2.0
+ 
+1244 |is the  and in| with freq: 2.0
+ 
+1245 |is the   in| with freq: 2.0
+ 
+1246 |is prophetic the English| with freq: 2.0
+ 
+1247 |is popular poem by| with freq: 2.0
+ 
+1248 |is poetry by and| with freq: 2.0
+ 
+1249 |is poem the  of| with freq: 2.0
+ 
+1250 |is poem T  S  Eliot| with freq: 2.0
+ 
+1251 |is part of Geoffrey Chaucer s| with freq: 2.0
+ 
+1252 |is part of Chaucer s| with freq: 2.0
+ 
+1253 |is one of writer| with freq: 2.0
+ 
+1254 |is one of the poet| with freq: 2.0
+ 
+1255 |is one of the demons in the Inferno of| with freq: 2.0
+ 
+1256 |is one of characters in| with freq: 2.0
+ 
+1257 |is one of by the English| with freq: 2.0
+ 
+1258 |is one of by English| with freq: 2.0
+ 
+1259 |is one of English| with freq: 2.0
+ 
+1260 |is one of  by| with freq: 2.0
+ 
+1261 |is narrative poem by poet| with freq: 2.0
+ 
+1262 |is narrative poem by American| with freq: 2.0
+ 
+1263 |is narrative poem   by| with freq: 2.0
+ 
+1264 |is major the poet| with freq: 2.0
+ 
+1265 |is major the English poet| with freq: 2.0
+ 
+1266 |is major poem by| with freq: 2.0
+ 
+1267 |is major of the poet| with freq: 2.0
+ 
+1268 |is long poem in by| with freq: 2.0
+ 
+1269 |is long poem by the| with freq: 2.0
+ 
+1270 |is known also as the Rossetti Manuscript from its association with its former owner| with freq: 2.0
+ 
+1271 |is first of poet| with freq: 2.0
+ 
+1272 |is first by poet| with freq: 2.0
+ 
+1273 |is epic the  by| with freq: 2.0
+ 
+1274 |is epic poem was to| with freq: 2.0
+ 
+1275 |is epic poem in by the| with freq: 2.0
+ 
+1276 |is epic poem in  by| with freq: 2.0
+ 
+1277 |is epic poem in| with freq: 2.0
+ 
+1278 |is epic poem  written| with freq: 2.0
+ 
+1279 |is epic poem  of| with freq: 2.0
+ 
+1280 |is epic of Homer| with freq: 2.0
+ 
+1281 |is dramatic monologue by| with freq: 2.0
+ 
+1282 |is collection of the poetry of| with freq: 2.0
+ 
+1283 |is collection of prose by| with freq: 2.0
+ 
+1284 |is collection of of| with freq: 2.0
+ 
+1285 |is book of the| with freq: 2.0
+ 
+1286 |is book of by Canadian author| with freq: 2.0
+ 
+1287 |is award winning poem by the poet| with freq: 2.0
+ 
+1288 |is award winning poem by the Indian English poet| with freq: 2.0
+ 
+1289 |is award winning poem by| with freq: 2.0
+ 
+1290 |is and by the poet| with freq: 2.0
+ 
+1291 |is an verse by| with freq: 2.0
+ 
+1292 |is an poem was to| with freq: 2.0
+ 
+1293 |is an poem the death of| with freq: 2.0
+ 
+1294 |is an poem in  by| with freq: 2.0
+ 
+1295 |is an poem by the century poet| with freq: 2.0
+ 
+1296 |is an poem by the Indian poet| with freq: 2.0
+ 
+1297 |is an poem by the English| with freq: 2.0
+ 
+1298 |is an poem by author| with freq: 2.0
+ 
+1299 |is an poem by Indian poet| with freq: 2.0
+ 
+1300 |is an poem  written to| with freq: 2.0
+ 
+1301 |is an poem  the| with freq: 2.0
+ 
+1302 |is an poem   by| with freq: 2.0
+ 
+1303 |is an opera in acts by libretto by Shakespeare s| with freq: 2.0
+ 
+1304 |is an elegy by| with freq: 2.0
+ 
+1305 |is an book of| with freq: 2.0
+ 
+1306 |is an anti war poem by| with freq: 2.0
+ 
+1307 |is an adaptation by Nahum Tate of| with freq: 2.0
+ 
+1308 |is an Urdu written by| with freq: 2.0
+ 
+1309 |is an Old French by| with freq: 2.0
+ 
+1310 |is an Homer s| with freq: 2.0
+ 
+1311 |is a work the poet| with freq: 2.0
+ 
+1312 |is a volume by| with freq: 2.0
+ 
+1313 |is a version of the| with freq: 2.0
+ 
+1314 |is a verses by| with freq: 2.0
+ 
+1315 |is a verse the| with freq: 2.0
+ 
+1316 |is a verse of| with freq: 2.0
+ 
+1317 |is a verse novel by| with freq: 2.0
+ 
+1318 |is a verse by the poet| with freq: 2.0
+ 
+1319 |is a translation into of the| with freq: 2.0
+ 
+1320 |is a translation into Middle Scots of the Latin Virgil s| with freq: 2.0
+ 
+1321 |is a tale in verse by| with freq: 2.0
+ 
+1322 |is a son of| with freq: 2.0
+ 
+1323 |is a sequence by| with freq: 2.0
+ 
+1324 |is a s poem| with freq: 2.0
+ 
+1325 |is a s play| with freq: 2.0
+ 
+1326 |is a s and the| with freq: 2.0
+ 
+1327 |is a romance the| with freq: 2.0
+ 
+1328 |is a reworking of William Shakespeare s| with freq: 2.0
+ 
+1329 |is a prose by writer| with freq: 2.0
+ 
+1330 |is a prose by the| with freq: 2.0
+ 
+1331 |is a prose by poet| with freq: 2.0
+ 
+1332 |is a prose and| with freq: 2.0
+ 
+1333 |is a poetry in| with freq: 2.0
+ 
+1334 |is a poetry collection by the American| with freq: 2.0
+ 
+1335 |is a poetry collection by the| with freq: 2.0
+ 
+1336 |is a poetry by American| with freq: 2.0
+ 
+1337 |is a poem with| with freq: 2.0
+ 
+1338 |is a poem which poet| with freq: 2.0
+ 
+1339 |is a poem verse by| with freq: 2.0
+ 
+1340 |is a poem verse   by| with freq: 2.0
+ 
+1341 |is a poem published the| with freq: 2.0
+ 
+1342 |is a poem of the Book of| with freq: 2.0
+ 
+1343 |is a poem of lines the| with freq: 2.0
+ 
+1344 |is a poem novel| with freq: 2.0
+ 
+1345 |is a poem lines by| with freq: 2.0
+ 
+1346 |is a poem in the Book of| with freq: 2.0
+ 
+1347 |is a poem in the  the| with freq: 2.0
+ 
+1348 |is a poem in parts by| with freq: 2.0
+ 
+1349 |is a poem in heroic couplets by| with freq: 2.0
+ 
+1350 |is a poem in couplets by| with freq: 2.0
+ 
+1351 |is a poem in by the English poet William Wordsworth and the| with freq: 2.0
+ 
+1352 |is a poem in by poet and| with freq: 2.0
+ 
+1353 |is a poem in by for the| with freq: 2.0
+ 
+1354 |is a poem in by and| with freq: 2.0
+ 
+1355 |is a poem in by  was and| with freq: 2.0
+ 
+1356 |is a poem in and by| with freq: 2.0
+ 
+1357 |is a poem in a| with freq: 2.0
+ 
+1358 |is a poem in Middle the| with freq: 2.0
+ 
+1359 |is a poem in Latin| with freq: 2.0
+ 
+1360 |is a poem in  written by| with freq: 2.0
+ 
+1361 |is a poem in  written| with freq: 2.0
+ 
+1362 |is a poem in  the poet| with freq: 2.0
+ 
+1363 |is a poem in  in by| with freq: 2.0
+ 
+1364 |is a poem in  by poet| with freq: 2.0
+ 
+1365 |is a poem in  and in the| with freq: 2.0
+ 
+1366 |is a poem in  and in| with freq: 2.0
+ 
+1367 |is a poem in  and| with freq: 2.0
+ 
+1368 |is a poem from T  S  Eliot s| with freq: 2.0
+ 
+1369 |is a poem first published  by| with freq: 2.0
+ 
+1370 |is a poem collection| with freq: 2.0
+ 
+1371 |is a poem century| with freq: 2.0
+ 
+1372 |is a poem by which in the| with freq: 2.0
+ 
+1373 |is a poem by the poet  and the| with freq: 2.0
+ 
+1374 |is a poem by the poet  and| with freq: 2.0
+ 
+1375 |is a poem by the German writer| with freq: 2.0
+ 
+1376 |is a poem by the English poet  and| with freq: 2.0
+ 
+1377 |is a poem by the English author| with freq: 2.0
+ 
+1378 |is a poem by tells the story of| with freq: 2.0
+ 
+1379 |is a poem by in to| with freq: 2.0
+ 
+1380 |is a poem by in in his| with freq: 2.0
+ 
+1381 |is a poem by from of| with freq: 2.0
+ 
+1382 |is a poem by first published in in| with freq: 2.0
+ 
+1383 |is a poem by first published in| with freq: 2.0
+ 
+1384 |is a poem by William to| with freq: 2.0
+ 
+1385 |is a poem by William the  in| with freq: 2.0
+ 
+1386 |is a poem by William his| with freq: 2.0
+ 
+1387 |is a poem by William Wordsworth and in the| with freq: 2.0
+ 
+1388 |is a poem by William  in the| with freq: 2.0
+ 
+1389 |is a poem by Scottish| with freq: 2.0
+ 
+1390 |is a poem by Roman| with freq: 2.0
+ 
+1391 |is a poem by Robert in  the| with freq: 2.0
+ 
+1392 |is a poem by Robert in  and the| with freq: 2.0
+ 
+1393 |is a poem by Nobel laureate| with freq: 2.0
+ 
+1394 |is a poem by Middle| with freq: 2.0
+ 
+1395 |is a poem by English of the| with freq: 2.0
+ 
+1396 |is a poem by Canadian poet| with freq: 2.0
+ 
+1397 |is a poem by Anglo Irish poet| with freq: 2.0
+ 
+1398 |is a poem by American and poet| with freq: 2.0
+ 
+1399 |is a poem by  was| with freq: 2.0
+ 
+1400 |is a poem by  of the| with freq: 2.0
+ 
+1401 |is a poem by    the| with freq: 2.0
+ 
+1402 |is a poem and written| with freq: 2.0
+ 
+1403 |is a poem and of| with freq: 2.0
+ 
+1404 |is a poem and  of and| with freq: 2.0
+ 
+1405 |is a poem T  S  Eliot| with freq: 2.0
+ 
+1406 |is a poem French| with freq: 2.0
+ 
+1407 |is a poem  poet| with freq: 2.0
+ 
+1408 |is a poem  in by the| with freq: 2.0
+ 
+1409 |is a poem  in and| with freq: 2.0
+ 
+1410 |is a poem  The| with freq: 2.0
+ 
+1411 |is a poem   to| with freq: 2.0
+ 
+1412 |is a poem   in by the| with freq: 2.0
+ 
+1413 |is a poem     by| with freq: 2.0
+ 
+1414 |is a play to| with freq: 2.0
+ 
+1415 |is a play in by| with freq: 2.0
+ 
+1416 |is a play by Shakespeare| with freq: 2.0
+ 
+1417 |is a parody by the| with freq: 2.0
+ 
+1418 |is a ode by| with freq: 2.0
+ 
+1419 |is a medieval the| with freq: 2.0
+ 
+1420 |is a love poem in by poet| with freq: 2.0
+ 
+1421 |is a film starring| with freq: 2.0
+ 
+1422 |is a film poem by poet and| with freq: 2.0
+ 
+1423 |is a cycle of poems by| with freq: 2.0
+ 
+1424 |is a compilation of by| with freq: 2.0
+ 
+1425 |is a collection the writer| with freq: 2.0
+ 
+1426 |is a collection of poetry by poet and| with freq: 2.0
+ 
+1427 |is a collection of poet and| with freq: 2.0
+ 
+1428 |is a collection of poems by American poet| with freq: 2.0
+ 
+1429 |is a collection of by the writer| with freq: 2.0
+ 
+1430 |is a collection of by the author| with freq: 2.0
+ 
+1431 |is a collection of by English| with freq: 2.0
+ 
+1432 |is a collection of by American poet| with freq: 2.0
+ 
+1433 |is a collection of 32 poems by| with freq: 2.0
+ 
+1434 |is a collection of  the| with freq: 2.0
+ 
+1435 |is a collection of   by| with freq: 2.0
+ 
+1436 |is a collection in by| with freq: 2.0
+ 
+1437 |is a collection by American writer| with freq: 2.0
+ 
+1438 |is a character in of| with freq: 2.0
+ 
+1439 |is a character in in| with freq: 2.0
+ 
+1440 |is a character in Dante s| with freq: 2.0
+ 
+1441 |is a century poem attributed to| with freq: 2.0
+ 
+1442 |is a century of| with freq: 2.0
+ 
+1443 |is a books of| with freq: 2.0
+ 
+1444 |is a book of poetry by Canadian author| with freq: 2.0
+ 
+1445 |is a book of poetry by Canadian| with freq: 2.0
+ 
+1446 |is a book of by author| with freq: 2.0
+ 
+1447 |is a book of by American| with freq: 2.0
+ 
+1448 |is a book by the English poet and| with freq: 2.0
+ 
+1449 |is a ballad by English Romantic poet| with freq: 2.0
+ 
+1450 |is a adaptation of and| with freq: 2.0
+ 
+1451 |is a William s| with freq: 2.0
+ 
+1452 |is a William Shakespeare| with freq: 2.0
+ 
+1453 |is a T  S  Eliot| with freq: 2.0
+ 
+1454 |is a Shakespeare s play| with freq: 2.0
+ 
+1455 |is a Scots by the| with freq: 2.0
+ 
+1456 |is a Scots by poet| with freq: 2.0
+ 
+1457 |is a Scots and the| with freq: 2.0
+ 
+1458 |is a Scots Latin| with freq: 2.0
+ 
+1459 |is a Old by| with freq: 2.0
+ 
+1460 |is a Middle romance| with freq: 2.0
+ 
+1461 |is a Middle by the poet| with freq: 2.0
+ 
+1462 |is a Middle Scots the| with freq: 2.0
+ 
+1463 |is a Middle Scots of the| with freq: 2.0
+ 
+1464 |is a Middle High German by| with freq: 2.0
+ 
+1465 |is a Middle English romance| with freq: 2.0
+ 
+1466 |is a Latin poem by the| with freq: 2.0
+ 
+1467 |is a Latin epic poem by| with freq: 2.0
+ 
+1468 |is a Latin by the poet| with freq: 2.0
+ 
+1469 |is a Hindi film by| with freq: 2.0
+ 
+1470 |is a Hindi and by| with freq: 2.0
+ 
+1471 |is a Hindi  by| with freq: 2.0
+ 
+1472 |is a Greek the| with freq: 2.0
+ 
+1473 |is a Greek epic in| with freq: 2.0
+ 
+1474 |is a Geoffrey Chaucer| with freq: 2.0
+ 
+1475 |is a Christmas poem by| with freq: 2.0
+ 
+1476 |is a Ancient Greek| with freq: 2.0
+ 
+1477 |is Middle of the| with freq: 2.0
+ 
+1478 |is Middle English the story of| with freq: 2.0
+ 
+1479 |is Latin by the Roman poet| with freq: 2.0
+ 
+1480 |is Latin  written by| with freq: 2.0
+ 
+1481 |is Homer s  the home of| with freq: 2.0
+ 
+1482 |is Greek epic in to| with freq: 2.0
+ 
+1483 |is Greek  son of| with freq: 2.0
+ 
+1484 |is Greek  of| with freq: 2.0
+ 
+1485 |is English  the| with freq: 2.0
+ 
+1486 |is Canterbury Tales by| with freq: 2.0
+ 
+1487 |is Canadian poet and songwriter| with freq: 2.0
+ 
+1488 |is Canadian poet and| with freq: 2.0
+ 
+1489 |is African American writer and poet| with freq: 2.0
+ 
+1490 |is  with a libretto by| with freq: 2.0
+ 
+1491 |is  the  by| with freq: 2.0
+ 
+1492 |is  epic poem| with freq: 2.0
+ 
+1493 |is  Homer s| with freq: 2.0
+ 
+1494 |is   in William| with freq: 2.0
+ 
+1495 |is   by the| with freq: 2.0
+ 
+1496 |is   by German| with freq: 2.0
+ 
+1497 |is    in| with freq: 2.0
+ 
+1498 |is     in| with freq: 2.0
+ 
+1499 |in the  is an| with freq: 2.0
+ 
+1500 |in the  is a poem by| with freq: 2.0
+ 
+1501 |in   is a poem in by| with freq: 2.0
+ 
+1502 |from  is a poem by| with freq: 2.0
+ 
+1503 |from   is a poem by| with freq: 2.0
+ 
+1504 |for  is line poem by| with freq: 2.0
+ 
+1505 |first   the   is a poem by| with freq: 2.0
+ 
+1506 |died 1296 
+Donati  brother of Corso and| with freq: 2.0
+ 
+1507 |by the  was and| with freq: 2.0
+ 
+1508 |by the  and s| with freq: 2.0
+ 
+1509 |as or  is to| with freq: 2.0
+ 
+1510 |as or  is poem by| with freq: 2.0
+ 
+1511 |as of  is poem| with freq: 2.0
+ 
+1512 |as of  is a poem by| with freq: 2.0
+ 
+1513 |as The My  is a poem by| with freq: 2.0
+ 
+1514 |as The  is poem by| with freq: 2.0
+ 
+1515 |as  the   is a poem by| with freq: 2.0
+ 
+1516 |as  of   is a poem by| with freq: 2.0
+ 
+1517 |as  is the born| with freq: 2.0
+ 
+1518 |as  is son| with freq: 2.0
+ 
+1519 |as  is a poem by the poet| with freq: 2.0
+ 
+1520 |as  is a poem by the| with freq: 2.0
+ 
+1521 |as  is a Scots by| with freq: 2.0
+ 
+1522 |as  The of   is a poem by| with freq: 2.0
+ 
+1523 |as   or of   is a poem by| with freq: 2.0
+ 
+1524 |as   or   is poem by| with freq: 2.0
+ 
+1525 |as   is| with freq: 2.0
+ 
+1526 |as   The   is poem by| with freq: 2.0
+ 
+1527 |as    is and| with freq: 2.0
+ 
+1528 |as    is| with freq: 2.0
+ 
+1529 |as     is a poem by| with freq: 2.0
+ 
+1530 |are a set of| with freq: 2.0
+ 
+1531 |and other poems is a book by| with freq: 2.0
+ 
+1532 |and is the son of| with freq: 2.0
+ 
+1533 |and in  is poem by| with freq: 2.0
+ 
+1534 |and  is a poem in by| with freq: 2.0
+ 
+1535 |and  is a collection of poems by| with freq: 2.0
+ 
+1536 |and   is epic by| with freq: 2.0
+ 
+1537 |and   is epic| with freq: 2.0
+ 
+1538 |also known the name| with freq: 2.0
+ 
+1539 |also known the  of| with freq: 2.0
+ 
+1540 |also known the     a| with freq: 2.0
+ 
+1541 |also known  a poem the| with freq: 2.0
+ 
+1542 |also known    a poem| with freq: 2.0
+ 
+1543 |also is the name of| with freq: 2.0
+ 
+1544 |also called The Tale of Melibeus  is one of| with freq: 2.0
+ 
+1545 |also called The Sailor s Tale  is one of| with freq: 2.0
+ 
+1546 |also as  is a poem by the| with freq: 2.0
+ 
+1547 |also Rifeo and Rupheo  was a Trojan hero and the name of a figure from the| with freq: 2.0
+ 
+1548 |also  the son and| with freq: 2.0
+ 
+1549 |also  the name of a| with freq: 2.0
+ 
+1550 |also  the name| with freq: 2.0
+ 
+1551 |also  is the name| with freq: 2.0
+ 
+1552 |also  is a s| with freq: 2.0
+ 
+1553 |also   in mythology  the wife of King| with freq: 2.0
+ 
+1554 |also   in mythology  of| with freq: 2.0
+ 
+1555 |also    of| with freq: 2.0
+ 
+1556 |also    is a poem by| with freq: 2.0
+ 
+1557 |also    in| with freq: 2.0
+ 
+1558 |also    a Greek| with freq: 2.0
+ 
+1559 |also     of a| with freq: 2.0
+ 
+1560 |also     is the name of in| with freq: 2.0
+ 
+1561 |also      by| with freq: 2.0
+ 
+1562 |also      a| with freq: 2.0
+ 
+1563 |also       was the son of the| with freq: 2.0
+ 
+1564 |also       was a Greek of of| with freq: 2.0
+ 
+1565 |also       in  the| with freq: 2.0
+ 
+1566 |also       and the| with freq: 2.0
+ 
+1567 |also        the| with freq: 2.0
+ 
+1568 |a poem written the| with freq: 2.0
+ 
+1569 |a poem which was| with freq: 2.0
+ 
+1570 |a poem was published| with freq: 2.0
+ 
+1571 |a  was the| with freq: 2.0
+ 
+1572 |a  is poem by| with freq: 2.0
+ 
+1573 |a  Homer s the home of| with freq: 2.0
+ 
+1574 |a   is poem by| with freq: 2.0
+ 
+1575 |a   is a Scots by| with freq: 2.0
+ 
+1576 |a   is a| with freq: 2.0
+ 
+1577 |To   is a poem| with freq: 2.0
+ 
+1578 |To   is a line poem| with freq: 2.0
+ 
+1579 |The Tale  is the| with freq: 2.0
+ 
+1580 |The Tale  is one of The Canterbury Tales by| with freq: 2.0
+ 
+1581 |The Cat About Town  is a poem from| with freq: 2.0
+ 
+1582 |The  is poem in by the poet| with freq: 2.0
+ 
+1583 |The  is poem by poet| with freq: 2.0
+ 
+1584 |The  is epic poem by| with freq: 2.0
+ 
+1585 |The  is a poem the| with freq: 2.0
+ 
+1586 |The  is a poem in the| with freq: 2.0
+ 
+1587 |The  is a poem by poet| with freq: 2.0
+ 
+1588 |The  is a play| with freq: 2.0
+ 
+1589 |The  is a collection of by| with freq: 2.0
+ 
+1590 |The   is a line poem| with freq: 2.0
+ 
+1591 |Russian    is a poem by| with freq: 2.0
+ 
+1592 |Middle English  Þe Seconde Nonnes Tale  is part of| with freq: 2.0
+ 
+1593 |Middle English  The Tale  s| with freq: 2.0
+ 
+1594 |Middle English  The Tale  is one of| with freq: 2.0
+ 
+1595 |Middle English  The Tale  Geoffrey Chaucer s| with freq: 2.0
+ 
+1596 |Middle English  The Prioresses Tale  follows The Shipman s Tale in| with freq: 2.0
+ 
+1597 |Middle English  The Frankeleyns Tale  is one of| with freq: 2.0
+ 
+1598 |Middle English  Tale  is the| with freq: 2.0
+ 
+1599 |Middle English   is| with freq: 2.0
+ 
+1600 |Maid  is a poem by| with freq: 2.0
+ 
+1601 |Latin  literally  Whom I   are the words  in| with freq: 2.0
+ 
+1602 |Latin   is poem by| with freq: 2.0
+ 
+1603 |Latin   is epic poem of| with freq: 2.0
+ 
+1604 |Latin   is epic poem by| with freq: 2.0
+ 
+1605 |Latin      is the poet| with freq: 2.0
+ 
+1606 |King  on the| with freq: 2.0
+ 
+1607 |Greek  Φήμιος  Phêmios  is an| with freq: 2.0
+ 
+1608 |Greek  Τηλεγόνεια  Tēlegoneia  Latin  Telegonia  is a lost ancient Greek epic poem about Telegonus  son of| with freq: 2.0
+ 
+1609 |Greek  Κλυτίος  also spelled Klythios  Klytios  Clytios  and Klytius  is the name of multiple people in Greek mythology 
+A son of Laomedon  brother of| with freq: 2.0
+ 
+1610 |Greek  was the son of| with freq: 2.0
+ 
+1611 |Greek  is epic poem the| with freq: 2.0
+ 
+1612 |Greek   was and of| with freq: 2.0
+ 
+1613 |Greek   was an| with freq: 2.0
+ 
+1614 |Greek   was a city| with freq: 2.0
+ 
+1615 |Greek   was Greek epic| with freq: 2.0
+ 
+1616 |Greek   pronounced| with freq: 2.0
+ 
+1617 |Greek   is the son of and  in| with freq: 2.0
+ 
+1618 |Greek   is the name of| with freq: 2.0
+ 
+1619 |Greek   is epic poem  of| with freq: 2.0
+ 
+1620 |Greek   is ancient epic poem of| with freq: 2.0
+ 
+1621 |Greek   is a Greek epic poem| with freq: 2.0
+ 
+1622 |Greek   is a Greek  the| with freq: 2.0
+ 
+1623 |Greek   is a Greek  in| with freq: 2.0
+ 
+1624 |Greek   is Greek epic| with freq: 2.0
+ 
+1625 |Greek    was a king of of| with freq: 2.0
+ 
+1626 |Greek    was   a son of| with freq: 2.0
+ 
+1627 |Greek    is epic  by| with freq: 2.0
+ 
+1628 |Greek     also as    is| with freq: 2.0
+ 
+1629 |Greek     also   is a| with freq: 2.0
+ 
+1630 |Greek      was the daughter of| with freq: 2.0
+ 
+1631 |Greek      is a poem| with freq: 2.0
+ 
+1632 |Greek      is Greek| with freq: 2.0
+ 
+1633 |Greek      is  of| with freq: 2.0
+ 
+1634 |Greek       was the son of the| with freq: 2.0
+ 
+1635 |Greek        is a| with freq: 2.0
+ 
+1636 |Great  is a poem by| with freq: 2.0
+ 
+1637 |Great  is a poem| with freq: 2.0
+ 
+1638 |German   is a collection of by Bohemian Austrian poet and novelist| with freq: 2.0
+ 
+1639 |German   is a| with freq: 2.0
+ 
+1640 |German   is German| with freq: 2.0
+ 
+1641 |German    is a poem the German| with freq: 2.0
+ 
+1642 |French   is an poem by| with freq: 2.0
+ 
+1643 |English poet and  published| with freq: 2.0
+ 
+1644 |English of  is a poem the| with freq: 2.0
+ 
+1645 |English is a poem in| with freq: 2.0
+ 
+1646 |English is a poem by| with freq: 2.0
+ 
+1647 |English The  is a| with freq: 2.0
+ 
+1648 |English  the  is| with freq: 2.0
+ 
+1649 |English  is a poem in| with freq: 2.0
+ 
+1650 |English  The  is a poem| with freq: 2.0
+ 
+1651 |English   is a poem by poet| with freq: 2.0
+ 
+1652 |English   is a collection of| with freq: 2.0
+ 
+1653 |English   is a collection| with freq: 2.0
+ 
+1654 |English    krai si z   Greek  Χρύσης   Khrúsēs  was a priest of| with freq: 2.0
+ 
+1655 |English    is a poem by poet| with freq: 2.0
+ 
+1656 |English    is a| with freq: 2.0
+ 
+1657 |Croatian   is| with freq: 2.0
+ 
+1658 |Cat  is a poem| with freq: 2.0
+ 
+1659 |Bengali   is a poem by| with freq: 2.0
+ 
+1660 |Ancient Greek  Θεανώ  was the priestess of| with freq: 2.0
+ 
+1661 |Ancient Greek  Δάρης  Dárēs  Middle Welsh  Dared   according to| with freq: 2.0
+ 
+1662 |Ancient Greek   was the wife of| with freq: 2.0
+ 
+1663 |Ancient Greek   was the son of of| with freq: 2.0
+ 
+1664 |Ancient Greek   was the son of King and| with freq: 2.0
+ 
+1665 |Ancient Greek   was the son of  of| with freq: 2.0
+ 
+1666 |Ancient Greek   is epic| with freq: 2.0
+ 
+1667 |Ancient Greek   is a Greek| with freq: 2.0
+ 
+1668 |Ancient Greek    was a hero of and| with freq: 2.0
+ 
+1669 |Ancient Greek    or  is| with freq: 2.0
+ 
+1670 |Ancient Greek    is a poem| with freq: 2.0
+ 
+1671 |Ancient Greek    is a Greek| with freq: 2.0
+ 
+1672 |Ancient Greek     was Greek| with freq: 2.0
+ 
+1673 |Ancient Greek     was  of of| with freq: 2.0
+ 
+1674 |Ancient Greek     or     is| with freq: 2.0
+ 
+1675 |Ancient Greek      is a| with freq: 2.0
+ 
+1676 |A Poem   is poem by| with freq: 2.0
+ 
+1677 |1939  is a collection of whimsical poems by| with freq: 2.0
+ 
+1678 |1853  is a poem by| with freq: 2.0
+ 
+1679 |” is a poem by American poet| with freq: 1.0
+ 
+1680 |—that is  of the Iliad and| with freq: 1.0
+ 
+1681 |Ἐτεωνεύς  was the son of Boethous  and King| with freq: 1.0
+ 
+1682 |Ἐλπήνωρ  gen   Ἐλπήνορος  was a comrade of| with freq: 1.0
+ 
+1683 |Ἀρχέλοχος  was a son of Antenor and along with his brother Acamas and| with freq: 1.0
+ 
+1684 |و  is a love story| with freq: 1.0
+ 
+1685 |Сон статс советника Попова  also – Сон Попова  is a satire in verse by| with freq: 1.0
+ 
+1686 |История Государства Российского от Гостомысла до Тимашева  is a parody poem in 83 verses by the Russian poet and dramatist| with freq: 1.0
+ 
+1687 |Боярин Орша  is a poem by| with freq: 1.0
+ 
+1688 |Μύδων  gen   Μύδωνος  was one of the defenders of Troy in Homer s| with freq: 1.0
+ 
+1689 |Μέντης  is the name of two different Trojan War leaders  the King of the Cicones  according to the Iliad  and the King of the Taphians and the son of Antiloches  according to the| with freq: 1.0
+ 
+1690 |Λήιτος  was the son of Alector  Alectryon  and Polybule or of Lacritus and Cleobule  brother of| with freq: 1.0
+ 
+1691 |Κεβριόνης  was the illegitimate son of King Priam of| with freq: 1.0
+ 
+1692 |Θεοκλύμενος   son of Polypheides  was a prophet from Argos  who  in the| with freq: 1.0
+ 
+1693 |Δηίφοβος  was a son of Priam and| with freq: 1.0
+ 
+1694 |ˌmɛnɪˈleɪəs   Greek  Μενέλαος  Menelaos  was a king of Mycenaean  pre Dorian  Sparta  the husband of| with freq: 1.0
+ 
+1695 |ˈɒdəsi   Greek  Ὀδύσσεια  Odýsseia  is one of two major ancient Greek epic poems attributed to| with freq: 1.0
+ 
+1696 |ˈpraɪ əm   Greek  Πρίαμος Príamos  pronounced  prí amos   was the king of| with freq: 1.0
+ 
+1697 |ˈmaɪnɒs  or  ˈmaɪnəs   Greek  Μίνως  Minōs  was a king of Crete  son of| with freq: 1.0
+ 
+1698 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of Anchises  by his wife Themiste  sister of Laomedon and daughter of Ilus and Eurydice  and so grandfather of| with freq: 1.0
+ 
+1699 |ˈhɛrə   Greek Ἥρα  Hēra  equivalently Ἥρη  Hērē  in Ionic and Homer  is the wife and one of three sisters of| with freq: 1.0
+ 
+1700 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King Priam and Queen Hecuba of Troy  and the twin brother of the prophetess| with freq: 1.0
+ 
+1701 |ˈdʌnsi æd  is a landmark literary satire by| with freq: 1.0
+ 
+1702 |ˈdɑrdənəs   Greek  Δάρδανος  was a son of| with freq: 1.0
+ 
+1703 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of Hector  Crown Prince of Troy and Princess Andromache of| with freq: 1.0
+ 
+1704 |ænˈkaɪsiːz   an KY seez or   æŋˈkaɪsiːz  ang KY seez  Ancient Greek  Ἀγχίσης  pronounced  aŋkʰi͜ísɛ͜ɛs   was the son of Capys and Themiste  daughter of| with freq: 1.0
+ 
+1705 |ænˈdrɒməkiː   Ancient Greek  Ἀνδρομάχη  was the wife of| with freq: 1.0
+ 
+1706 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of Nausithous  or of Phaeax  the son of Poseidon and Corcyra   and father of Nausicaa  Halius  Clytoneus and| with freq: 1.0
+ 
+1707 |who is a poem of  by| with freq: 1.0
+ 
+1708 |who is a poem in| with freq: 1.0
+ 
+1709 |was to  and| with freq: 1.0
+ 
+1710 |was the work by| with freq: 1.0
+ 
+1711 |was the wife of| with freq: 1.0
+ 
+1712 |was the wet nurse of| with freq: 1.0
+ 
+1713 |was the son of or| with freq: 1.0
+ 
+1714 |was the son of of  of| with freq: 1.0
+ 
+1715 |was the son of and of  the brother of| with freq: 1.0
+ 
+1716 |was the son of and of  and| with freq: 1.0
+ 
+1717 |was the son of and  and of| with freq: 1.0
+ 
+1718 |was the son of King Priam| with freq: 1.0
+ 
+1719 |was the son of  of and of| with freq: 1.0
+ 
+1720 |was the son of  of and| with freq: 1.0
+ 
+1721 |was the son of   or and| with freq: 1.0
+ 
+1722 |was the son of   of and| with freq: 1.0
+ 
+1723 |was the son of   and of and| with freq: 1.0
+ 
+1724 |was the name of of| with freq: 1.0
+ 
+1725 |was the name of| with freq: 1.0
+ 
+1726 |was the king of| with freq: 1.0
+ 
+1727 |was the collection of| with freq: 1.0
+ 
+1728 |was the brother of Numitor and son of| with freq: 1.0
+ 
+1729 |was major work by| with freq: 1.0
+ 
+1730 |was collection of poetry in| with freq: 1.0
+ 
+1731 |was collection of poems| with freq: 1.0
+ 
+1732 |was collection of by| with freq: 1.0
+ 
+1733 |was and of  the| with freq: 1.0
+ 
+1734 |was and  whose as| with freq: 1.0
+ 
+1735 |was and    of| with freq: 1.0
+ 
+1736 |was an poet and of| with freq: 1.0
+ 
+1737 |was an poet and| with freq: 1.0
+ 
+1738 |was an poet  for of| with freq: 1.0
+ 
+1739 |was an poet  for| with freq: 1.0
+ 
+1740 |was an Etruscan king  and father of| with freq: 1.0
+ 
+1741 |was a work a| with freq: 1.0
+ 
+1742 |was a son of Odysseus and| with freq: 1.0
+ 
+1743 |was a son of Hippodamia and| with freq: 1.0
+ 
+1744 |was a poetry collection published anonymously by| with freq: 1.0
+ 
+1745 |was a poems the| with freq: 1.0
+ 
+1746 |was a poems by poet| with freq: 1.0
+ 
+1747 |was a poem  of| with freq: 1.0
+ 
+1748 |was a part of| with freq: 1.0
+ 
+1749 |was a king of| with freq: 1.0
+ 
+1750 |was a hero the| with freq: 1.0
+ 
+1751 |was a hero of and| with freq: 1.0
+ 
+1752 |was a hero in| with freq: 1.0
+ 
+1753 |was a friend of| with freq: 1.0
+ 
+1754 |was a father of| with freq: 1.0
+ 
+1755 |was a collection of| with freq: 1.0
+ 
+1756 |was a century  to for| with freq: 1.0
+ 
+1757 |was a Trojan prince and the| with freq: 1.0
+ 
+1758 |was a Trojan prince| with freq: 1.0
+ 
+1759 |was a Trojan hero in the| with freq: 1.0
+ 
+1760 |was a Trojan  the| with freq: 1.0
+ 
+1761 |was a Greek of and of Homer s| with freq: 1.0
+ 
+1762 |was a Cretan commander  father of Orsilochus  Cleisithyra  Leucus and Iphiclus  son of Deucalion and Cleopatra  grandson of| with freq: 1.0
+ 
+1763 |was Greek of the Trojan War Homer s| with freq: 1.0
+ 
+1764 |was Etruscan king  and| with freq: 1.0
+ 
+1765 |was  on s| with freq: 1.0
+ 
+1766 |was  of   and of| with freq: 1.0
+ 
+1767 |was  of   and| with freq: 1.0
+ 
+1768 |was  by Sir| with freq: 1.0
+ 
+1769 |was  and by sister| with freq: 1.0
+ 
+1770 |was  and    and| with freq: 1.0
+ 
+1771 |was   at of| with freq: 1.0
+ 
+1772 |was   a| with freq: 1.0
+ 
+1773 |was     of| with freq: 1.0
+ 
+1774 |translation   is a film  by| with freq: 1.0
+ 
+1775 |to the  is poem| with freq: 1.0
+ 
+1776 |to the  is a poem by the poet| with freq: 1.0
+ 
+1777 |to of  is poem| with freq: 1.0
+ 
+1778 |to is language by| with freq: 1.0
+ 
+1779 |to is a poem and by| with freq: 1.0
+ 
+1780 |to Zakynthos  is a pre Romantic sonnet by| with freq: 1.0
+ 
+1781 |to  is work| with freq: 1.0
+ 
+1782 |to  is a poem by the poet| with freq: 1.0
+ 
+1783 |to  is a poem and| with freq: 1.0
+ 
+1784 |to   is a poem and| with freq: 1.0
+ 
+1785 |title of  is a poem by the poet| with freq: 1.0
+ 
+1786 |title of  is a poem by| with freq: 1.0
+ 
+1787 |title  is a poem by the poet| with freq: 1.0
+ 
+1788 |title  Hymn      is a poem by| with freq: 1.0
+ 
+1789 |title    is a poem by| with freq: 1.0
+ 
+1790 |title     is poem by| with freq: 1.0
+ 
+1791 |title     is a poem by| with freq: 1.0
+ 
+1792 |title      is poem by the author| with freq: 1.0
+ 
+1793 |the voice of one crying out   is a Latin poem of around 10 000 lines in elegiac verse by| with freq: 1.0
+ 
+1794 |the tale Geoffrey Chaucer s| with freq: 1.0
+ 
+1795 |the name given to and| with freq: 1.0
+ 
+1796 |the loss of   is a poem by| with freq: 1.0
+ 
+1797 |the Monument   is a poem by| with freq: 1.0
+ 
+1798 |the Greek Homer s| with freq: 1.0
+ 
+1799 |the Geoffrey Chaucer s| with freq: 1.0
+ 
+1800 |the  was written| with freq: 1.0
+ 
+1801 |the  was to| with freq: 1.0
+ 
+1802 |the  the   is poem by| with freq: 1.0
+ 
+1803 |the  poem written| with freq: 1.0
+ 
+1804 |the  is written and published| with freq: 1.0
+ 
+1805 |the  is s by| with freq: 1.0
+ 
+1806 |the  is poem the| with freq: 1.0
+ 
+1807 |the  is poem of| with freq: 1.0
+ 
+1808 |the  is poem by the| with freq: 1.0
+ 
+1809 |the  is first the poet| with freq: 1.0
+ 
+1810 |the  is a poet| with freq: 1.0
+ 
+1811 |the  is a poem to| with freq: 1.0
+ 
+1812 |the  is a poem poet| with freq: 1.0
+ 
+1813 |the  is a poem in the| with freq: 1.0
+ 
+1814 |the  is a poem in French by| with freq: 1.0
+ 
+1815 |the  is a poem by the poet and| with freq: 1.0
+ 
+1816 |the  is a poem by Polish| with freq: 1.0
+ 
+1817 |the  is a collection of poems by| with freq: 1.0
+ 
+1818 |the  is a century the| with freq: 1.0
+ 
+1819 |the  is a century poet| with freq: 1.0
+ 
+1820 |the  is a century| with freq: 1.0
+ 
+1821 |the  is Latin| with freq: 1.0
+ 
+1822 |the   is poem in by| with freq: 1.0
+ 
+1823 |the   is poem by the poet| with freq: 1.0
+ 
+1824 |the   is poem by poet| with freq: 1.0
+ 
+1825 |the   is poem| with freq: 1.0
+ 
+1826 |the   is an poem by| with freq: 1.0
+ 
+1827 |the   is a poem in elegiac by| with freq: 1.0
+ 
+1828 |the   is a poem by the poet| with freq: 1.0
+ 
+1829 |the   is a poem and| with freq: 1.0
+ 
+1830 |the   is a Latin poem by| with freq: 1.0
+ 
+1831 |the   a poem attributed to| with freq: 1.0
+ 
+1832 |the    or  is a poem by| with freq: 1.0
+ 
+1833 |the    is poem in  the| with freq: 1.0
+ 
+1834 |the    is poem by| with freq: 1.0
+ 
+1835 |the    is epic poem the| with freq: 1.0
+ 
+1836 |the       of of  is a poem by| with freq: 1.0
+ 
+1837 |the        is poem by| with freq: 1.0
+ 
+1838 |tale Geoffrey Chaucer s| with freq: 1.0
+ 
+1839 |səlˈmoʊniəs   Greek  Σαλμωνεύς  was a son of| with freq: 1.0
+ 
+1840 |subtitled and  is a collection of poems by| with freq: 1.0
+ 
+1841 |subtitled The Great Renunciation  is a book by| with freq: 1.0
+ 
+1842 |subtitled Poems of Peace and War 1913 1916  is a collection of poems by| with freq: 1.0
+ 
+1843 |subtitled  is a collection of poems by| with freq: 1.0
+ 
+1844 |song  is a poem by| with freq: 1.0
+ 
+1845 |son of  was| with freq: 1.0
+ 
+1846 |sometimes referred to as the  is poem| with freq: 1.0
+ 
+1847 |sometimes as or  is an poem| with freq: 1.0
+ 
+1848 |sometimes as a  is poem by the| with freq: 1.0
+ 
+1849 |simplified Chinese  醉翁亭记  traditional Chinese  醉翁亭記  pinyin  Zùiwēng Tíng Jì  literally   An Account of the Old Toper s Pavilion   is a semi autobiographical poem by| with freq: 1.0
+ 
+1850 |s poem  the| with freq: 1.0
+ 
+1851 |s epic poem  the Odyssey| with freq: 1.0
+ 
+1852 |s The  is poem by| with freq: 1.0
+ 
+1853 |s  is poem by the poet| with freq: 1.0
+ 
+1854 |s  is one of by| with freq: 1.0
+ 
+1855 |s  is one of| with freq: 1.0
+ 
+1856 |s  is a poem to| with freq: 1.0
+ 
+1857 |s   to| with freq: 1.0
+ 
+1858 |s   is a| with freq: 1.0
+ 
+1859 |s   is English| with freq: 1.0
+ 
+1860 |s   is| with freq: 1.0
+ 
+1861 |s   by| with freq: 1.0
+ 
+1862 |s    is a Scots by| with freq: 1.0
+ 
+1863 |s    by| with freq: 1.0
+ 
+1864 |referred to as The  is a poem by| with freq: 1.0
+ 
+1865 |referred to as  is poem in| with freq: 1.0
+ 
+1866 |referred to as    is a poem by| with freq: 1.0
+ 
+1867 |pəˈnɛləpiː  pə NEL ə pee  Greek  Πηνελόπεια  Pēnelópeia  or Πηνελόπη  Pēnelópē  is the faithful wife of| with freq: 1.0
+ 
+1868 |published  is a cycle of poems by| with freq: 1.0
+ 
+1869 |published   of| with freq: 1.0
+ 
+1870 |published   by| with freq: 1.0
+ 
+1871 |published    is| with freq: 1.0
+ 
+1872 |pronounced    was the daughter of| with freq: 1.0
+ 
+1873 |pronounced    was and| with freq: 1.0
+ 
+1874 |pronounced    was a Trojan the| with freq: 1.0
+ 
+1875 |pronounced    a character Homer s| with freq: 1.0
+ 
+1876 |poetry   is| with freq: 1.0
+ 
+1877 |poems published  and| with freq: 1.0
+ 
+1878 |poems   and| with freq: 1.0
+ 
+1879 |poem is a poem by| with freq: 1.0
+ 
+1880 |otherwise is a poem by| with freq: 1.0
+ 
+1881 |otherwise A Child Born in Prison is a poem by| with freq: 1.0
+ 
+1882 |originally The   written| with freq: 1.0
+ 
+1883 |originally  is poem written| with freq: 1.0
+ 
+1884 |original title was  Hymn  Sung at the Completion of the Concord Monument  April 19  1836   is a poem by| with freq: 1.0
+ 
+1885 |original title   is the poet| with freq: 1.0
+ 
+1886 |original title   is poem by| with freq: 1.0
+ 
+1887 |original title    is poem by the| with freq: 1.0
+ 
+1888 |original title    is a poem by| with freq: 1.0
+ 
+1889 |original title      is poem by| with freq: 1.0
+ 
+1890 |original name Die Kraniche des Ibycus  is a ballad by| with freq: 1.0
+ 
+1891 |original German title  Willkommen und Abschied  is a poem by| with freq: 1.0
+ 
+1892 |original   is poem| with freq: 1.0
+ 
+1893 |original    is the| with freq: 1.0
+ 
+1894 |original     is poem| with freq: 1.0
+ 
+1895 |original     is an poem| with freq: 1.0
+ 
+1896 |or of  is an poem in by the poet| with freq: 1.0
+ 
+1897 |or of  is a poem in in| with freq: 1.0
+ 
+1898 |or of  is a poem in  by| with freq: 1.0
+ 
+1899 |or of   is| with freq: 1.0
+ 
+1900 |or of      is| with freq: 1.0
+ 
+1901 |or is verse by the poet| with freq: 1.0
+ 
+1902 |or is poem by the| with freq: 1.0
+ 
+1903 |or is poem by poet| with freq: 1.0
+ 
+1904 |or is epic of the Iliad| with freq: 1.0
+ 
+1905 |or is early century| with freq: 1.0
+ 
+1906 |or is a verse by| with freq: 1.0
+ 
+1907 |or is a prose by| with freq: 1.0
+ 
+1908 |or is a poem the poet| with freq: 1.0
+ 
+1909 |or is a poem in by the| with freq: 1.0
+ 
+1910 |or is a poem Middle| with freq: 1.0
+ 
+1911 |or and is a poem in by| with freq: 1.0
+ 
+1912 |or Vita Nova  English  The New Life  is a text by| with freq: 1.0
+ 
+1913 |or Turf and Towers  1873  is a poem in blank verse by| with freq: 1.0
+ 
+1914 |or Risala e Ruhi  The Book of Soul  is a book by Hazrat| with freq: 1.0
+ 
+1915 |or Proca was one of the| with freq: 1.0
+ 
+1916 |or Nausinoös was the son of| with freq: 1.0
+ 
+1917 |or Madhyama Vyāyoga  Devanagari  मध्यमव्यायोग    English  The Middle One  is a Sanskrit play attributed to| with freq: 1.0
+ 
+1918 |or Hot House Blooms  French  Serres chaudes   1889  is a book of symbolist poetry by Belgian Nobel Laureate| with freq: 1.0
+ 
+1919 |or Halesus may refer to 
+A companion of| with freq: 1.0
+ 
+1920 |or Egestes  Greek Ἄκέστης  was the son of the Sicilian river god| with freq: 1.0
+ 
+1921 |or Ecchoing Green  is a poem by| with freq: 1.0
+ 
+1922 |or Brut is a verse literary history of Britain by the poet| with freq: 1.0
+ 
+1923 |or Book of  is a book by| with freq: 1.0
+ 
+1924 |or Alexandreid  is a medieval Latin epic poem by| with freq: 1.0
+ 
+1925 |or Advice to lovers is a poem by the Middle Irish era poet| with freq: 1.0
+ 
+1926 |or  was Greek| with freq: 1.0
+ 
+1927 |or  the   is a poem| with freq: 1.0
+ 
+1928 |or  the   is| with freq: 1.0
+ 
+1929 |or  of  is poem in the| with freq: 1.0
+ 
+1930 |or  of  is a poem the| with freq: 1.0
+ 
+1931 |or  of  is a poem| with freq: 1.0
+ 
+1932 |or  of   is a poem by| with freq: 1.0
+ 
+1933 |or  is the poet| with freq: 1.0
+ 
+1934 |or  is the poem by| with freq: 1.0
+ 
+1935 |or  is poem the poet| with freq: 1.0
+ 
+1936 |or  is poem poet| with freq: 1.0
+ 
+1937 |or  is poem in by the| with freq: 1.0
+ 
+1938 |or  is poem in by| with freq: 1.0
+ 
+1939 |or  is poem by the poet| with freq: 1.0
+ 
+1940 |or  is poem attributed to| with freq: 1.0
+ 
+1941 |or  is line poem in by| with freq: 1.0
+ 
+1942 |or  is epic poem the| with freq: 1.0
+ 
+1943 |or  is an poem in| with freq: 1.0
+ 
+1944 |or  is an poem by poet| with freq: 1.0
+ 
+1945 |or  is a poetry by| with freq: 1.0
+ 
+1946 |or  is a poet| with freq: 1.0
+ 
+1947 |or  is a poem  in by| with freq: 1.0
+ 
+1948 |or  is a poem  in| with freq: 1.0
+ 
+1949 |or  is a collection of poems by| with freq: 1.0
+ 
+1950 |or  is a collection of by| with freq: 1.0
+ 
+1951 |or  is a Latin poem by| with freq: 1.0
+ 
+1952 |or  is a Greek poem| with freq: 1.0
+ 
+1953 |or  is a Greek epic poem| with freq: 1.0
+ 
+1954 |or  is Greek hexameter attributed to| with freq: 1.0
+ 
+1955 |or  is Greek epic poem  attributed to| with freq: 1.0
+ 
+1956 |or  is Greek epic poem| with freq: 1.0
+ 
+1957 |or  The   is poem| with freq: 1.0
+ 
+1958 |or  The   is a poem by| with freq: 1.0
+ 
+1959 |or  The   is a| with freq: 1.0
+ 
+1960 |or  Heideröslein    Rose on the Heath  or  Little Rose of the Field   is a poem by| with freq: 1.0
+ 
+1961 |or  Greek was| with freq: 1.0
+ 
+1962 |or  Greek  was son of| with freq: 1.0
+ 
+1963 |or   or  is a poem by| with freq: 1.0
+ 
+1964 |or   is poem in by the| with freq: 1.0
+ 
+1965 |or   is poem in blank verse by| with freq: 1.0
+ 
+1966 |or   is a poem in| with freq: 1.0
+ 
+1967 |or   is a book by| with freq: 1.0
+ 
+1968 |or   in  in  is| with freq: 1.0
+ 
+1969 |or   also    is| with freq: 1.0
+ 
+1970 |or    was| with freq: 1.0
+ 
+1971 |or    the  is Latin by| with freq: 1.0
+ 
+1972 |or    is poem of lines in the| with freq: 1.0
+ 
+1973 |or    is poem by| with freq: 1.0
+ 
+1974 |or    is poem| with freq: 1.0
+ 
+1975 |or    is a poem in the| with freq: 1.0
+ 
+1976 |or    is a poem in| with freq: 1.0
+ 
+1977 |or    is a poem attributed to| with freq: 1.0
+ 
+1978 |or    is a collection of by| with freq: 1.0
+ 
+1979 |or     is a poem| with freq: 1.0
+ 
+1980 |or      was| with freq: 1.0
+ 
+1981 |or      the   is a| with freq: 1.0
+ 
+1982 |or       was son of| with freq: 1.0
+ 
+1983 |or       of   is a poem by| with freq: 1.0
+ 
+1984 |or       The  is a| with freq: 1.0
+ 
+1985 |or        is poem by| with freq: 1.0
+ 
+1986 |or        is a poem by| with freq: 1.0
+ 
+1987 |or        is| with freq: 1.0
+ 
+1988 |one   is a poem of in by| with freq: 1.0
+ 
+1989 |on the  is a poem in| with freq: 1.0
+ 
+1990 |on the   is a poem the| with freq: 1.0
+ 
+1991 |on The Higher Criticism  is a poem by| with freq: 1.0
+ 
+1992 |on The  is a poem by| with freq: 1.0
+ 
+1993 |often referred to as  is a poem by| with freq: 1.0
+ 
+1994 |of s  is poem by the poet| with freq: 1.0
+ 
+1995 |of s  is poem by| with freq: 1.0
+ 
+1996 |of s  is autobiographical poem by| with freq: 1.0
+ 
+1997 |of poem is a poem by poet| with freq: 1.0
+ 
+1998 |of poem is a poem by| with freq: 1.0
+ 
+1999 |of in  is poem by| with freq: 1.0
+ 
+2000 |of  is verse by poet| with freq: 1.0
+ 
+2001 |of  is poem written| with freq: 1.0
+ 
+2002 |of  is poem in by the poet| with freq: 1.0
+ 
+2003 |of  is poem in by| with freq: 1.0
+ 
+2004 |of  is poem in Persian by| with freq: 1.0
+ 
+2005 |of  is poem in  by| with freq: 1.0
+ 
+2006 |of  is poem by English| with freq: 1.0
+ 
+2007 |of  is long poem by poet| with freq: 1.0
+ 
+2008 |of  is epic poem by the poet| with freq: 1.0
+ 
+2009 |of  is epic poem by| with freq: 1.0
+ 
+2010 |of  is epic poem| with freq: 1.0
+ 
+2011 |of  is an poem in by the English poet| with freq: 1.0
+ 
+2012 |of  is an poem in| with freq: 1.0
+ 
+2013 |of  is a poet| with freq: 1.0
+ 
+2014 |of  is a poem written| with freq: 1.0
+ 
+2015 |of  is a poem in in| with freq: 1.0
+ 
+2016 |of  is a poem by the| with freq: 1.0
+ 
+2017 |of  is a poem by and| with freq: 1.0
+ 
+2018 |of  is a poem  in| with freq: 1.0
+ 
+2019 |of  is a play by| with freq: 1.0
+ 
+2020 |of  is a language poem by| with freq: 1.0
+ 
+2021 |of  is a book of poems by| with freq: 1.0
+ 
+2022 |of  is a book by| with freq: 1.0
+ 
+2023 |of  is a Latin poem by| with freq: 1.0
+ 
+2024 |of  also   is  in in| with freq: 1.0
+ 
+2025 |of   published| with freq: 1.0
+ 
+2026 |of   is verse by| with freq: 1.0
+ 
+2027 |of   is poem of lines in by| with freq: 1.0
+ 
+2028 |of   is poem by poet| with freq: 1.0
+ 
+2029 |of   is poem by English poet| with freq: 1.0
+ 
+2030 |of   is play by playwright| with freq: 1.0
+ 
+2031 |of   is a play by the| with freq: 1.0
+ 
+2032 |of   is a Sanskrit| with freq: 1.0
+ 
+2033 |of   is a Latin poem by| with freq: 1.0
+ 
+2034 |of   is a Latin narrative by| with freq: 1.0
+ 
+2035 |of    is poem by poet| with freq: 1.0
+ 
+2036 |of    is long by| with freq: 1.0
+ 
+2037 |of    is epic by| with freq: 1.0
+ 
+2038 |of    is  in| with freq: 1.0
+ 
+2039 |of    in  is| with freq: 1.0
+ 
+2040 |of     is poem of by| with freq: 1.0
+ 
+2041 |of     is epic poem by| with freq: 1.0
+ 
+2042 |of     is an poem by| with freq: 1.0
+ 
+2043 |of      is| with freq: 1.0
+ 
+2044 |of        is poem by| with freq: 1.0
+ 
+2045 |of        is epic in  written by| with freq: 1.0
+ 
+2046 |of        is a poem by| with freq: 1.0
+ 
+2047 |o  is a| with freq: 1.0
+ 
+2048 |nɔːˈsɪkiə  or  nɔːsɪˈkeɪə   Greek  Ναυσικάα or Ναυσικᾶ  pronounced  na͜ʊsikâ   also Nausicaä  Nausikaa  is a character in Homer s| with freq: 1.0
+ 
+2049 |meaning  of   a| with freq: 1.0
+ 
+2050 |meaning    is a poem by| with freq: 1.0
+ 
+2051 |meaning    an| with freq: 1.0
+ 
+2052 |may also refer to a character in| with freq: 1.0
+ 
+2053 |kraɪˈsiːɪs   Ancient Greek  Χρυσηΐς  Khrysēís  pronounced  kʰrysɛːís   was a Trojan woman  the daughter of| with freq: 1.0
+ 
+2054 |known as the  was| with freq: 1.0
+ 
+2055 |known as or  is poem by| with freq: 1.0
+ 
+2056 |known as Poem  is an poem by| with freq: 1.0
+ 
+2057 |known as  is poem by American| with freq: 1.0
+ 
+2058 |known as  is poem by| with freq: 1.0
+ 
+2059 |known as  is a poem by British| with freq: 1.0
+ 
+2060 |known as  is a Scots by| with freq: 1.0
+ 
+2061 |known as  The   is poem by| with freq: 1.0
+ 
+2062 |known as    is poem by poet| with freq: 1.0
+ 
+2063 |known as    is a poem by poet| with freq: 1.0
+ 
+2064 |known as    is a poem by| with freq: 1.0
+ 
+2065 |known as      is poem by| with freq: 1.0
+ 
+2066 |known a Greek Homer s| with freq: 1.0
+ 
+2067 |known  is the| with freq: 1.0
+ 
+2068 |jʊˈrɪdɨsiː   Greek  Εὐρυδίκη  Eurydikē  was an oak nymph or one of the daughters of| with freq: 1.0
+ 
+2069 |is written the German poet| with freq: 1.0
+ 
+2070 |is work of the poet| with freq: 1.0
+ 
+2071 |is work by writer| with freq: 1.0
+ 
+2072 |is work by poet| with freq: 1.0
+ 
+2073 |is war poem by English poet| with freq: 1.0
+ 
+2074 |is version of of| with freq: 1.0
+ 
+2075 |is version of by| with freq: 1.0
+ 
+2076 |is two of poems| with freq: 1.0
+ 
+2077 |is to the poet| with freq: 1.0
+ 
+2078 |is to a poem by| with freq: 1.0
+ 
+2079 |is three of the poet| with freq: 1.0
+ 
+2080 |is the work the poet| with freq: 1.0
+ 
+2081 |is the work the| with freq: 1.0
+ 
+2082 |is the work poet| with freq: 1.0
+ 
+2083 |is the work of an eminent Turkish national poet| with freq: 1.0
+ 
+2084 |is the wife of| with freq: 1.0
+ 
+2085 |is the version of| with freq: 1.0
+ 
+2086 |is the title two poems by| with freq: 1.0
+ 
+2087 |is the title of two poems by| with freq: 1.0
+ 
+2088 |is the title of by poet| with freq: 1.0
+ 
+2089 |is the title of a section of| with freq: 1.0
+ 
+2090 |is the title of a poem and song by| with freq: 1.0
+ 
+2091 |is the title by the poet| with freq: 1.0
+ 
+2092 |is the tale s| with freq: 1.0
+ 
+2093 |is the tale in by| with freq: 1.0
+ 
+2094 |is the songs by| with freq: 1.0
+ 
+2095 |is the son of the| with freq: 1.0
+ 
+2096 |is the son of  of and of| with freq: 1.0
+ 
+2097 |is the section of| with freq: 1.0
+ 
+2098 |is the poetry by poet| with freq: 1.0
+ 
+2099 |is the poetry and| with freq: 1.0
+ 
+2100 |is the poems the poet| with freq: 1.0
+ 
+2101 |is the poem written| with freq: 1.0
+ 
+2102 |is the poem of T  S  Eliot s| with freq: 1.0
+ 
+2103 |is the poem by the  of| with freq: 1.0
+ 
+2104 |is the poem by American author| with freq: 1.0
+ 
+2105 |is the poem and| with freq: 1.0
+ 
+2106 |is the part of s| with freq: 1.0
+ 
+2107 |is the part of Dante s| with freq: 1.0
+ 
+2108 |is the part of| with freq: 1.0
+ 
+2109 |is the name to the| with freq: 1.0
+ 
+2110 |is the name to of and| with freq: 1.0
+ 
+2111 |is the name the| with freq: 1.0
+ 
+2112 |is the name poem| with freq: 1.0
+ 
+2113 |is the name of two related poems by| with freq: 1.0
+ 
+2114 |is the name of two collections of poetry by| with freq: 1.0
+ 
+2115 |is the name of two by| with freq: 1.0
+ 
+2116 |is the name of poems by| with freq: 1.0
+ 
+2117 |is the name of poem by the| with freq: 1.0
+ 
+2118 |is the name of and| with freq: 1.0
+ 
+2119 |is the name of an poem| with freq: 1.0
+ 
+2120 |is the name of  of  and of| with freq: 1.0
+ 
+2121 |is the name given to of| with freq: 1.0
+ 
+2122 |is the name given to| with freq: 1.0
+ 
+2123 |is the name an poem by| with freq: 1.0
+ 
+2124 |is the name an poem| with freq: 1.0
+ 
+2125 |is the name  and| with freq: 1.0
+ 
+2126 |is the eighth book of poems by Canadian author| with freq: 1.0
+ 
+2127 |is the daughter of and of| with freq: 1.0
+ 
+2128 |is the collection of the poetry of Bahr ul uloom Hazrat Moulana Maulvi Muhammad Abdul Qadeer Siddiqi Qadri| with freq: 1.0
+ 
+2129 |is the collection of poems by| with freq: 1.0
+ 
+2130 |is the collection of by poet| with freq: 1.0
+ 
+2131 |is the century of the| with freq: 1.0
+ 
+2132 |is the century manuscript| with freq: 1.0
+ 
+2133 |is the books of the| with freq: 1.0
+ 
+2134 |is the books of| with freq: 1.0
+ 
+2135 |is the book of poems by| with freq: 1.0
+ 
+2136 |is the book by Canadian| with freq: 1.0
+ 
+2137 |is the The by| with freq: 1.0
+ 
+2138 |is the Greek  of and of| with freq: 1.0
+ 
+2139 |is the Greek  of and| with freq: 1.0
+ 
+2140 |is the  poem by| with freq: 1.0
+ 
+2141 |is the  or| with freq: 1.0
+ 
+2142 |is the  of and of| with freq: 1.0
+ 
+2143 |is the  of and| with freq: 1.0
+ 
+2144 |is the  in the| with freq: 1.0
+ 
+2145 |is the  in and of| with freq: 1.0
+ 
+2146 |is the  his| with freq: 1.0
+ 
+2147 |is the  by poet| with freq: 1.0
+ 
+2148 |is the  and of| with freq: 1.0
+ 
+2149 |is the    by| with freq: 1.0
+ 
+2150 |is tale Geoffrey Chaucer s| with freq: 1.0
+ 
+2151 |is stage in by| with freq: 1.0
+ 
+2152 |is sonnets by and| with freq: 1.0
+ 
+2153 |is skaldic poem in| with freq: 1.0
+ 
+2154 |is s of the| with freq: 1.0
+ 
+2155 |is s  by| with freq: 1.0
+ 
+2156 |is s   the| with freq: 1.0
+ 
+2157 |is published work by writer| with freq: 1.0
+ 
+2158 |is poetic work of| with freq: 1.0
+ 
+2159 |is poetic work author| with freq: 1.0
+ 
+2160 |is poet  on s| with freq: 1.0
+ 
+2161 |is poem written poet| with freq: 1.0
+ 
+2162 |is poem written Johann Wolfgang von Goethe| with freq: 1.0
+ 
+2163 |is poem the edition of| with freq: 1.0
+ 
+2164 |is poem the century as| with freq: 1.0
+ 
+2165 |is poem the Poet| with freq: 1.0
+ 
+2166 |is poem the  written the| with freq: 1.0
+ 
+2167 |is poem the  written| with freq: 1.0
+ 
+2168 |is poem the  which was written| with freq: 1.0
+ 
+2169 |is poem the  was| with freq: 1.0
+ 
+2170 |is poem the  to| with freq: 1.0
+ 
+2171 |is poem the  by| with freq: 1.0
+ 
+2172 |is poem published the edition of| with freq: 1.0
+ 
+2173 |is poem ballad by| with freq: 1.0
+ 
+2174 |is poem and writer| with freq: 1.0
+ 
+2175 |is poem  written the century| with freq: 1.0
+ 
+2176 |is poem  writer and| with freq: 1.0
+ 
+2177 |is poem  writer| with freq: 1.0
+ 
+2178 |is poem  the story of| with freq: 1.0
+ 
+2179 |is poem  story| with freq: 1.0
+ 
+2180 |is poem  century| with freq: 1.0
+ 
+2181 |is poem  by the poet| with freq: 1.0
+ 
+2182 |is poem  by the century Indian poet| with freq: 1.0
+ 
+2183 |is poem  and  of| with freq: 1.0
+ 
+2184 |is patriotic poem by| with freq: 1.0
+ 
+2185 |is part of Fables  Ancient and Modern written by| with freq: 1.0
+ 
+2186 |is or  written by| with freq: 1.0
+ 
+2187 |is or   by| with freq: 1.0
+ 
+2188 |is one which s| with freq: 1.0
+ 
+2189 |is one the poem by| with freq: 1.0
+ 
+2190 |is one the English writer| with freq: 1.0
+ 
+2191 |is one of the sonnets| with freq: 1.0
+ 
+2192 |is one of the s by| with freq: 1.0
+ 
+2193 |is one of the demons in the Inferno of Dante Alighieri s| with freq: 1.0
+ 
+2194 |is one of the characters in| with freq: 1.0
+ 
+2195 |is one of the Canterbury Tales written by| with freq: 1.0
+ 
+2196 |is one of s by the| with freq: 1.0
+ 
+2197 |is one of s by| with freq: 1.0
+ 
+2198 |is one of s| with freq: 1.0
+ 
+2199 |is one of major poems| with freq: 1.0
+ 
+2200 |is one of The Canterbury Tales by the Middle English poet| with freq: 1.0
+ 
+2201 |is one of French writer| with freq: 1.0
+ 
+2202 |is one Shakespeare s| with freq: 1.0
+ 
+2203 |is narrative poem of| with freq: 1.0
+ 
+2204 |is narrative poem in  by| with freq: 1.0
+ 
+2205 |is narrative poem  the| with freq: 1.0
+ 
+2206 |is narrative poem  of| with freq: 1.0
+ 
+2207 |is narrative poem  in by| with freq: 1.0
+ 
+2208 |is narrative in  written by| with freq: 1.0
+ 
+2209 |is narrative by poet| with freq: 1.0
+ 
+2210 |is narrative  in by| with freq: 1.0
+ 
+2211 |is musical  of the film| with freq: 1.0
+ 
+2212 |is major of the English| with freq: 1.0
+ 
+2213 |is long poem by the poet| with freq: 1.0
+ 
+2214 |is location of the| with freq: 1.0
+ 
+2215 |is location of in| with freq: 1.0
+ 
+2216 |is literary of poet| with freq: 1.0
+ 
+2217 |is line the Roman poet| with freq: 1.0
+ 
+2218 |is line poem in by| with freq: 1.0
+ 
+2219 |is line poem by the poet| with freq: 1.0
+ 
+2220 |is line poem by poet| with freq: 1.0
+ 
+2221 |is late twelfth century Old French by| with freq: 1.0
+ 
+2222 |is first the poet| with freq: 1.0
+ 
+2223 |is first poems poet| with freq: 1.0
+ 
+2224 |is first poems by| with freq: 1.0
+ 
+2225 |is first of the poet| with freq: 1.0
+ 
+2226 |is first of poems by| with freq: 1.0
+ 
+2227 |is first of by poet| with freq: 1.0
+ 
+2228 |is first collection of poems by poet| with freq: 1.0
+ 
+2229 |is famous poem by poet| with freq: 1.0
+ 
+2230 |is epic poem to| with freq: 1.0
+ 
+2231 |is epic poem the life of| with freq: 1.0
+ 
+2232 |is epic poem that| with freq: 1.0
+ 
+2233 |is epic poem on the life of by| with freq: 1.0
+ 
+2234 |is epic poem on the life of Christ by| with freq: 1.0
+ 
+2235 |is epic poem of over by| with freq: 1.0
+ 
+2236 |is epic poem by the American| with freq: 1.0
+ 
+2237 |is epic poem by American| with freq: 1.0
+ 
+2238 |is epic poem  by the| with freq: 1.0
+ 
+2239 |is epic poem   to| with freq: 1.0
+ 
+2240 |is epic in Homer| with freq: 1.0
+ 
+2241 |is epic  the| with freq: 1.0
+ 
+2242 |is epic  of| with freq: 1.0
+ 
+2243 |is early poem by| with freq: 1.0
+ 
+2244 |is collection of poet| with freq: 1.0
+ 
+2245 |is century the poet| with freq: 1.0
+ 
+2246 |is century of poet| with freq: 1.0
+ 
+2247 |is century of by| with freq: 1.0
+ 
+2248 |is century manuscript of| with freq: 1.0
+ 
+2249 |is century  of  of| with freq: 1.0
+ 
+2250 |is book of poems by author| with freq: 1.0
+ 
+2251 |is book of by Canadian| with freq: 1.0
+ 
+2252 |is book by author| with freq: 1.0
+ 
+2253 |is book by and| with freq: 1.0
+ 
+2254 |is book by Canadian poet| with freq: 1.0
+ 
+2255 |is book by Canadian| with freq: 1.0
+ 
+2256 |is based the The by| with freq: 1.0
+ 
+2257 |is autobiographical poem by| with freq: 1.0
+ 
+2258 |is attributed to the poet| with freq: 1.0
+ 
+2259 |is and son of| with freq: 1.0
+ 
+2260 |is and poem by| with freq: 1.0
+ 
+2261 |is and of the poems| with freq: 1.0
+ 
+2262 |is and in Greek mythology in| with freq: 1.0
+ 
+2263 |is and by writer| with freq: 1.0
+ 
+2264 |is and by poet| with freq: 1.0
+ 
+2265 |is and by in  by| with freq: 1.0
+ 
+2266 |is and by  by| with freq: 1.0
+ 
+2267 |is and by   and| with freq: 1.0
+ 
+2268 |is and English poet| with freq: 1.0
+ 
+2269 |is ancient Greek epic attributed to| with freq: 1.0
+ 
+2270 |is an verse the century| with freq: 1.0
+ 
+2271 |is an sonnet by| with freq: 1.0
+ 
+2272 |is an poet who| with freq: 1.0
+ 
+2273 |is an poem written the century| with freq: 1.0
+ 
+2274 |is an poem written and by| with freq: 1.0
+ 
+2275 |is an poem which| with freq: 1.0
+ 
+2276 |is an poem the  as| with freq: 1.0
+ 
+2277 |is an poem of the century| with freq: 1.0
+ 
+2278 |is an poem of the| with freq: 1.0
+ 
+2279 |is an poem of lines by| with freq: 1.0
+ 
+2280 |is an poem in to| with freq: 1.0
+ 
+2281 |is an poem in in| with freq: 1.0
+ 
+2282 |is an poem in blank verse by the English poet| with freq: 1.0
+ 
+2283 |is an poem in blank verse by| with freq: 1.0
+ 
+2284 |is an poem in and| with freq: 1.0
+ 
+2285 |is an poem by the writer| with freq: 1.0
+ 
+2286 |is an poem by the Roman poet| with freq: 1.0
+ 
+2287 |is an poem by the Indian English poet| with freq: 1.0
+ 
+2288 |is an poem by American writer| with freq: 1.0
+ 
+2289 |is an poem by American poet| with freq: 1.0
+ 
+2290 |is an poem by  written in the death of| with freq: 1.0
+ 
+2291 |is an poem about by| with freq: 1.0
+ 
+2292 |is an poem  written the| with freq: 1.0
+ 
+2293 |is an poem  was to| with freq: 1.0
+ 
+2294 |is an poem  the story of| with freq: 1.0
+ 
+2295 |is an poem  of| with freq: 1.0
+ 
+2296 |is an poem  in by| with freq: 1.0
+ 
+2297 |is an poem  in  by| with freq: 1.0
+ 
+2298 |is an play the| with freq: 1.0
+ 
+2299 |is an part by| with freq: 1.0
+ 
+2300 |is an opera in two acts by  with libretto by the composer| with freq: 1.0
+ 
+2301 |is an opera by the libretto the| with freq: 1.0
+ 
+2302 |is an opera by libretto by| with freq: 1.0
+ 
+2303 |is an opera by libretto| with freq: 1.0
+ 
+2304 |is an opera by a libretto by| with freq: 1.0
+ 
+2305 |is an opera by  with libretto by| with freq: 1.0
+ 
+2306 |is an opera by  with a libretto by| with freq: 1.0
+ 
+2307 |is an libretto by| with freq: 1.0
+ 
+2308 |is an expressionist  satirical poem by| with freq: 1.0
+ 
+2309 |is an episode in the myth of| with freq: 1.0
+ 
+2310 |is an episode from| with freq: 1.0
+ 
+2311 |is an elegy poem by| with freq: 1.0
+ 
+2312 |is an collection of by| with freq: 1.0
+ 
+2313 |is an century of| with freq: 1.0
+ 
+2314 |is an award winning poem by the poet| with freq: 1.0
+ 
+2315 |is an award winning poem by the Indian English poet| with freq: 1.0
+ 
+2316 |is an anthology and by| with freq: 1.0
+ 
+2317 |is an adaptation of s| with freq: 1.0
+ 
+2318 |is an adaptation by Nahum Tate of William Shakespeare s| with freq: 1.0
+ 
+2319 |is an Old French romance by| with freq: 1.0
+ 
+2320 |is an Old French poem| with freq: 1.0
+ 
+2321 |is an Old French of the| with freq: 1.0
+ 
+2322 |is an Old French narrative romance by| with freq: 1.0
+ 
+2323 |is an Old French| with freq: 1.0
+ 
+2324 |is an Greek epic poem attributed to| with freq: 1.0
+ 
+2325 |is allegorical poem by| with freq: 1.0
+ 
+2326 |is adaptation of s by the| with freq: 1.0
+ 
+2327 |is adaptation of s| with freq: 1.0
+ 
+2328 |is acclaimed poem by the| with freq: 1.0
+ 
+2329 |is a work written the| with freq: 1.0
+ 
+2330 |is a work the English poet| with freq: 1.0
+ 
+2331 |is a work poet| with freq: 1.0
+ 
+2332 |is a work of English| with freq: 1.0
+ 
+2333 |is a work in by| with freq: 1.0
+ 
+2334 |is a work in| with freq: 1.0
+ 
+2335 |is a work by writer| with freq: 1.0
+ 
+2336 |is a work by Spanish Romantic poet| with freq: 1.0
+ 
+2337 |is a war poem by the English war poet| with freq: 1.0
+ 
+2338 |is a war poem by| with freq: 1.0
+ 
+2339 |is a war by war| with freq: 1.0
+ 
+2340 |is a war by| with freq: 1.0
+ 
+2341 |is a volume of poetry by| with freq: 1.0
+ 
+2342 |is a volume of by| with freq: 1.0
+ 
+2343 |is a vision of poetic melancholy by| with freq: 1.0
+ 
+2344 |is a vision by| with freq: 1.0
+ 
+2345 |is a verse of by| with freq: 1.0
+ 
+2346 |is a verse novel by Australian novelist and poet| with freq: 1.0
+ 
+2347 |is a verse drama by| with freq: 1.0
+ 
+2348 |is a verse chronicle by| with freq: 1.0
+ 
+2349 |is a verse by and| with freq: 1.0
+ 
+2350 |is a verse  of| with freq: 1.0
+ 
+2351 |is a verse  in| with freq: 1.0
+ 
+2352 |is a twelve by| with freq: 1.0
+ 
+2353 |is a travel book in prose and verse by W  H  Auden and| with freq: 1.0
+ 
+2354 |is a translation by poet| with freq: 1.0
+ 
+2355 |is a translation by Irish poet William Butler Yeats of| with freq: 1.0
+ 
+2356 |is a text by| with freq: 1.0
+ 
+2357 |is a term for the name of a poem by| with freq: 1.0
+ 
+2358 |is a tale in Geoffrey Chaucer s| with freq: 1.0
+ 
+2359 |is a tale from the Trojan War about the subterfuge that the Greeks used to enter the city of| with freq: 1.0
+ 
+2360 |is a story in in| with freq: 1.0
+ 
+2361 |is a story in by| with freq: 1.0
+ 
+2362 |is a story in The Canterbury Tales by| with freq: 1.0
+ 
+2363 |is a story and subject in art from Greek mythology in which the god| with freq: 1.0
+ 
+2364 |is a sonnet sequence by English Renaissance poet| with freq: 1.0
+ 
+2365 |is a sonnet by American poet| with freq: 1.0
+ 
+2366 |is a series of poems the| with freq: 1.0
+ 
+2367 |is a sequence by poet| with freq: 1.0
+ 
+2368 |is a science fiction| with freq: 1.0
+ 
+2369 |is a s of by| with freq: 1.0
+ 
+2370 |is a s of| with freq: 1.0
+ 
+2371 |is a romance in the| with freq: 1.0
+ 
+2372 |is a reworking of William Shakespeare s The Taming of the Shrew by British playwright and actor| with freq: 1.0
+ 
+2373 |is a rare book by| with freq: 1.0
+ 
+2374 |is a prose work by the Welsh poet| with freq: 1.0
+ 
+2375 |is a prose poem by writer| with freq: 1.0
+ 
+2376 |is a prose by the poet| with freq: 1.0
+ 
+2377 |is a prose by and| with freq: 1.0
+ 
+2378 |is a prose and by and| with freq: 1.0
+ 
+2379 |is a pre by| with freq: 1.0
+ 
+2380 |is a poetry the poet| with freq: 1.0
+ 
+2381 |is a poetry collection by the American writer| with freq: 1.0
+ 
+2382 |is a poetry collection by the American poet| with freq: 1.0
+ 
+2383 |is a poetry collection by Nobel Prize winning author| with freq: 1.0
+ 
+2384 |is a poetry by the writer| with freq: 1.0
+ 
+2385 |is a poetry by the poet| with freq: 1.0
+ 
+2386 |is a poetry by Nobel| with freq: 1.0
+ 
+2387 |is a poetry by American poet| with freq: 1.0
+ 
+2388 |is a poetry attributed to| with freq: 1.0
+ 
+2389 |is a poet of| with freq: 1.0
+ 
+2390 |is a poet and| with freq: 1.0
+ 
+2391 |is a poem written and poet| with freq: 1.0
+ 
+2392 |is a poem written May by| with freq: 1.0
+ 
+2393 |is a poem written  the| with freq: 1.0
+ 
+2394 |is a poem written  by the| with freq: 1.0
+ 
+2395 |is a poem written   by| with freq: 1.0
+ 
+2396 |is a poem which was written| with freq: 1.0
+ 
+2397 |is a poem which was| with freq: 1.0
+ 
+2398 |is a poem was to| with freq: 1.0
+ 
+2399 |is a poem was the poet| with freq: 1.0
+ 
+2400 |is a poem was poet| with freq: 1.0
+ 
+2401 |is a poem to the poet| with freq: 1.0
+ 
+2402 |is a poem to poet| with freq: 1.0
+ 
+2403 |is a poem to  in| with freq: 1.0
+ 
+2404 |is a poem the century poet| with freq: 1.0
+ 
+2405 |is a poem the German poet| with freq: 1.0
+ 
+2406 |is a poem the German| with freq: 1.0
+ 
+2407 |is a poem that the poet| with freq: 1.0
+ 
+2408 |is a poem that in his| with freq: 1.0
+ 
+2409 |is a poem published the edition of| with freq: 1.0
+ 
+2410 |is a poem poem| with freq: 1.0
+ 
+2411 |is a poem one of| with freq: 1.0
+ 
+2412 |is a poem on by| with freq: 1.0
+ 
+2413 |is a poem on  by| with freq: 1.0
+ 
+2414 |is a poem on| with freq: 1.0
+ 
+2415 |is a poem of lines in by| with freq: 1.0
+ 
+2416 |is a poem of lines in Middle the| with freq: 1.0
+ 
+2417 |is a poem of lines in| with freq: 1.0
+ 
+2418 |is a poem of lines by the poet| with freq: 1.0
+ 
+2419 |is a poem of lines by the| with freq: 1.0
+ 
+2420 |is a poem of lines| with freq: 1.0
+ 
+2421 |is a poem of in the| with freq: 1.0
+ 
+2422 |is a poem of by the Scottish| with freq: 1.0
+ 
+2423 |is a poem of by the English poet| with freq: 1.0
+ 
+2424 |is a poem of by American poet| with freq: 1.0
+ 
+2425 |is a poem of 122 lines by the English poet| with freq: 1.0
+ 
+2426 |is a poem of 000 lines by| with freq: 1.0
+ 
+2427 |is a poem of  by the poet| with freq: 1.0
+ 
+2428 |is a poem of  by the| with freq: 1.0
+ 
+2429 |is a poem of  by poet| with freq: 1.0
+ 
+2430 |is a poem lines| with freq: 1.0
+ 
+2431 |is a poem is| with freq: 1.0
+ 
+2432 |is a poem in verses by the poet| with freq: 1.0
+ 
+2433 |is a poem in the form of by poet| with freq: 1.0
+ 
+2434 |is a poem in the form of by| with freq: 1.0
+ 
+2435 |is a poem in the form of a dream vision by| with freq: 1.0
+ 
+2436 |is a poem in the form of a danse macabre by the Scottish poet| with freq: 1.0
+ 
+2437 |is a poem in the century| with freq: 1.0
+ 
+2438 |is a poem in the Sir| with freq: 1.0
+ 
+2439 |is a poem in of by the poet| with freq: 1.0
+ 
+2440 |is a poem in lines by| with freq: 1.0
+ 
+2441 |is a poem in his friend| with freq: 1.0
+ 
+2442 |is a poem in four by| with freq: 1.0
+ 
+2443 |is a poem in century the| with freq: 1.0
+ 
+2444 |is a poem in by the Scottish poet| with freq: 1.0
+ 
+2445 |is a poem in by the English poet William Wordsworth and the Lyrical Ballads anthology was| with freq: 1.0
+ 
+2446 |is a poem in by and poet| with freq: 1.0
+ 
+2447 |is a poem in by  was| with freq: 1.0
+ 
+2448 |is a poem in blank verse by| with freq: 1.0
+ 
+2449 |is a poem in and written| with freq: 1.0
+ 
+2450 |is a poem in Urdu by| with freq: 1.0
+ 
+2451 |is a poem in Scots written by| with freq: 1.0
+ 
+2452 |is a poem in 1798 the| with freq: 1.0
+ 
+2453 |is a poem in 1798| with freq: 1.0
+ 
+2454 |is a poem in  poet| with freq: 1.0
+ 
+2455 |is a poem in  of| with freq: 1.0
+ 
+2456 |is a poem in  by the poet| with freq: 1.0
+ 
+2457 |is a poem in  and in poet| with freq: 1.0
+ 
+2458 |is a poem in  adaptation| with freq: 1.0
+ 
+2459 |is a poem from the collection A Door in the Hive written by| with freq: 1.0
+ 
+2460 |is a poem from one of| with freq: 1.0
+ 
+2461 |is a poem for| with freq: 1.0
+ 
+2462 |is a poem completed| with freq: 1.0
+ 
+2463 |is a poem by with| with freq: 1.0
+ 
+2464 |is a poem by which was his| with freq: 1.0
+ 
+2465 |is a poem by the poet the| with freq: 1.0
+ 
+2466 |is a poem by the medieval French poet| with freq: 1.0
+ 
+2467 |is a poem by the makar| with freq: 1.0
+ 
+2468 |is a poem by the author and poet| with freq: 1.0
+ 
+2469 |is a poem by the author and| with freq: 1.0
+ 
+2470 |is a poem by the Roman poet Gaius Valerius| with freq: 1.0
+ 
+2471 |is a poem by the Nobel laureate| with freq: 1.0
+ 
+2472 |is a poem by the Kenyan poet| with freq: 1.0
+ 
+2473 |is a poem by the English poet William  with| with freq: 1.0
+ 
+2474 |is a poem by the English performance poet| with freq: 1.0
+ 
+2475 |is a poem by the English author and poet| with freq: 1.0
+ 
+2476 |is a poem by the English author and| with freq: 1.0
+ 
+2477 |is a poem by the English and poet| with freq: 1.0
+ 
+2478 |is a poem by the American author| with freq: 1.0
+ 
+2479 |is a poem by the American Quaker poet| with freq: 1.0
+ 
+2480 |is a poem by the    and| with freq: 1.0
+ 
+2481 |is a poem by that| with freq: 1.0
+ 
+2482 |is a poem by published in his| with freq: 1.0
+ 
+2483 |is a poem by prolific Australian writer and poet| with freq: 1.0
+ 
+2484 |is a poem by physician| with freq: 1.0
+ 
+2485 |is a poem by originally| with freq: 1.0
+ 
+2486 |is a poem by of the| with freq: 1.0
+ 
+2487 |is a poem by metaphysical poet| with freq: 1.0
+ 
+2488 |is a poem by in to the| with freq: 1.0
+ 
+2489 |is a poem by in his friend poet| with freq: 1.0
+ 
+2490 |is a poem by in  in| with freq: 1.0
+ 
+2491 |is a poem by iconic Australian writer and poet| with freq: 1.0
+ 
+2492 |is a poem by from| with freq: 1.0
+ 
+2493 |is a poem by first published in his| with freq: 1.0
+ 
+2494 |is a poem by famous poet| with freq: 1.0
+ 
+2495 |is a poem by famous British poet| with freq: 1.0
+ 
+2496 |is a poem by and co| with freq: 1.0
+ 
+2497 |is a poem by an author| with freq: 1.0
+ 
+2498 |is a poem by William of| with freq: 1.0
+ 
+2499 |is a poem by William Wordsworth originally| with freq: 1.0
+ 
+2500 |is a poem by William Wordsworth in| with freq: 1.0
+ 
+2501 |is a poem by William Wordsworth and in| with freq: 1.0
+ 
+2502 |is a poem by William Blake his| with freq: 1.0
+ 
+2503 |is a poem by William Blake| with freq: 1.0
+ 
+2504 |is a poem by William  with| with freq: 1.0
+ 
+2505 |is a poem by William  in in| with freq: 1.0
+ 
+2506 |is a poem by William  in and| with freq: 1.0
+ 
+2507 |is a poem by William  and| with freq: 1.0
+ 
+2508 |is a poem by William    to| with freq: 1.0
+ 
+2509 |is a poem by South African writer| with freq: 1.0
+ 
+2510 |is a poem by Russian poet| with freq: 1.0
+ 
+2511 |is a poem by Russian and dramatist| with freq: 1.0
+ 
+2512 |is a poem by Russian and| with freq: 1.0
+ 
+2513 |is a poem by Roman love poet Gaius Valerius| with freq: 1.0
+ 
+2514 |is a poem by Robert Browning about| with freq: 1.0
+ 
+2515 |is a poem by Robert Browning| with freq: 1.0
+ 
+2516 |is a poem by Polish poet| with freq: 1.0
+ 
+2517 |is a poem by Polish author| with freq: 1.0
+ 
+2518 |is a poem by Polish and poet| with freq: 1.0
+ 
+2519 |is a poem by Polish| with freq: 1.0
+ 
+2520 |is a poem by Poet Laureate| with freq: 1.0
+ 
+2521 |is a poem by Poet| with freq: 1.0
+ 
+2522 |is a poem by Nicaraguan poet| with freq: 1.0
+ 
+2523 |is a poem by Nebraska writer| with freq: 1.0
+ 
+2524 |is a poem by Matthew Arnold in| with freq: 1.0
+ 
+2525 |is a poem by Lord Byron in| with freq: 1.0
+ 
+2526 |is a poem by John of| with freq: 1.0
+ 
+2527 |is a poem by John| with freq: 1.0
+ 
+2528 |is a poem by James Henry| with freq: 1.0
+ 
+2529 |is a poem by Greek poet| with freq: 1.0
+ 
+2530 |is a poem by English metaphysical poet| with freq: 1.0
+ 
+2531 |is a poem by British Nobel laureate| with freq: 1.0
+ 
+2532 |is a poem by Australian writer and poet| with freq: 1.0
+ 
+2533 |is a poem by Australian bush poet| with freq: 1.0
+ 
+2534 |is a poem by Ancient Greek poet| with freq: 1.0
+ 
+2535 |is a poem by American writer and poet| with freq: 1.0
+ 
+2536 |is a poem by American modernist poet and physician| with freq: 1.0
+ 
+2537 |is a poem by American author| with freq: 1.0
+ 
+2538 |is a poem by American Quaker poet| with freq: 1.0
+ 
+2539 |is a poem by African writer| with freq: 1.0
+ 
+2540 |is a poem by African American writer and poet| with freq: 1.0
+ 
+2541 |is a poem by 8th century Chinese poet| with freq: 1.0
+ 
+2542 |is a poem by  story| with freq: 1.0
+ 
+2543 |is a poem by  originally| with freq: 1.0
+ 
+2544 |is a poem by  in to| with freq: 1.0
+ 
+2545 |is a poem by  in in| with freq: 1.0
+ 
+2546 |is a poem by  in  in  and| with freq: 1.0
+ 
+2547 |is a poem by    to| with freq: 1.0
+ 
+2548 |is a poem by    and| with freq: 1.0
+ 
+2549 |is a poem by      and| with freq: 1.0
+ 
+2550 |is a poem book| with freq: 1.0
+ 
+2551 |is a poem attributed to poet| with freq: 1.0
+ 
+2552 |is a poem as| with freq: 1.0
+ 
+2553 |is a poem and written and poet| with freq: 1.0
+ 
+2554 |is a poem and dramatic monologue by| with freq: 1.0
+ 
+2555 |is a poem and   and| with freq: 1.0
+ 
+2556 |is a poem ancient poet| with freq: 1.0
+ 
+2557 |is a poem ancient| with freq: 1.0
+ 
+2558 |is a poem an unknown| with freq: 1.0
+ 
+2559 |is a poem an  by| with freq: 1.0
+ 
+2560 |is a poem Greek poet| with freq: 1.0
+ 
+2561 |is a poem Chinese poet| with freq: 1.0
+ 
+2562 |is a poem 19th century| with freq: 1.0
+ 
+2563 |is a poem  written the century poet| with freq: 1.0
+ 
+2564 |is a poem  written poet| with freq: 1.0
+ 
+2565 |is a poem  written and| with freq: 1.0
+ 
+2566 |is a poem  was| with freq: 1.0
+ 
+2567 |is a poem  somewhat doubtfully attributed to| with freq: 1.0
+ 
+2568 |is a poem  see in poetry  by| with freq: 1.0
+ 
+2569 |is a poem  or  by| with freq: 1.0
+ 
+2570 |is a poem  not to| with freq: 1.0
+ 
+2571 |is a poem  in the poet| with freq: 1.0
+ 
+2572 |is a poem  in  by| with freq: 1.0
+ 
+2573 |is a poem  century| with freq: 1.0
+ 
+2574 |is a poem  by the Indian poet| with freq: 1.0
+ 
+2575 |is a poem  by British poet| with freq: 1.0
+ 
+2576 |is a poem  by American poet| with freq: 1.0
+ 
+2577 |is a poem  between| with freq: 1.0
+ 
+2578 |is a poem  and written| with freq: 1.0
+ 
+2579 |is a poem  and the| with freq: 1.0
+ 
+2580 |is a poem   in by| with freq: 1.0
+ 
+2581 |is a poem   by the| with freq: 1.0
+ 
+2582 |is a poem   by and| with freq: 1.0
+ 
+2583 |is a play written| with freq: 1.0
+ 
+2584 |is a play by the playwright| with freq: 1.0
+ 
+2585 |is a play   and| with freq: 1.0
+ 
+2586 |is a page poem by| with freq: 1.0
+ 
+2587 |is a opera by| with freq: 1.0
+ 
+2588 |is a novella by| with freq: 1.0
+ 
+2589 |is a novel by and| with freq: 1.0
+ 
+2590 |is a novel  of| with freq: 1.0
+ 
+2591 |is a medieval poem in the century the| with freq: 1.0
+ 
+2592 |is a medieval poem| with freq: 1.0
+ 
+2593 |is a medieval epic poem by| with freq: 1.0
+ 
+2594 |is a man of| with freq: 1.0
+ 
+2595 |is a love poem in  in| with freq: 1.0
+ 
+2596 |is a line the poet| with freq: 1.0
+ 
+2597 |is a line poet| with freq: 1.0
+ 
+2598 |is a line poem by poet| with freq: 1.0
+ 
+2599 |is a line Middle English by| with freq: 1.0
+ 
+2600 |is a line English poem by| with freq: 1.0
+ 
+2601 |is a line English by| with freq: 1.0
+ 
+2602 |is a language and by| with freq: 1.0
+ 
+2603 |is a landmark satire by| with freq: 1.0
+ 
+2604 |is a landmark poetic political satire by| with freq: 1.0
+ 
+2605 |is a lament attributed to| with freq: 1.0
+ 
+2606 |is a hymn in by| with freq: 1.0
+ 
+2607 |is a hymn by poet| with freq: 1.0
+ 
+2608 |is a hymn  by poet| with freq: 1.0
+ 
+2609 |is a history of| with freq: 1.0
+ 
+2610 |is a fragment the| with freq: 1.0
+ 
+2611 |is a film by by| with freq: 1.0
+ 
+2612 |is a film  and by| with freq: 1.0
+ 
+2613 |is a film  and| with freq: 1.0
+ 
+2614 |is a fifteenth century poem attributed to| with freq: 1.0
+ 
+2615 |is a fifteenth century dream vision poem by an unknown author  it was originally attributed to| with freq: 1.0
+ 
+2616 |is a dream vision by| with freq: 1.0
+ 
+2617 |is a drama film and and| with freq: 1.0
+ 
+2618 |is a drama by poet| with freq: 1.0
+ 
+2619 |is a debut of| with freq: 1.0
+ 
+2620 |is a debut book of poetry by African American poet| with freq: 1.0
+ 
+2621 |is a de by| with freq: 1.0
+ 
+2622 |is a cycle of poems by the poet| with freq: 1.0
+ 
+2623 |is a cycle of poems by the Scottish| with freq: 1.0
+ 
+2624 |is a cycle of poems by the| with freq: 1.0
+ 
+2625 |is a containing of the| with freq: 1.0
+ 
+2626 |is a composition of| with freq: 1.0
+ 
+2627 |is a composition in| with freq: 1.0
+ 
+2628 |is a compilation of poems by| with freq: 1.0
+ 
+2629 |is a compilation of 100 poems by| with freq: 1.0
+ 
+2630 |is a comedy by| with freq: 1.0
+ 
+2631 |is a collection the poet| with freq: 1.0
+ 
+2632 |is a collection of translations of classical and medieval poetry by| with freq: 1.0
+ 
+2633 |is a collection of the writer| with freq: 1.0
+ 
+2634 |is a collection of spontaneous poetry by| with freq: 1.0
+ 
+2635 |is a collection of short prose poems by| with freq: 1.0
+ 
+2636 |is a collection of prose and| with freq: 1.0
+ 
+2637 |is a collection of poetry in| with freq: 1.0
+ 
+2638 |is a collection of poetry for children by the Scottish author| with freq: 1.0
+ 
+2639 |is a collection of poetry by the author| with freq: 1.0
+ 
+2640 |is a collection of poetry by the English author| with freq: 1.0
+ 
+2641 |is a collection of poetry by and| with freq: 1.0
+ 
+2642 |is a collection of poetry by English| with freq: 1.0
+ 
+2643 |is a collection of poetry by African American writer and poet| with freq: 1.0
+ 
+2644 |is a collection of poetry and| with freq: 1.0
+ 
+2645 |is a collection of poems for children by| with freq: 1.0
+ 
+2646 |is a collection of poems by poet and| with freq: 1.0
+ 
+2647 |is a collection of poems by French| with freq: 1.0
+ 
+2648 |is a collection of poems by English poet| with freq: 1.0
+ 
+2649 |is a collection of poems by English| with freq: 1.0
+ 
+2650 |is a collection of poems by  and by| with freq: 1.0
+ 
+2651 |is a collection of poems and| with freq: 1.0
+ 
+2652 |is a collection of of poetry by| with freq: 1.0
+ 
+2653 |is a collection of of and| with freq: 1.0
+ 
+2654 |is a collection of in  and| with freq: 1.0
+ 
+2655 |is a collection of in| with freq: 1.0
+ 
+2656 |is a collection of haiku poetry by| with freq: 1.0
+ 
+2657 |is a collection of for children by| with freq: 1.0
+ 
+2658 |is a collection of by English writer| with freq: 1.0
+ 
+2659 |is a collection of by English poet| with freq: 1.0
+ 
+2660 |is a collection of as of| with freq: 1.0
+ 
+2661 |is a collection of and poetry by| with freq: 1.0
+ 
+2662 |is a collection of and by writer| with freq: 1.0
+ 
+2663 |is a collection of and| with freq: 1.0
+ 
+2664 |is a collection of Marsias  or more appropriately Marasi  by| with freq: 1.0
+ 
+2665 |is a collection of Latin verse  from the age of| with freq: 1.0
+ 
+2666 |is a collection of 32 short to medium length prose poems by French poet and essayist| with freq: 1.0
+ 
+2667 |is a collection of  by the| with freq: 1.0
+ 
+2668 |is a collection of   and| with freq: 1.0
+ 
+2669 |is a collection of    by| with freq: 1.0
+ 
+2670 |is a collection in the| with freq: 1.0
+ 
+2671 |is a collection by Romanian| with freq: 1.0
+ 
+2672 |is a collection and poetry| with freq: 1.0
+ 
+2673 |is a collection and poet| with freq: 1.0
+ 
+2674 |is a collection English and s| with freq: 1.0
+ 
+2675 |is a collection English| with freq: 1.0
+ 
+2676 |is a children writer| with freq: 1.0
+ 
+2677 |is a children s| with freq: 1.0
+ 
+2678 |is a children by author| with freq: 1.0
+ 
+2679 |is a children by| with freq: 1.0
+ 
+2680 |is a character in poem| with freq: 1.0
+ 
+2681 |is a character in in s| with freq: 1.0
+ 
+2682 |is a character in Inferno  part of| with freq: 1.0
+ 
+2683 |is a century poet| with freq: 1.0
+ 
+2684 |is a century poem by the poet| with freq: 1.0
+ 
+2685 |is a century of the| with freq: 1.0
+ 
+2686 |is a century in by poet| with freq: 1.0
+ 
+2687 |is a century by the poet| with freq: 1.0
+ 
+2688 |is a century by poet| with freq: 1.0
+ 
+2689 |is a century an| with freq: 1.0
+ 
+2690 |is a century   by| with freq: 1.0
+ 
+2691 |is a c  by| with freq: 1.0
+ 
+2692 |is a book to| with freq: 1.0
+ 
+2693 |is a book of poetry by poet| with freq: 1.0
+ 
+2694 |is a book of poetry by Canadian poet| with freq: 1.0
+ 
+2695 |is a book of poems by poet| with freq: 1.0
+ 
+2696 |is a book of poems by former English Poet Laureate| with freq: 1.0
+ 
+2697 |is a book of poems by American author| with freq: 1.0
+ 
+2698 |is a book of clerihews by| with freq: 1.0
+ 
+2699 |is a book of by Laureate| with freq: 1.0
+ 
+2700 |is a book of by American poet| with freq: 1.0
+ 
+2701 |is a book length poem by American writer| with freq: 1.0
+ 
+2702 |is a book by the poet and| with freq: 1.0
+ 
+2703 |is a book by the English poet and printmaker| with freq: 1.0
+ 
+2704 |is a book by Brazilian author| with freq: 1.0
+ 
+2705 |is a book by American writer| with freq: 1.0
+ 
+2706 |is a ballade by| with freq: 1.0
+ 
+2707 |is a ballad which| with freq: 1.0
+ 
+2708 |is a around by| with freq: 1.0
+ 
+2709 |is a after by| with freq: 1.0
+ 
+2710 |is a adaptation of the| with freq: 1.0
+ 
+2711 |is a act by| with freq: 1.0
+ 
+2712 |is a William The and| with freq: 1.0
+ 
+2713 |is a William Shakespeare and| with freq: 1.0
+ 
+2714 |is a Telugu by| with freq: 1.0
+ 
+2715 |is a Sufi poet| with freq: 1.0
+ 
+2716 |is a Shakespeare s The and| with freq: 1.0
+ 
+2717 |is a Shakespeare and| with freq: 1.0
+ 
+2718 |is a Shakespeare The by| with freq: 1.0
+ 
+2719 |is a Scots song by| with freq: 1.0
+ 
+2720 |is a Scots poem of| with freq: 1.0
+ 
+2721 |is a Scots by poet and| with freq: 1.0
+ 
+2722 |is a Scots Latin by| with freq: 1.0
+ 
+2723 |is a Scots  the| with freq: 1.0
+ 
+2724 |is a Sanskrit to| with freq: 1.0
+ 
+2725 |is a Sanskrit the| with freq: 1.0
+ 
+2726 |is a Sanskrit text traditionally ascribed to the sage| with freq: 1.0
+ 
+2727 |is a Middle verse romance the| with freq: 1.0
+ 
+2728 |is a Middle romance the| with freq: 1.0
+ 
+2729 |is a Middle romance by| with freq: 1.0
+ 
+2730 |is a Middle narrative poem by| with freq: 1.0
+ 
+2731 |is a Middle Scots by the Scottish| with freq: 1.0
+ 
+2732 |is a Middle Scots  by the| with freq: 1.0
+ 
+2733 |is a Middle High German verse romance by the poet| with freq: 1.0
+ 
+2734 |is a Middle High German romance by| with freq: 1.0
+ 
+2735 |is a Middle English poem possibly by| with freq: 1.0
+ 
+2736 |is a Middle English poem by John Lydgate relating the history of| with freq: 1.0
+ 
+2737 |is a Middle English allegorical narrative poem by| with freq: 1.0
+ 
+2738 |is a Middle  the| with freq: 1.0
+ 
+2739 |is a Latin the poet| with freq: 1.0
+ 
+2740 |is a Latin poem by the Roman poet| with freq: 1.0
+ 
+2741 |is a Latin of in| with freq: 1.0
+ 
+2742 |is a Latin Virgil  the| with freq: 1.0
+ 
+2743 |is a Latin Virgil| with freq: 1.0
+ 
+2744 |is a Latin  the| with freq: 1.0
+ 
+2745 |is a Latin  by| with freq: 1.0
+ 
+2746 |is a Kannada composition in Carnatic music by| with freq: 1.0
+ 
+2747 |is a Kannada by| with freq: 1.0
+ 
+2748 |is a Hindi film by by| with freq: 1.0
+ 
+2749 |is a Hindi film  by Shankar Jaikishan by| with freq: 1.0
+ 
+2750 |is a Hindi by and by| with freq: 1.0
+ 
+2751 |is a Hindi by  by and by| with freq: 1.0
+ 
+2752 |is a Hindi   by| with freq: 1.0
+ 
+2753 |is a Greek in Homer| with freq: 1.0
+ 
+2754 |is a Greek hero in the| with freq: 1.0
+ 
+2755 |is a Greek epic poem  by| with freq: 1.0
+ 
+2756 |is a Dante s| with freq: 1.0
+ 
+2757 |is a Christmas carol by| with freq: 1.0
+ 
+2758 |is a Christmas by| with freq: 1.0
+ 
+2759 |is a Book of  by| with freq: 1.0
+ 
+2760 |is Shakespeare s the| with freq: 1.0
+ 
+2761 |is Shakespeare s play| with freq: 1.0
+ 
+2762 |is Old poem by| with freq: 1.0
+ 
+2763 |is Old of by| with freq: 1.0
+ 
+2764 |is Old French by| with freq: 1.0
+ 
+2765 |is Middle verse romance by| with freq: 1.0
+ 
+2766 |is Middle the century| with freq: 1.0
+ 
+2767 |is Middle romance by| with freq: 1.0
+ 
+2768 |is Middle narrative poem| with freq: 1.0
+ 
+2769 |is Middle English romance of the| with freq: 1.0
+ 
+2770 |is Middle English romance by| with freq: 1.0
+ 
+2771 |is Middle English narrative poem| with freq: 1.0
+ 
+2772 |is Middle  the| with freq: 1.0
+ 
+2773 |is Latin the poet| with freq: 1.0
+ 
+2774 |is Latin by the poet| with freq: 1.0
+ 
+2775 |is Latin by the| with freq: 1.0
+ 
+2776 |is Latin  the| with freq: 1.0
+ 
+2777 |is Homer s the| with freq: 1.0
+ 
+2778 |is Hindi film by| with freq: 1.0
+ 
+2779 |is Hindi by  and| with freq: 1.0
+ 
+2780 |is Hindi  by and| with freq: 1.0
+ 
+2781 |is Hindi  by| with freq: 1.0
+ 
+2782 |is Greek poem attributed to| with freq: 1.0
+ 
+2783 |is Greek hexameter attributed to| with freq: 1.0
+ 
+2784 |is Greek epic poem attributed to| with freq: 1.0
+ 
+2785 |is Greek and  Homer s| with freq: 1.0
+ 
+2786 |is Fabill 3 of| with freq: 1.0
+ 
+2787 |is English poem the| with freq: 1.0
+ 
+2788 |is Christmas the   by| with freq: 1.0
+ 
+2789 |is Christmas poem by| with freq: 1.0
+ 
+2790 |is Canadian poet and composer| with freq: 1.0
+ 
+2791 |is American writer and poet| with freq: 1.0
+ 
+2792 |is American and poet| with freq: 1.0
+ 
+2793 |is American   by| with freq: 1.0
+ 
+2794 |is African American poet| with freq: 1.0
+ 
+2795 |is 1954 by poet| with freq: 1.0
+ 
+2796 |is 14th century of the| with freq: 1.0
+ 
+2797 |is  written century| with freq: 1.0
+ 
+2798 |is  work by| with freq: 1.0
+ 
+2799 |is  the work of| with freq: 1.0
+ 
+2800 |is  the work| with freq: 1.0
+ 
+2801 |is  the s| with freq: 1.0
+ 
+2802 |is  the poet| with freq: 1.0
+ 
+2803 |is  the Scottish| with freq: 1.0
+ 
+2804 |is  the  as| with freq: 1.0
+ 
+2805 |is  of the Iliad and| with freq: 1.0
+ 
+2806 |is  of by the poet| with freq: 1.0
+ 
+2807 |is  of by poet| with freq: 1.0
+ 
+2808 |is  of Odysseus| with freq: 1.0
+ 
+2809 |is  in by poet| with freq: 1.0
+ 
+2810 |is  in by and poet| with freq: 1.0
+ 
+2811 |is  in and poet| with freq: 1.0
+ 
+2812 |is  in a  of s| with freq: 1.0
+ 
+2813 |is  in a  of| with freq: 1.0
+ 
+2814 |is  epic poem the| with freq: 1.0
+ 
+2815 |is  by the  the| with freq: 1.0
+ 
+2816 |is  by poet and| with freq: 1.0
+ 
+2817 |is  by century poet| with freq: 1.0
+ 
+2818 |is   written and by| with freq: 1.0
+ 
+2819 |is   in by| with freq: 1.0
+ 
+2820 |is   as by| with freq: 1.0
+ 
+2821 |is   and  to| with freq: 1.0
+ 
+2822 |is   and  by| with freq: 1.0
+ 
+2823 |is   a poem by| with freq: 1.0
+ 
+2824 |is    to| with freq: 1.0
+ 
+2825 |is    by| with freq: 1.0
+ 
+2826 |is    and| with freq: 1.0
+ 
+2827 |is     to| with freq: 1.0
+ 
+2828 |in to  is| with freq: 1.0
+ 
+2829 |in the  is poem by| with freq: 1.0
+ 
+2830 |in the  is a collection by| with freq: 1.0
+ 
+2831 |in the  and published poet| with freq: 1.0
+ 
+2832 |in the  and published| with freq: 1.0
+ 
+2833 |in the     is a poem the| with freq: 1.0
+ 
+2834 |in the     is a poem by| with freq: 1.0
+ 
+2835 |in s  is| with freq: 1.0
+ 
+2836 |in on     is epic by| with freq: 1.0
+ 
+2837 |in and s  is| with freq: 1.0
+ 
+2838 |in and  is a poem by| with freq: 1.0
+ 
+2839 |in a  s| with freq: 1.0
+ 
+2840 |in Roman mythology and especially Virgil s Aeneid  is the helmsman of| with freq: 1.0
+ 
+2841 |in English  written| with freq: 1.0
+ 
+2842 |in  s poem| with freq: 1.0
+ 
+2843 |in  of   known| with freq: 1.0
+ 
+2844 |in  is the poems by| with freq: 1.0
+ 
+2845 |in  is epic poem the| with freq: 1.0
+ 
+2846 |in  is a collection of poems by| with freq: 1.0
+ 
+2847 |in  is a collection of by poet| with freq: 1.0
+ 
+2848 |in   is the| with freq: 1.0
+ 
+2849 |in   is a poem the| with freq: 1.0
+ 
+2850 |in   is a poem  by| with freq: 1.0
+ 
+2851 |in   is  the| with freq: 1.0
+ 
+2852 |in    is the| with freq: 1.0
+ 
+2853 |i  is a poem by| with freq: 1.0
+ 
+2854 |genus 
+In Homer s| with freq: 1.0
+ 
+2855 |gen    was the son of or| with freq: 1.0
+ 
+2856 |gen    was the son of| with freq: 1.0
+ 
+2857 |full title  Here follow some verses upon the burning of our house  July 10th  1666  is a poem by| with freq: 1.0
+ 
+2858 |from of  is a poem by in| with freq: 1.0
+ 
+2859 |from  is a work of| with freq: 1.0
+ 
+2860 |for  is poem in by the Roman poet| with freq: 1.0
+ 
+2861 |for  is poem in by poet| with freq: 1.0
+ 
+2862 |for  is poem by poet| with freq: 1.0
+ 
+2863 |for   is the| with freq: 1.0
+ 
+2864 |for   is a poem in by poet| with freq: 1.0
+ 
+2865 |for   is a poem in| with freq: 1.0
+ 
+2866 |for   is a poem by poet| with freq: 1.0
+ 
+2867 |for   is a poem by| with freq: 1.0
+ 
+2868 |for    is the| with freq: 1.0
+ 
+2869 |for    is a poem in| with freq: 1.0
+ 
+2870 |for    is a poem by poet| with freq: 1.0
+ 
+2871 |epic poem that was to| with freq: 1.0
+ 
+2872 |en  is prose by| with freq: 1.0
+ 
+2873 |en  is a collection of prose by| with freq: 1.0
+ 
+2874 |died 1296 
+Donati  brother of Corso and Piccarda Donati  was a childhood friend of| with freq: 1.0
+ 
+2875 |des  is a ballad by| with freq: 1.0
+ 
+2876 |der  is the poet| with freq: 1.0
+ 
+2877 |de  is a collection of by| with freq: 1.0
+ 
+2878 |d  is poem by| with freq: 1.0
+ 
+2879 |country  is a poem by| with freq: 1.0
+ 
+2880 |consists of a number of short poetic works customarily accredited to the Scottish poet| with freq: 1.0
+ 
+2881 |called the  the| with freq: 1.0
+ 
+2882 |bɪˈliːtɪs   French  Les Chansons de Bilitis  is a collection of erotic poetry by| with freq: 1.0
+ 
+2883 |by the   is a poem| with freq: 1.0
+ 
+2884 |by   is| with freq: 1.0
+ 
+2885 |by   Day   is poem by| with freq: 1.0
+ 
+2886 |by        is poem by| with freq: 1.0
+ 
+2887 |as the  is poem| with freq: 1.0
+ 
+2888 |as the  Greek epic poem attributed to| with freq: 1.0
+ 
+2889 |as of  is poem the| with freq: 1.0
+ 
+2890 |as of  is poem in| with freq: 1.0
+ 
+2891 |as of  is a poem by poet| with freq: 1.0
+ 
+2892 |as and  is a poem by| with freq: 1.0
+ 
+2893 |as The  is a poem by the| with freq: 1.0
+ 
+2894 |as The  is a poem| with freq: 1.0
+ 
+2895 |as The  is a Scots by| with freq: 1.0
+ 
+2896 |as Lay  is poem| with freq: 1.0
+ 
+2897 |as  was an poet of| with freq: 1.0
+ 
+2898 |as  is poem by the Romantic| with freq: 1.0
+ 
+2899 |as  is poem by the English| with freq: 1.0
+ 
+2900 |as  is poem by American| with freq: 1.0
+ 
+2901 |as  is an poem in| with freq: 1.0
+ 
+2902 |as  is an poem by| with freq: 1.0
+ 
+2903 |as  is an poem| with freq: 1.0
+ 
+2904 |as  is a series of by| with freq: 1.0
+ 
+2905 |as  is a poem by poet| with freq: 1.0
+ 
+2906 |as  is a poem| with freq: 1.0
+ 
+2907 |as  The is poem by| with freq: 1.0
+ 
+2908 |as    was| with freq: 1.0
+ 
+2909 |as    is a poem by the| with freq: 1.0
+ 
+2910 |as    is a poem by British poet| with freq: 1.0
+ 
+2911 |as    is a poem by American| with freq: 1.0
+ 
+2912 |as     is the| with freq: 1.0
+ 
+2913 |are two poems by the poet  journalist  and Mexican diplomat| with freq: 1.0
+ 
+2914 |are the Homer s| with freq: 1.0
+ 
+2915 |are the  s| with freq: 1.0
+ 
+2916 |are the  by| with freq: 1.0
+ 
+2917 |are spurious 15th century additions to| with freq: 1.0
+ 
+2918 |are poems by the poet| with freq: 1.0
+ 
+2919 |are poems by the| with freq: 1.0
+ 
+2920 |are friends  the| with freq: 1.0
+ 
+2921 |are and  who| with freq: 1.0
+ 
+2922 |are a set of about two thousand English words that| with freq: 1.0
+ 
+2923 |are a series of by| with freq: 1.0
+ 
+2924 |are a collection of light verse by| with freq: 1.0
+ 
+2925 |are a collection of by| with freq: 1.0
+ 
+2926 |and was the son of and| with freq: 1.0
+ 
+2927 |and published  poem| with freq: 1.0
+ 
+2928 |and other poems is a book of poems by| with freq: 1.0
+ 
+2929 |and is poem by| with freq: 1.0
+ 
+2930 |and is a poem in by| with freq: 1.0
+ 
+2931 |and is a poem by of the| with freq: 1.0
+ 
+2932 |and in  is a poem by| with freq: 1.0
+ 
+2933 |and  poems published| with freq: 1.0
+ 
+2934 |and   is poem by| with freq: 1.0
+ 
+2935 |and   is a poem by| with freq: 1.0
+ 
+2936 |and    is a| with freq: 1.0
+ 
+2937 |an poet  who known| with freq: 1.0
+ 
+2938 |an Greek epic attributed to| with freq: 1.0
+ 
+2939 |also to is poem by| with freq: 1.0
+ 
+2940 |also to is a poem in Scots by| with freq: 1.0
+ 
+2941 |also to is a poem by| with freq: 1.0
+ 
+2942 |also to  is a poem by| with freq: 1.0
+ 
+2943 |also the  is the poet| with freq: 1.0
+ 
+2944 |also referred to as  is a poem by| with freq: 1.0
+ 
+2945 |also of  is a poem the poet| with freq: 1.0
+ 
+2946 |also of  is a poem by the poet| with freq: 1.0
+ 
+2947 |also known the poem| with freq: 1.0
+ 
+2948 |also known the name poem| with freq: 1.0
+ 
+2949 |also known the name of a poem the| with freq: 1.0
+ 
+2950 |also known the name of a| with freq: 1.0
+ 
+2951 |also known the Latin| with freq: 1.0
+ 
+2952 |also known the  of of Homer s| with freq: 1.0
+ 
+2953 |also known the     a poem| with freq: 1.0
+ 
+2954 |also known   a poem| with freq: 1.0
+ 
+2955 |also is the name of a| with freq: 1.0
+ 
+2956 |also is poem by the poet| with freq: 1.0
+ 
+2957 |also is an poem by| with freq: 1.0
+ 
+2958 |also is a poem by the poet| with freq: 1.0
+ 
+2959 |also is a poem by| with freq: 1.0
+ 
+2960 |also called The Tale of Melibeus  is one of The Canterbury Tales by| with freq: 1.0
+ 
+2961 |also called The Tale  is one of The Canterbury Tales by| with freq: 1.0
+ 
+2962 |also called The Sailor s Tale  is one of The Canterbury Tales by| with freq: 1.0
+ 
+2963 |also called The Ascension  is one of| with freq: 1.0
+ 
+2964 |also called Palanto   in Roman mythology  was the wife of King| with freq: 1.0
+ 
+2965 |also as to is poem by| with freq: 1.0
+ 
+2966 |also as the  is a poem the poet| with freq: 1.0
+ 
+2967 |also as the   is a poem by| with freq: 1.0
+ 
+2968 |also as of  was| with freq: 1.0
+ 
+2969 |also as of  is a poem poet| with freq: 1.0
+ 
+2970 |also as The Twa is a Scots by| with freq: 1.0
+ 
+2971 |also as The  is a poem the| with freq: 1.0
+ 
+2972 |also as The  is a poem in by| with freq: 1.0
+ 
+2973 |also as The  is a poem| with freq: 1.0
+ 
+2974 |also as The  is a Scots by| with freq: 1.0
+ 
+2975 |also as  on the   is a poem by poet| with freq: 1.0
+ 
+2976 |also as  is poem the poet| with freq: 1.0
+ 
+2977 |also as  is poem in by| with freq: 1.0
+ 
+2978 |also as  is poem| with freq: 1.0
+ 
+2979 |also as  is a poem the poet| with freq: 1.0
+ 
+2980 |also as  is a poem by the poet| with freq: 1.0
+ 
+2981 |also as  The   is a poem by| with freq: 1.0
+ 
+2982 |also as    is poem by the poet| with freq: 1.0
+ 
+2983 |also as    is poem by| with freq: 1.0
+ 
+2984 |also as    is a poem by the| with freq: 1.0
+ 
+2985 |also and    is a| with freq: 1.0
+ 
+2986 |also The  is a| with freq: 1.0
+ 
+2987 |also Rifeo and Rupheo  was a Trojan hero and the name of a figure from the Aeneid of| with freq: 1.0
+ 
+2988 |also Bizhan and Manizheh  Persian بيژن و منيژه   Bīžan o Manīža  is a love story in| with freq: 1.0
+ 
+2989 |also  to   is a poem by the poet| with freq: 1.0
+ 
+2990 |also  is the son and| with freq: 1.0
+ 
+2991 |also  is the name an| with freq: 1.0
+ 
+2992 |also  is poem the poet| with freq: 1.0
+ 
+2993 |also  is poem in by the poet| with freq: 1.0
+ 
+2994 |also  is poem by the poet| with freq: 1.0
+ 
+2995 |also  is poem by author| with freq: 1.0
+ 
+2996 |also  is an poem in by the poet| with freq: 1.0
+ 
+2997 |also  is an poem by| with freq: 1.0
+ 
+2998 |also  is a poem that| with freq: 1.0
+ 
+2999 |also  is a poem by the poet| with freq: 1.0
+ 
+3000 |also  is a poem by the| with freq: 1.0
+ 
+3001 |also  epic poem the| with freq: 1.0
+ 
+3002 |also  are Homer s| with freq: 1.0
+ 
+3003 |also  an poet| with freq: 1.0
+ 
+3004 |also  a poem| with freq: 1.0
+ 
+3005 |also  Homer s| with freq: 1.0
+ 
+3006 |also  Der Widerspenstigen Zähmung   English| with freq: 1.0
+ 
+3007 |also   is a poem by and| with freq: 1.0
+ 
+3008 |also   is a poem by| with freq: 1.0
+ 
+3009 |also    of the| with freq: 1.0
+ 
+3010 |also    is poem by the poet| with freq: 1.0
+ 
+3011 |also    is poem| with freq: 1.0
+ 
+3012 |also    is a poem by the| with freq: 1.0
+ 
+3013 |also    is   and of| with freq: 1.0
+ 
+3014 |also    and in| with freq: 1.0
+ 
+3015 |also    a poem the| with freq: 1.0
+ 
+3016 |also    a Greek poem| with freq: 1.0
+ 
+3017 |also    English| with freq: 1.0
+ 
+3018 |also     of of  of  of| with freq: 1.0
+ 
+3019 |also     in Greek mythology  of Priam of| with freq: 1.0
+ 
+3020 |also     in| with freq: 1.0
+ 
+3021 |also      of  and| with freq: 1.0
+ 
+3022 |also      of| with freq: 1.0
+ 
+3023 |also      is a poem by poet| with freq: 1.0
+ 
+3024 |also       the| with freq: 1.0
+ 
+3025 |also       of of of by| with freq: 1.0
+ 
+3026 |also       of of of| with freq: 1.0
+ 
+3027 |also       by| with freq: 1.0
+ 
+3028 |also        a poem the| with freq: 1.0
+ 
+3029 |also        a| with freq: 1.0
+ 
+3030 |a series of poems poet| with freq: 1.0
+ 
+3031 |a poem was attributed to| with freq: 1.0
+ 
+3032 |a poem that was| with freq: 1.0
+ 
+3033 |a diviner  was a minor suitor of| with freq: 1.0
+ 
+3034 |a Sanskrit work traditionally attributed to the sage| with freq: 1.0
+ 
+3035 |a Sanskrit attributed to| with freq: 1.0
+ 
+3036 |a Poem is the| with freq: 1.0
+ 
+3037 |a  widely to have| with freq: 1.0
+ 
+3038 |a  was to| with freq: 1.0
+ 
+3039 |a  to be| with freq: 1.0
+ 
+3040 |a  it attributed to| with freq: 1.0
+ 
+3041 |a  is poem in the| with freq: 1.0
+ 
+3042 |a  is poem in by the poet| with freq: 1.0
+ 
+3043 |a  is poem by the poet| with freq: 1.0
+ 
+3044 |a  is a poem by poet| with freq: 1.0
+ 
+3045 |a  is  the  by| with freq: 1.0
+ 
+3046 |a  is  of in| with freq: 1.0
+ 
+3047 |a  attributed to| with freq: 1.0
+ 
+3048 |a  Poem is an poem by| with freq: 1.0
+ 
+3049 |a   to be| with freq: 1.0
+ 
+3050 |a   is poems by| with freq: 1.0
+ 
+3051 |a   is a poem by the poet| with freq: 1.0
+ 
+3052 |a   is a poem  in the| with freq: 1.0
+ 
+3053 |a   is  the| with freq: 1.0
+ 
+3054 |a   attributed to| with freq: 1.0
+ 
+3055 |You flow  Olza  down the valley   is a poem by Polish educator and poet| with freq: 1.0
+ 
+3056 |William  was written| with freq: 1.0
+ 
+3057 |West Eastern Diwan   original title  West östlicher Divan  is a diwan  or collection of lyrical poems  by the German poet| with freq: 1.0
+ 
+3058 |War   is poem by| with freq: 1.0
+ 
+3059 |Virgil s Aeneid  the| with freq: 1.0
+ 
+3060 |Ukrainian  Перебендя  is a poem by| with freq: 1.0
+ 
+3061 |To the  is a poem| with freq: 1.0
+ 
+3062 |The s  is a| with freq: 1.0
+ 
+3063 |The s   is a poem| with freq: 1.0
+ 
+3064 |The Werewolf   is one of the twelve Lais of| with freq: 1.0
+ 
+3065 |The Twa is a poem in Scots by| with freq: 1.0
+ 
+3066 |The Twa is a Scots by the| with freq: 1.0
+ 
+3067 |The Tenth Satire of Juvenal Imitated is a poem by the English author| with freq: 1.0
+ 
+3068 |The Stolen Bucket  is a mock heroic epic poem by| with freq: 1.0
+ 
+3069 |The Rose  is a poetry by| with freq: 1.0
+ 
+3070 |The Parliament of  is poem by| with freq: 1.0
+ 
+3071 |The Legend of the Ages  is a collection of poems by| with freq: 1.0
+ 
+3072 |The King s Book   is a fifteenth century poem attributed to| with freq: 1.0
+ 
+3073 |The King   is a poem| with freq: 1.0
+ 
+3074 |The Guided Path  is a poem in Urdu written by Sir| with freq: 1.0
+ 
+3075 |The Glove  is a ballad by| with freq: 1.0
+ 
+3076 |The Diver  is a ballad by| with freq: 1.0
+ 
+3077 |The Contemplations  is a collection of poetry by| with freq: 1.0
+ 
+3078 |The Cat About Town  is a poem from T  S  Eliot s| with freq: 1.0
+ 
+3079 |The Book  is a| with freq: 1.0
+ 
+3080 |The Book   is a poem| with freq: 1.0
+ 
+3081 |The  is written| with freq: 1.0
+ 
+3082 |The  is the s| with freq: 1.0
+ 
+3083 |The  is s| with freq: 1.0
+ 
+3084 |The  is poem the poet| with freq: 1.0
+ 
+3085 |The  is poem in the| with freq: 1.0
+ 
+3086 |The  is poem  written| with freq: 1.0
+ 
+3087 |The  is play in by and| with freq: 1.0
+ 
+3088 |The  is play| with freq: 1.0
+ 
+3089 |The  is opera in acts by| with freq: 1.0
+ 
+3090 |The  is line poem in by| with freq: 1.0
+ 
+3091 |The  is line poem by| with freq: 1.0
+ 
+3092 |The  is an poem in Latin by the poet| with freq: 1.0
+ 
+3093 |The  is a s| with freq: 1.0
+ 
+3094 |The  is a prose by| with freq: 1.0
+ 
+3095 |The  is a poem the poet| with freq: 1.0
+ 
+3096 |The  is a poem in by the poet| with freq: 1.0
+ 
+3097 |The  is a poem in  by| with freq: 1.0
+ 
+3098 |The  is a poem by the poet| with freq: 1.0
+ 
+3099 |The  is a poem by Romantic| with freq: 1.0
+ 
+3100 |The  is a play in acts by| with freq: 1.0
+ 
+3101 |The  is a play by| with freq: 1.0
+ 
+3102 |The  is a century poem| with freq: 1.0
+ 
+3103 |The  is a century| with freq: 1.0
+ 
+3104 |The  is a Middle of| with freq: 1.0
+ 
+3105 |The  is a Middle by| with freq: 1.0
+ 
+3106 |The  is a Middle| with freq: 1.0
+ 
+3107 |The  is  s| with freq: 1.0
+ 
+3108 |The   is poem in  by| with freq: 1.0
+ 
+3109 |The   is one of the| with freq: 1.0
+ 
+3110 |The   is a poem in fifteen  by| with freq: 1.0
+ 
+3111 |The   is a poem in by| with freq: 1.0
+ 
+3112 |The   is a poem attributed to| with freq: 1.0
+ 
+3113 |The   is a poem  by| with freq: 1.0
+ 
+3114 |The   is a line poem by| with freq: 1.0
+ 
+3115 |The   is a fifteen by| with freq: 1.0
+ 
+3116 |The   is a collection by| with freq: 1.0
+ 
+3117 |The      is a fifteen by| with freq: 1.0
+ 
+3118 |Telugu   is a| with freq: 1.0
+ 
+3119 |Tale of  is the| with freq: 1.0
+ 
+3120 |Tale of  is| with freq: 1.0
+ 
+3121 |Swedish   is a poetry collection by the Swedish writer| with freq: 1.0
+ 
+3122 |Swedish   is a poetry by the Swedish writer| with freq: 1.0
+ 
+3123 |Swedish   is a collection of poetry by the Swedish writer| with freq: 1.0
+ 
+3124 |Sunstone   is a poem by| with freq: 1.0
+ 
+3125 |Sung the  is a poem by| with freq: 1.0
+ 
+3126 |Sonnets of Death  is a work by the Chilean poet| with freq: 1.0
+ 
+3127 |Song of   is the| with freq: 1.0
+ 
+3128 |Song  is poem in| with freq: 1.0
+ 
+3129 |Song  is poem| with freq: 1.0
+ 
+3130 |Sonety krymskie  are a series of 18 Polish sonnets by| with freq: 1.0
+ 
+3131 |Son is an poem by| with freq: 1.0
+ 
+3132 |Solitudes  is a poem by| with freq: 1.0
+ 
+3133 |Sanskrit  पाण्‍डु Pāṇḍu  is the son of Ambalika and Rishi Veda| with freq: 1.0
+ 
+3134 |Sanskrit  कुमारसम्भव  IAST  Kumāra sambhava  is a Sanskrit epic poem by| with freq: 1.0
+ 
+3135 |Sanskrit   is| with freq: 1.0
+ 
+3136 |Sanskrit     is a Sanskrit epic poem by| with freq: 1.0
+ 
+3137 |Russian  и  is a poem by| with freq: 1.0
+ 
+3138 |Russian  Страна негодяев  Strana Negodyaye  is a poem by Russian poet| with freq: 1.0
+ 
+3139 |Russian  Сказка про Федота стрельца  удалого молодца  is a play poem by Russian writer and actor| with freq: 1.0
+ 
+3140 |Russian  Сказка о рыбаке и рыбке  Skazka o rybake i rybke  is a fairy tale in verse by| with freq: 1.0
+ 
+3141 |Russian  Сказка о  Skazka o  is fairy tale in verse by| with freq: 1.0
+ 
+3142 |Russian  Руслан и Людмила  Ruslan i Lyudmila  is a poem by| with freq: 1.0
+ 
+3143 |Russian  Горбунóв и Горчакóв  is a poem by Russian and English poet  essayist  dramatist| with freq: 1.0
+ 
+3144 |Russian   is a poem by Russian poet| with freq: 1.0
+ 
+3145 |Russian   is a poem by Russian and| with freq: 1.0
+ 
+3146 |Russian   is a| with freq: 1.0
+ 
+3147 |Russian   is  to| with freq: 1.0
+ 
+3148 |Russian    is a poem by Russian| with freq: 1.0
+ 
+3149 |Robert Lowell s second book of poetry  won the| with freq: 1.0
+ 
+3150 |Regret   is a poem by Flemish poet| with freq: 1.0
+ 
+3151 |Portuguese    is a poem by| with freq: 1.0
+ 
+3152 |Poor Heinrich  is a Middle High German narrative poem by| with freq: 1.0
+ 
+3153 |Polish   is a poem by| with freq: 1.0
+ 
+3154 |Polish   is Polish poem by| with freq: 1.0
+ 
+3155 |Polish   is Polish by| with freq: 1.0
+ 
+3156 |Polish   do   is poem by| with freq: 1.0
+ 
+3157 |Poem the  is poem by| with freq: 1.0
+ 
+3158 |Poem is poem in by| with freq: 1.0
+ 
+3159 |Poem is an author| with freq: 1.0
+ 
+3160 |Poem is  the| with freq: 1.0
+ 
+3161 |Poem  is an poem by American| with freq: 1.0
+ 
+3162 |Poem  is a poem by| with freq: 1.0
+ 
+3163 |Poem   is  by| with freq: 1.0
+ 
+3164 |Persian  و  is a love story by Persian poet| with freq: 1.0
+ 
+3165 |Persian   o  is a love story in| with freq: 1.0
+ 
+3166 |Persian   is written Persian poet| with freq: 1.0
+ 
+3167 |Persian    is a| with freq: 1.0
+ 
+3168 |Persian       is poem in Persian poet| with freq: 1.0
+ 
+3169 |Persian        is a poem by Persian poet| with freq: 1.0
+ 
+3170 |Orpheus of The Assumption  is a stage play with music in three acts by| with freq: 1.0
+ 
+3171 |Or A Layman s Faith  1682  is a poem by| with freq: 1.0
+ 
+3172 |On the  is poem by the poet| with freq: 1.0
+ 
+3173 |Old s  by| with freq: 1.0
+ 
+3174 |Old Norse  Frōðr  Old English  Frōda  Middle High German  Vruote  is the name of a number of legendary Danish kings in various texts including Beowulf| with freq: 1.0
+ 
+3175 |Old French poem  written| with freq: 1.0
+ 
+3176 |Ode to the Cat  is a poem by the Chilean poet and Nobel laureate| with freq: 1.0
+ 
+3177 |Ode  is a poem by and| with freq: 1.0
+ 
+3178 |Ode  is a poem by| with freq: 1.0
+ 
+3179 |Middle English  Þe Seconde Nonnes Tale  is part of Geoffrey Chaucer s| with freq: 1.0
+ 
+3180 |Middle English  The Tale  is the Geoffrey Chaucer s| with freq: 1.0
+ 
+3181 |Middle English  The Prioresses Tale  follows The Shipman s Tale in Geoffrey Chaucer s| with freq: 1.0
+ 
+3182 |Middle English  The Marchantes Tale  is one of| with freq: 1.0
+ 
+3183 |Middle English  The Frankeleyns Tale  is one of The Canterbury Tales by| with freq: 1.0
+ 
+3184 |Middle English  Tale  s| with freq: 1.0
+ 
+3185 |Middle English  Tale  is Geoffrey Chaucer s| with freq: 1.0
+ 
+3186 |Middle English  Tale  Geoffrey Chaucer s| with freq: 1.0
+ 
+3187 |Meditations  is a poem by| with freq: 1.0
+ 
+3188 |Magardhwaja as per Hindu Mythology  is son of Hanuman  who makes his appearance in epic| with freq: 1.0
+ 
+3189 |Love  is poem by the poet| with freq: 1.0
+ 
+3190 |Love  is poem by the author| with freq: 1.0
+ 
+3191 |Love  is an poem by the| with freq: 1.0
+ 
+3192 |Letters from the Black Sea  is a work of| with freq: 1.0
+ 
+3193 |Les     The   is a Breton lai by| with freq: 1.0
+ 
+3194 |Lay of  is a poem| with freq: 1.0
+ 
+3195 |Lay  is poem by| with freq: 1.0
+ 
+3196 |Latin  literally  Whom I   are the words  in Virgil s| with freq: 1.0
+ 
+3197 |Latin  is poem the| with freq: 1.0
+ 
+3198 |Latin  is poem by| with freq: 1.0
+ 
+3199 |Latin  is epic poem of by| with freq: 1.0
+ 
+3200 |Latin  is epic poem of| with freq: 1.0
+ 
+3201 |Latin  is epic poem in by| with freq: 1.0
+ 
+3202 |Latin  is epic poem by| with freq: 1.0
+ 
+3203 |Latin  is epic poem| with freq: 1.0
+ 
+3204 |Latin  Rex Romae  was the chief magistrate of the| with freq: 1.0
+ 
+3205 |Latin  Metamorphōseōn librī   Books of Transformations   is a Latin narrative poem by the Roman poet| with freq: 1.0
+ 
+3206 |Latin   is to the| with freq: 1.0
+ 
+3207 |Latin   is poem by the| with freq: 1.0
+ 
+3208 |Latin   is epic poem| with freq: 1.0
+ 
+3209 |Latin   is| with freq: 1.0
+ 
+3210 |Latin     is Latin| with freq: 1.0
+ 
+3211 |Last poems  is a poetry collection by| with freq: 1.0
+ 
+3212 |Last poems  is a collection by| with freq: 1.0
+ 
+3213 |King s  to| with freq: 1.0
+ 
+3214 |King is a poem by| with freq: 1.0
+ 
+3215 |King is a poem| with freq: 1.0
+ 
+3216 |King   to| with freq: 1.0
+ 
+3217 |King   a| with freq: 1.0
+ 
+3218 |Kepair of the Quenis Wardrop is a poem of| with freq: 1.0
+ 
+3219 |Italian for  sweet nothing   is a poem by Finnish poet| with freq: 1.0
+ 
+3220 |Italian for    is| with freq: 1.0
+ 
+3221 |Italian  Odi barbare  is a collection of three books of poetry by| with freq: 1.0
+ 
+3222 |Italian   is poem by| with freq: 1.0
+ 
+3223 |Italian   is| with freq: 1.0
+ 
+3224 |ISBN 0 07 045724 7  is a book by| with freq: 1.0
+ 
+3225 |IAST   is epic poem by| with freq: 1.0
+ 
+3226 |Hungarian  A walesi bárdok  is a ballad by Hungarian poet| with freq: 1.0
+ 
+3227 |History of the destruction of Troy   or Historia Troiana is a Latin prose narrative written by| with freq: 1.0
+ 
+3228 |Hindi कामायनी   1936  is a Hindi epic poem  Mahakavya  by| with freq: 1.0
+ 
+3229 |Hindi  आलाप में गिरह  is first collection of poems by Hindi poet| with freq: 1.0
+ 
+3230 |Hindi   is Hindi| with freq: 1.0
+ 
+3231 |Hindi   is| with freq: 1.0
+ 
+3232 |Hindi   English   is a| with freq: 1.0
+ 
+3233 |Hindi    is epic poem by| with freq: 1.0
+ 
+3234 |Hindi    is a| with freq: 1.0
+ 
+3235 |Hindi    is Hindi| with freq: 1.0
+ 
+3236 |Hindi     is a film starring  and| with freq: 1.0
+ 
+3237 |Hindi     is  by| with freq: 1.0
+ 
+3238 |Hindi     is   and| with freq: 1.0
+ 
+3239 |Hindi     is| with freq: 1.0
+ 
+3240 |Greek Ἔννομος Ennomos  was the name of two defenders of| with freq: 1.0
+ 
+3241 |Greek Ἁλιζῶνες  also Halizonians or Alazones  are an obscure people that appear in Homer s| with freq: 1.0
+ 
+3242 |Greek was son of| with freq: 1.0
+ 
+3243 |Greek  Ἶλος  is the name of several mythological persons associated directly or indirectly with| with freq: 1.0
+ 
+3244 |Greek  Ἀστεροπαῖος  Latin  Asteropaeus  was a leader of the Trojan allied Paeonians along with fellow warrior| with freq: 1.0
+ 
+3245 |Greek  Ἀντίκλεια   Without Fame   was the daughter of Autolycus and Amphithea and mother of| with freq: 1.0
+ 
+3246 |Greek  Φήμιος  Phêmios  is an Ithacan poet who performs narrative songs in the house of the absent| with freq: 1.0
+ 
+3247 |Greek  Τηλεγόνεια  Tēlegoneia  Latin  Telegonia  is a lost ancient Greek epic poem about Telegonus  son of Odysseus by| with freq: 1.0
+ 
+3248 |Greek  Ταλθύβιος  was herald and friend to| with freq: 1.0
+ 
+3249 |Greek  Μέντωρ  Méntōr  gen   Μέντορος  was the son of Alcimus or| with freq: 1.0
+ 
+3250 |Greek  Κλυτίος  also spelled Klythios  Klytios  Clytios  and Klytius  is the name of multiple people in Greek mythology 
+A son of Laomedon  brother of Priam  and an elder of| with freq: 1.0
+ 
+3251 |Greek  or  is the| with freq: 1.0
+ 
+3252 |Greek  is to| with freq: 1.0
+ 
+3253 |Greek  is epic| with freq: 1.0
+ 
+3254 |Greek  is a poem| with freq: 1.0
+ 
+3255 |Greek  is a Homer s| with freq: 1.0
+ 
+3256 |Greek  also called son of| with freq: 1.0
+ 
+3257 |Greek  also  Homer s| with freq: 1.0
+ 
+3258 |Greek   was and of  the| with freq: 1.0
+ 
+3259 |Greek   was a leader of| with freq: 1.0
+ 
+3260 |Greek   is son of| with freq: 1.0
+ 
+3261 |Greek   is poem by| with freq: 1.0
+ 
+3262 |Greek   is poem| with freq: 1.0
+ 
+3263 |Greek   is epic the work of| with freq: 1.0
+ 
+3264 |Greek   is epic poem written| with freq: 1.0
+ 
+3265 |Greek   is epic poem the| with freq: 1.0
+ 
+3266 |Greek   is epic poem| with freq: 1.0
+ 
+3267 |Greek   is epic by| with freq: 1.0
+ 
+3268 |Greek   is century of the| with freq: 1.0
+ 
+3269 |Greek   is and the| with freq: 1.0
+ 
+3270 |Greek   is and of| with freq: 1.0
+ 
+3271 |Greek   is ancient epic poem| with freq: 1.0
+ 
+3272 |Greek   is ancient epic| with freq: 1.0
+ 
+3273 |Greek   is an god and  of| with freq: 1.0
+ 
+3274 |Greek   is a poem by| with freq: 1.0
+ 
+3275 |Greek   is a century the| with freq: 1.0
+ 
+3276 |Greek   is a Greek epic poem by| with freq: 1.0
+ 
+3277 |Greek   is Greek  in| with freq: 1.0
+ 
+3278 |Greek   ancient Greek epic attributed to| with freq: 1.0
+ 
+3279 |Greek    was a king of  of| with freq: 1.0
+ 
+3280 |Greek    was  of| with freq: 1.0
+ 
+3281 |Greek    was   of| with freq: 1.0
+ 
+3282 |Greek    was   a son of  or  the| with freq: 1.0
+ 
+3283 |Greek    is epic  work| with freq: 1.0
+ 
+3284 |Greek    from    was the son of the| with freq: 1.0
+ 
+3285 |Greek    from    was the son of and the| with freq: 1.0
+ 
+3286 |Greek     was the king of| with freq: 1.0
+ 
+3287 |Greek     also known     of and of the| with freq: 1.0
+ 
+3288 |Greek     also known     of| with freq: 1.0
+ 
+3289 |Greek     also known      of| with freq: 1.0
+ 
+3290 |Greek     also   a Homer s| with freq: 1.0
+ 
+3291 |Greek      was the son of| with freq: 1.0
+ 
+3292 |Greek      was the daughter of and of| with freq: 1.0
+ 
+3293 |Greek      was the daughter of and| with freq: 1.0
+ 
+3294 |Greek      was  the son of the| with freq: 1.0
+ 
+3295 |Greek      was  the son of and the| with freq: 1.0
+ 
+3296 |Greek      was  the son of| with freq: 1.0
+ 
+3297 |Greek      is the wife of| with freq: 1.0
+ 
+3298 |Greek      is a poem by| with freq: 1.0
+ 
+3299 |Greek       was a hero of the| with freq: 1.0
+ 
+3300 |Greek       was a hero of| with freq: 1.0
+ 
+3301 |Greek       is a character in Homer s| with freq: 1.0
+ 
+3302 |Greek       called| with freq: 1.0
+ 
+3303 |Greek       a Greek of and a Homer s| with freq: 1.0
+ 
+3304 |Greek               was the son of the| with freq: 1.0
+ 
+3305 |Great War   is a poem by| with freq: 1.0
+ 
+3306 |God    is poem| with freq: 1.0
+ 
+3307 |God    is| with freq: 1.0
+ 
+3308 |German written the poet| with freq: 1.0
+ 
+3309 |German  Das Stunden Buch  is a collection of poetry by the Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+3310 |German  Das Buch der Bilder  is a collection of poetry by the Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+3311 |German  Das Buch  is a collection of poetry by the Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+3312 |German   is play by the German dramatist| with freq: 1.0
+ 
+3313 |German   is a poet| with freq: 1.0
+ 
+3314 |German   is a poem the German| with freq: 1.0
+ 
+3315 |German   is a poem by the German writer| with freq: 1.0
+ 
+3316 |German   is a poem by the German| with freq: 1.0
+ 
+3317 |German   is a poem| with freq: 1.0
+ 
+3318 |German    is a prose poem by| with freq: 1.0
+ 
+3319 |German    is a poem by| with freq: 1.0
+ 
+3320 |German    is a poem| with freq: 1.0
+ 
+3321 |German     is a poem by the German| with freq: 1.0
+ 
+3322 |French  Yvain  le Chevalier au Lion  is a romance by| with freq: 1.0
+ 
+3323 |French  Lancelot  le Chevalier de la Charrette  is an Old French poem by| with freq: 1.0
+ 
+3324 |French   is poem by| with freq: 1.0
+ 
+3325 |French   is and| with freq: 1.0
+ 
+3326 |French   is an poem by French writer| with freq: 1.0
+ 
+3327 |French    is poem by| with freq: 1.0
+ 
+3328 |English poet  and published his and| with freq: 1.0
+ 
+3329 |English is a poem in and by| with freq: 1.0
+ 
+3330 |English The One  is a| with freq: 1.0
+ 
+3331 |English  written poet| with freq: 1.0
+ 
+3332 |English  written and| with freq: 1.0
+ 
+3333 |English  the  is a poem| with freq: 1.0
+ 
+3334 |English  is a poetry by| with freq: 1.0
+ 
+3335 |English  is a poem by the poet| with freq: 1.0
+ 
+3336 |English  is a poem by poet| with freq: 1.0
+ 
+3337 |English  is a poem| with freq: 1.0
+ 
+3338 |English  To the Simple Man  is a poem by| with freq: 1.0
+ 
+3339 |English  One  is a| with freq: 1.0
+ 
+3340 |English  Nine Pieces  is a collection of poems attributed to| with freq: 1.0
+ 
+3341 |English  Middle  is a| with freq: 1.0
+ 
+3342 |English   known| with freq: 1.0
+ 
+3343 |English   is a poem the century| with freq: 1.0
+ 
+3344 |English   is a poem the| with freq: 1.0
+ 
+3345 |English   is a poem in in| with freq: 1.0
+ 
+3346 |English   is a poem in| with freq: 1.0
+ 
+3347 |English   is a poem| with freq: 1.0
+ 
+3348 |English   is a film and| with freq: 1.0
+ 
+3349 |English   is a film| with freq: 1.0
+ 
+3350 |English   is a collection of poems| with freq: 1.0
+ 
+3351 |English   is a collection of by poet| with freq: 1.0
+ 
+3352 |English   is a collection of by| with freq: 1.0
+ 
+3353 |English   best known| with freq: 1.0
+ 
+3354 |English   War directed  has war| with freq: 1.0
+ 
+3355 |English    krai si z   Greek  Χρύσης   Khrúsēs  was a priest of Apollo at Chryse  near the city of| with freq: 1.0
+ 
+3356 |English    is a collection by| with freq: 1.0
+ 
+3357 |English     is the| with freq: 1.0
+ 
+3358 |English     is a poem by| with freq: 1.0
+ 
+3359 |English     is a| with freq: 1.0
+ 
+3360 |Eclogue is a poem by| with freq: 1.0
+ 
+3361 |Dve Sudby  is a poem by| with freq: 1.0
+ 
+3362 |Devanagari  is Sanskrit| with freq: 1.0
+ 
+3363 |Croatian   is work Croatian| with freq: 1.0
+ 
+3364 |Croatian   is poem by| with freq: 1.0
+ 
+3365 |Croatian   is epic poem by| with freq: 1.0
+ 
+3366 |Christmas  is a poem by| with freq: 1.0
+ 
+3367 |Chinese  哀郢  pinyin  āi Yǐng  is a poem which has sometimes been attributed to Chinese poet| with freq: 1.0
+ 
+3368 |Chinese   pinyin   is a poem| with freq: 1.0
+ 
+3369 |Chinese    of  is a poem by| with freq: 1.0
+ 
+3370 |Chinese     is a poem poet| with freq: 1.0
+ 
+3371 |Catalan  New ode to Barcelona  is a poem by| with freq: 1.0
+ 
+3372 |Castigations   is a collection of poems by| with freq: 1.0
+ 
+3373 |Capri  is a poem by| with freq: 1.0
+ 
+3374 |Capital of Pain  is a book of poems by French surrealist poet| with freq: 1.0
+ 
+3375 |Book of  is a poem the Persian| with freq: 1.0
+ 
+3376 |Book  is the| with freq: 1.0
+ 
+3377 |Book  is a poem| with freq: 1.0
+ 
+3378 |Book  is a| with freq: 1.0
+ 
+3379 |Book   is the| with freq: 1.0
+ 
+3380 |Bengali  গীতাঞ্জলি  is a collection of poems by the Indian poet| with freq: 1.0
+ 
+3381 |Bengali  অবনী বাড়ি আছো Ôboni Baŗi Achho  is a poem by| with freq: 1.0
+ 
+3382 |Being Poems Chiefly of the Irish Heroic Age is a volume of poems by| with freq: 1.0
+ 
+3383 |Beams and shadows   1840  is a collection of forty four poems by| with freq: 1.0
+ 
+3384 |Ballade of the Ladies of Times Past   is a poem by| with freq: 1.0
+ 
+3385 |Autumn Song   is a poem by| with freq: 1.0
+ 
+3386 |April  is a poem by| with freq: 1.0
+ 
+3387 |Ancient Greek  Ἀμφιμέδων  was the son of Melaneus and one of the suitors of| with freq: 1.0
+ 
+3388 |Ancient Greek  Καινεύς  Kaineus  was a Lapith hero of Thessaly and  in| with freq: 1.0
+ 
+3389 |Ancient Greek  Θεανώ  was the priestess of Athena in| with freq: 1.0
+ 
+3390 |Ancient Greek  Δάρης  Dárēs  Middle Welsh  Dared   according to Homer  was a Trojan priest of| with freq: 1.0
+ 
+3391 |Ancient Greek  a Greek Homer s| with freq: 1.0
+ 
+3392 |Ancient Greek   was the son of of of| with freq: 1.0
+ 
+3393 |Ancient Greek   was the son of of Troy and of| with freq: 1.0
+ 
+3394 |Ancient Greek   was the son of of Troy and| with freq: 1.0
+ 
+3395 |Ancient Greek   was the son of and  of| with freq: 1.0
+ 
+3396 |Ancient Greek   was the son of King of  and| with freq: 1.0
+ 
+3397 |Ancient Greek   was the son of King| with freq: 1.0
+ 
+3398 |Ancient Greek   was son of and  daughter of| with freq: 1.0
+ 
+3399 |Ancient Greek   was son of  of and of| with freq: 1.0
+ 
+3400 |Ancient Greek   was son of  of and| with freq: 1.0
+ 
+3401 |Ancient Greek   was son of  of   and| with freq: 1.0
+ 
+3402 |Ancient Greek   was  of King of| with freq: 1.0
+ 
+3403 |Ancient Greek   was  of King| with freq: 1.0
+ 
+3404 |Ancient Greek   the   was| with freq: 1.0
+ 
+3405 |Ancient Greek   pronounced    was  of| with freq: 1.0
+ 
+3406 |Ancient Greek   is epic that to| with freq: 1.0
+ 
+3407 |Ancient Greek   is a poem| with freq: 1.0
+ 
+3408 |Ancient Greek   is a| with freq: 1.0
+ 
+3409 |Ancient Greek   is Greek epic poem that was attributed to| with freq: 1.0
+ 
+3410 |Ancient Greek    was to| with freq: 1.0
+ 
+3411 |Ancient Greek    was a| with freq: 1.0
+ 
+3412 |Ancient Greek    or  is the| with freq: 1.0
+ 
+3413 |Ancient Greek    is poem| with freq: 1.0
+ 
+3414 |Ancient Greek    is epic that to| with freq: 1.0
+ 
+3415 |Ancient Greek    is epic poem that was to| with freq: 1.0
+ 
+3416 |Ancient Greek    is epic   to| with freq: 1.0
+ 
+3417 |Ancient Greek    is Greek epic poem that was attributed to| with freq: 1.0
+ 
+3418 |Ancient Greek    Greek epic poem that was attributed to| with freq: 1.0
+ 
+3419 |Ancient Greek      Homer s| with freq: 1.0
+ 
+3420 |Ancient Greek        was| with freq: 1.0
+ 
+3421 |Ancient Greek  τὰ Λίβηθρα or Λείβηθρα  was a city close to Olympus where| with freq: 1.0
+ 
+3422 |Ancient Greek  Οὐκαλέγων  was one of the Elders of| with freq: 1.0
+ 
+3423 |Ancient Greek   was| with freq: 1.0
+ 
+3424 |Ancient  or  was to| with freq: 1.0
+ 
+3425 |A s  is a poem by| with freq: 1.0
+ 
+3426 |A Version from the Irish is a version of the Irish poem Buile Shuibhne written by| with freq: 1.0
+ 
+3427 |A Song   is a poem by| with freq: 1.0
+ 
+3428 |A Poem  in Three Parts  1687  is an allegory in heroic couplets by| with freq: 1.0
+ 
+3429 |A Poem  1812  is a poem by| with freq: 1.0
+ 
+3430 |A Poem   is an poem by| with freq: 1.0
+ 
+3431 |A  is poem by the poet| with freq: 1.0
+ 
+3432 |A  is poem by the Romantic| with freq: 1.0
+ 
+3433 |A  is an poem by| with freq: 1.0
+ 
+3434 |A   is a poem of by| with freq: 1.0
+ 
+3435 |A   is a poem in by| with freq: 1.0
+ 
+3436 |A     is poem by| with freq: 1.0
+ 
+3437 |A     is a poem by| with freq: 1.0
+ 
+3438 |2010  is a reimagining of| with freq: 1.0
+ 
+3439 |1972  is a poetry collection by| with freq: 1.0
+ 
+3440 |1971  is African American writer and poet| with freq: 1.0
+ 
+3441 |1969  is a poetry collection by| with freq: 1.0
+ 
+3442 |1965–1971 is a collection of poetry by| with freq: 1.0
+ 
+3443 |1962  is a postmodern novel by| with freq: 1.0
+ 
+3444 |1958 1960  1961  is a book of poems by| with freq: 1.0
+ 
+3445 |1945  is a poem by| with freq: 1.0
+ 
+3446 |1925  is a poem by| with freq: 1.0
+ 
+3447 |1892  is a poem by| with freq: 1.0
+ 
+3448 |1860  is a poem by American poet| with freq: 1.0
+ 
+3449 |1840   1905  was the translator of Persian works by mystic poets Saadi| with freq: 1.0
+ 
+3450 |1818  is a poem by| with freq: 1.0
+ 
+3451 |1816  is a poem by the English Romantic poet| with freq: 1.0
+ 
+3452 |1807  is a poem by| with freq: 1.0
+ 
+3453 |1805  is a poem by| with freq: 1.0
+ 

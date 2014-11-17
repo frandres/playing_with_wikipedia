@@ -1,0 +1,3181 @@
+-------------- RANKING ----------------
+0 |is a poem by| with freq: 120.0
+ 
+1 |is one of 154 sonnets written by the English playwright and poet| with freq: 89.0
+ 
+2 |is a poem from| with freq: 48.0
+ 
+3 |is a poem written by| with freq: 46.0
+ 
+4 || with freq: 26.0
+ 
+5 |is a poetry collection by| with freq: 19.0
+ 
+6 |was composed by| with freq: 14.0
+ 
+7 |is a poem written by the English poet| with freq: 11.0
+ 
+8 |is one of| with freq: 10.0
+ 
+9 |is a sonnet by| with freq: 9.0
+ 
+10 |s| with freq: 7.0
+ 
+11 |is a book of poems by| with freq: 7.0
+ 
+12 |was written by| with freq: 6.0
+ 
+13 |is a long poem by| with freq: 6.0
+ 
+14 |by| with freq: 6.0
+ 
+15 |s Odyssey| with freq: 5.0
+ 
+16 |is one of The Canterbury Tales by| with freq: 5.0
+ 
+17 |is a poem by the English poet| with freq: 5.0
+ 
+18 |is a narrative poem by| with freq: 5.0
+ 
+19 |is a collection of poems by| with freq: 5.0
+ 
+20 |was| with freq: 4.0
+ 
+21 |is a short poem by| with freq: 4.0
+ 
+22 |is a poem written by American poet| with freq: 4.0
+ 
+23 |is a poem in| with freq: 4.0
+ 
+24 |is a poem from the second  1931  edition of| with freq: 4.0
+ 
+25 |is a poem by American poet| with freq: 4.0
+ 
+26 |is a book of poetry by| with freq: 4.0
+ 
+27 |” is a poem by| with freq: 3.0
+ 
+28 |is an epic poem by| with freq: 3.0
+ 
+29 |is a rhymed  romantic  narrative poem by Sir| with freq: 3.0
+ 
+30 |is a poem published by| with freq: 3.0
+ 
+31 |is a poem by Nigerian writer| with freq: 3.0
+ 
+32 |is a narrative poem written by| with freq: 3.0
+ 
+33 |is a collection of poetry by| with freq: 3.0
+ 
+34 |is a Breton lai by the medieval poet| with freq: 3.0
+ 
+35 |along with| with freq: 3.0
+ 
+36 |was a poem written by| with freq: 2.0
+ 
+37 |or  To| with freq: 2.0
+ 
+38 |one of| with freq: 2.0
+ 
+39 |on Life  Death   Immortality  better known simply as| with freq: 2.0
+ 
+40 |is the title of a series of philosophical aphorisms by| with freq: 2.0
+ 
+41 |is the second of the sequence  running until| with freq: 2.0
+ 
+42 |is the first collection of poetry by| with freq: 2.0
+ 
+43 |is one of the Lais of| with freq: 2.0
+ 
+44 |is one of the English poet| with freq: 2.0
+ 
+45 |is one of five odes composed by English poet| with freq: 2.0
+ 
+46 |is another of his procreation sonnets  this one continued from| with freq: 2.0
+ 
+47 |is a well known Irish song from a poem written by Irish poet| with freq: 2.0
+ 
+48 |is a travel book in prose and verse by| with freq: 2.0
+ 
+49 |is a thematic continuation of| with freq: 2.0
+ 
+50 |is a syntactic and thematic continuation of| with freq: 2.0
+ 
+51 |is a sonnet written by| with freq: 2.0
+ 
+52 |is a sonnet by the English Romantic poet| with freq: 2.0
+ 
+53 |is a poem written by Welsh poet| with freq: 2.0
+ 
+54 |is a poem written by American writer| with freq: 2.0
+ 
+55 |is a poem composed by Indian poet| with freq: 2.0
+ 
+56 |is a poem by the Roman poet| with freq: 2.0
+ 
+57 |is a poem by the Italian writer Giovanni Boccaccio  and the inspiration for Geoffrey Chaucer s| with freq: 2.0
+ 
+58 |is a poem by the 15th century Scottish poet| with freq: 2.0
+ 
+59 |is a poem by Irish poet| with freq: 2.0
+ 
+60 |is a poem by English poet| with freq: 2.0
+ 
+61 |is a lyrical poem by| with freq: 2.0
+ 
+62 |is a lyric poem by| with freq: 2.0
+ 
+63 |is a collection of poetry written by| with freq: 2.0
+ 
+64 |is a collection of English poems by| with freq: 2.0
+ 
+65 |is a book of poetry written by| with freq: 2.0
+ 
+66 |is a Breton lai  a type of narrative poem  written by| with freq: 2.0
+ 
+67 |is| with freq: 2.0
+ 
+68 |a poem by| with freq: 2.0
+ 
+69 |Latin  Imperator Caesar Divi F| with freq: 2.0
+ 
+70 |Attic  Ionic  and| with freq: 2.0
+ 
+71 |2005   written with the assistance of Professor James Diggle of Cambridge University and Professor John Underhill of the University of Edinburgh  Paliki  a peninsula of Kefalonia  is the location of| with freq: 2.0
+ 
+72 |歸田賦  is a literary work written in the Chinese style known as a rhapsody  or fu style  it is by| with freq: 1.0
+ 
+73 |智恵子抄  Chieko sho  is a 1967 Japanese drama film directed by Noboru Nakamura and based on a poem by the Japanese poet and sculptor| with freq: 1.0
+ 
+74 |春怨  is a 5 word jueju  五言绝句  poem written by| with freq: 1.0
+ 
+75 |幸蜀歌  1885 in  Song of Voyage to Thục   is the best known work of| with freq: 1.0
+ 
+76 |國音詩集  National pronunciation poetry collection   is a vernacular Vietnamese language poetry book written in chữ nôm script attributed to| with freq: 1.0
+ 
+77 |みだれ髪  “Tangled hair”  is a collection of tanka  短歌  “Short poem”   written by the Japanese writer| with freq: 1.0
+ 
+78 |” is a song by the English composer Edward Elgar with words translated from the Polish of| with freq: 1.0
+ 
+79 |” is a poem written in 1934 by Modernist poet| with freq: 1.0
+ 
+80 |” is a poem in| with freq: 1.0
+ 
+81 |” is a poem by American poet| with freq: 1.0
+ 
+82 |”  Serbian  Луча микрокозма   Luča mikrokozma  is a romantic  cosmic religious poem  written in 1845 by Prince Bishop and poet| with freq: 1.0
+ 
+83 |’s Odyssey| with freq: 1.0
+ 
+84 |’s A| with freq: 1.0
+ 
+85 |’ was written by Emily Brontë in December 1837  the same month and year Anne Brontë fell seriously ill at Roe Head and had to be withdrawn by her sister| with freq: 1.0
+ 
+86 |’ was written by Emily Brontë in December 1837  the same month and year| with freq: 1.0
+ 
+87 |’ was written by| with freq: 1.0
+ 
+88 |’ is a poem recited by the Mad Hatter in chapter seven of| with freq: 1.0
+ 
+89 |—that is  of the Iliad and| with freq: 1.0
+ 
+90 |—that is  of the| with freq: 1.0
+ 
+91 |—also known as the Divine Meditations or Divine Sonnets—are a series of nineteen poems by the English poet| with freq: 1.0
+ 
+92 |— often referred to as  The African American National Anthem — is a song written as a poem by| with freq: 1.0
+ 
+93 |Ὀθρυονεύς  was in Greek mythology a suitor of Princess Cassandra of Troy during the Trojan War  mentioned in one passage in Homer s| with freq: 1.0
+ 
+94 |Ὀθρυονεύς  was in Greek mythology a suitor of Princess Cassandra of Troy during the Trojan War  mentioned in one passage in| with freq: 1.0
+ 
+95 |Ὀθρυονεύς  was in Greek mythology a suitor of Princess Cassandra of| with freq: 1.0
+ 
+96 |Ὀθρυονεύς  was in Greek mythology a suitor of Princess| with freq: 1.0
+ 
+97 |Ἕκτωρ Hektōr  pronounced  héktɔːr   was a Trojan prince and the greatest fighter for| with freq: 1.0
+ 
+98 |Ἑκαμήδη   daughter of| with freq: 1.0
+ 
+99 |Ἐτεωνεύς  was the son of Boethous  and King| with freq: 1.0
+ 
+100 |Ἐλπήνωρ  gen   Ἐλπήνορος  was a comrade of| with freq: 1.0
+ 
+101 |Ἅμφιος  refers to two defenders of| with freq: 1.0
+ 
+102 |Ἀρχέλοχος  was a son of Antenor and along with his brother Acamas and| with freq: 1.0
+ 
+103 |Ἀρχέλοχος  was a son of Antenor and along with his brother| with freq: 1.0
+ 
+104 |ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ  is the most famous work and the magnum opus by| with freq: 1.0
+ 
+105 |بنجارانامہ  बंजारानामा  Chronicle of the Nomad  is a famous satirical Urdu poem  written by the eighteenth century Indian poet| with freq: 1.0
+ 
+106 |Сон статс советника Попова  also – Сон Попова  is a satire in verse by| with freq: 1.0
+ 
+107 |История Государства Российского от Гостомысла до Тимашева  is a parody poem in 83 verses by the Russian poet and dramatist| with freq: 1.0
+ 
+108 |Дядя Стёпа   was a series of poems composed by Russian children s poet| with freq: 1.0
+ 
+109 |Боярин Орша  is a poem by| with freq: 1.0
+ 
+110 |Μύδων  gen   Μύδωνος  was one of the defenders of Troy in Homer s| with freq: 1.0
+ 
+111 |Μύδων  gen   Μύδωνος  was one of the defenders of Troy in| with freq: 1.0
+ 
+112 |Μύδων  gen   Μύδωνος  was one of the defenders of| with freq: 1.0
+ 
+113 |Μέντης  is the name of two different Trojan War leaders  the King of the Cicones  according to the Iliad  and the King of the Taphians and the son of Antiloches  according to the| with freq: 1.0
+ 
+114 |Μέντης  is the name of two different Trojan War leaders  the King of the Cicones  according to the| with freq: 1.0
+ 
+115 |Λήιτος  was the son of Alector  Alectryon  and Polybule or of Lacritus and Cleobule  brother of| with freq: 1.0
+ 
+116 |Κεβριόνης  was the illegitimate son of King Priam of| with freq: 1.0
+ 
+117 |Κεβριόνης  was the illegitimate son of King| with freq: 1.0
+ 
+118 |Καλήσιος  was the attendant and charioteer of| with freq: 1.0
+ 
+119 |Θεοκλύμενος   son of Polypheides  was a prophet from Argos  who  in the| with freq: 1.0
+ 
+120 |Εὔνηος  was a son of Jason and Queen Hypsipyle of Lemnos  he had a twin brother whose name is variously given as Nebrophon| with freq: 1.0
+ 
+121 |Εὔνηος  was a son of Jason and Queen Hypsipyle of| with freq: 1.0
+ 
+122 |Εὔδωρος   or Eudorus  was the second of| with freq: 1.0
+ 
+123 |Δημοπτόλεμος  was one of the myriad suitors of the queen of| with freq: 1.0
+ 
+124 |Δηίφοβος  was a son of Priam and| with freq: 1.0
+ 
+125 |Δηίφοβος  was a son of| with freq: 1.0
+ 
+126 |Αἰνειάδαι in Greek  were the friends  family and companions of Aeneas  with whom they fled from| with freq: 1.0
+ 
+127 |Αἰνειάδαι in Greek  were the friends  family and companions of| with freq: 1.0
+ 
+128 |ˌpɒlɨˈfiːməs   Greek  Πολύφημος Polyphēmos  is the giant son of Poseidon and Thoosa in Greek mythology  one of the Cyclopes described in| with freq: 1.0
+ 
+129 |ˌpɒlɨˈfiːməs   Greek  Πολύφημος Polyphēmos  is the giant son of| with freq: 1.0
+ 
+130 |ˌpaɪˈrɪθoʊ əs   Ancient Greek  Πειρίθοος or Πειρίθους  also transliterated as Perithous  was the King of the Lapiths in Thessaly and husband of Hippodamia  at whose wedding the famous Battle of Lapiths and Centaurs occurred  as well as close friend of the hero| with freq: 1.0
+ 
+131 |ˌniːəpˈtɒlɨməs   Greek  Νεοπτόλεμος  Neoptolemos   new warrior    also called Pyrrhus   ˈpɪrəs   Πύρρος  Purrhos   red   for his red hair   was the son of the warrior| with freq: 1.0
+ 
+132 |ˌmɛnɪˈleɪəs   Greek  Μενέλαος  Menelaos  was a king of Mycenaean  pre Dorian  Sparta  the husband of| with freq: 1.0
+ 
+133 |ˌkʊblə ˈkɑːn  is a poem written by| with freq: 1.0
+ 
+134 |ˈθiːsiːəs   Ancient Greek  Θησεύς  tʰɛːsěu̯s   was the mythical founder king of Athens and was the son of Aethra by two fathers  Aegeus and| with freq: 1.0
+ 
+135 |ˈɪliəd   sometimes referred to as the Song of Ilion or Song of Ilium  is an ancient Greek epic poem in dactylic hexameter  traditionally attributed to| with freq: 1.0
+ 
+136 |ˈɛklɒɡz   Latin  Eclogae  ˈɛklɔɡaj    also called the Bucolics  is the first of the three major works of the Latin poet| with freq: 1.0
+ 
+137 |ˈɒʃən  ˈɒsiən   Scottish Gaelic  Oisean  is the narrator and purported author of a cycle of epic poems published by the Scottish poet| with freq: 1.0
+ 
+138 |ˈɒdəsi   Greek  Ὀδύσσεια  Odýsseia  is one of two major ancient Greek epic poems attributed to| with freq: 1.0
+ 
+139 |ˈskɛriə   Ancient Greek  Σχερίη or Σχερία —also known as Scherie or Phaeacia—was a region in Greek mythology  first mentioned in Homer s Odyssey as the home of the Phaeacians and the last destination of| with freq: 1.0
+ 
+140 |ˈskɛriə   Ancient Greek  Σχερίη or Σχερία —also known as Scherie or Phaeacia—was a region in Greek mythology  first mentioned in Homer s| with freq: 1.0
+ 
+141 |ˈskɛriə   Ancient Greek  Σχερίη or Σχερία —also known as Scherie or Phaeacia—was a region in Greek mythology  first mentioned in| with freq: 1.0
+ 
+142 |ˈproʊtiəs   tjuːs   Greek  Πρωτεύς  is an early sea god or god of rivers and oceanic bodies of water  one of several deities whom| with freq: 1.0
+ 
+143 |ˈpraɪ əm   Greek  Πρίαμος Príamos  pronounced  prí amos   was the king of| with freq: 1.0
+ 
+144 |ˈmaɪnɒs  or  ˈmaɪnəs   Greek  Μίνως  Minōs  was a king of Crete  son of| with freq: 1.0
+ 
+145 |ˈkælkəs   Ancient Greek  Κάλχας  possibly meaning  bronze man    son of Thestor  was an Argive seer  with a gift for interpreting the flight of birds that he received of| with freq: 1.0
+ 
+146 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of Anchises  by his wife Themiste  sister of Laomedon and daughter of Ilus and Eurydice  and so grandfather of| with freq: 1.0
+ 
+147 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of Anchises  by his wife Themiste  sister of Laomedon and daughter of Ilus and| with freq: 1.0
+ 
+148 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of Anchises  by his wife Themiste  sister of Laomedon and daughter of| with freq: 1.0
+ 
+149 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of Assaracus and Hieromneme  daughter of Simois   and father of| with freq: 1.0
+ 
+150 |ˈkeɪpɨs   Ancient Greek  Κάπυς  was a name attributed to three individuals 
+A son of| with freq: 1.0
+ 
+151 |ˈhɜrmiːz   Greek  Ἑρμῆς  is an Olympian god in Greek religion and mythology  son of| with freq: 1.0
+ 
+152 |ˈhɛrə   Greek Ἥρα  Hēra  equivalently Ἥρη  Hērē  in Ionic and Homer  is the wife and one of three sisters of| with freq: 1.0
+ 
+153 |ˈhɛrə   Greek Ἥρα  Hēra  equivalently Ἥρη  Hērē  in Ionic and| with freq: 1.0
+ 
+154 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King Priam and Queen Hecuba of Troy  and the twin brother of the prophetess| with freq: 1.0
+ 
+155 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King Priam and Queen Hecuba of| with freq: 1.0
+ 
+156 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King Priam and Queen| with freq: 1.0
+ 
+157 |ˈhɛlənəs   Ancient Greek  Ἕλενος  was the son of King| with freq: 1.0
+ 
+158 |ˈhɛkjʊbə   also Hecabe  Hécube  Ancient Greek  Ἑκάβη Hekábē  pronounced  hekábɛ͜ɛ   was a queen in Greek mythology  the wife of King Priam of| with freq: 1.0
+ 
+159 |ˈhɛkjʊbə   also Hecabe  Hécube  Ancient Greek  Ἑκάβη Hekábē  pronounced  hekábɛ͜ɛ   was a queen in Greek mythology  the wife of King| with freq: 1.0
+ 
+160 |ˈdʌnsi æd  is a landmark literary satire by| with freq: 1.0
+ 
+161 |ˈdɑrdənəs   Greek  Δάρδανος  was a son of| with freq: 1.0
+ 
+162 |ɪˈniːəs   Greek  Αἰνείας  Aineías  possibly derived from Greek αἰνή meaning  praised   was a Trojan hero  the son of the prince Anchises and the goddess Venus| with freq: 1.0
+ 
+163 |ɪˈniːəs   Greek  Αἰνείας  Aineías  possibly derived from Greek αἰνή meaning  praised   was a Trojan hero  the son of the prince| with freq: 1.0
+ 
+164 |ɪkˈsaɪ ən  ik SY ən  Greek  Ἰξίων  gen   Ἰξίωνος  was king of the Lapiths  the most ancient tribe of Thessaly  and a son of Ares  or Leonteus  or Antion and Perimele  or the notorious evildoer| with freq: 1.0
+ 
+165 |ɪkˈsaɪ ən  ik SY ən  Greek  Ἰξίων  gen   Ἰξίωνος  was king of the Lapiths  the most ancient tribe of Thessaly  and a son of| with freq: 1.0
+ 
+166 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of Hector  Crown Prince of Troy and Princess Andromache of| with freq: 1.0
+ 
+167 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of Hector  Crown Prince of Troy and Princess| with freq: 1.0
+ 
+168 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of Hector  Crown Prince of| with freq: 1.0
+ 
+169 |əˈstaɪ ənæks   Ancient Greek  Ἀστυάναξ Astyánax   protector of the city   was the son of| with freq: 1.0
+ 
+170 |əˈskeɪniəs   is a legendary king of Alba Longa and is the son of the Trojan hero| with freq: 1.0
+ 
+171 |əˈniːɪd   Latin  Aeneis  ajˈneːis   is a Latin epic poem  written by Virgil between 29 and 19 BC  that tells the legendary story of| with freq: 1.0
+ 
+172 |əˈniːɪd   Latin  Aeneis  ajˈneːis   is a Latin epic poem  written by| with freq: 1.0
+ 
+173 |əˈkɪliːz   Ancient Greek  Ἀχιλλεύς  Akhilleus  pronounced  akʰilːéu̯s   was a Greek hero of the Trojan War and the central character and greatest warrior of Homer s| with freq: 1.0
+ 
+174 |əˈkɪliːz   Ancient Greek  Ἀχιλλεύς  Akhilleus  pronounced  akʰilːéu̯s   was a Greek hero of the Trojan War and the central character and greatest warrior of| with freq: 1.0
+ 
+175 |æɡəˈmɛmnɒn   Greek  Ἀγαμέμνων from  Ἀγαμέδμων  from ἄγαν   very much  and μέδομαι   think on     very steadfast   was the son of king Atreus and queen Aerope of Mycenae  the brother of| with freq: 1.0
+ 
+176 |ænˈkaɪsiːz   an KY seez or   æŋˈkaɪsiːz  ang KY seez  Ancient Greek  Ἀγχίσης  pronounced  aŋkʰi͜ísɛ͜ɛs   was the son of Capys and Themiste  daughter of| with freq: 1.0
+ 
+177 |ænˈkaɪsiːz   an KY seez or   æŋˈkaɪsiːz  ang KY seez  Ancient Greek  Ἀγχίσης  pronounced  aŋkʰi͜ísɛ͜ɛs   was the son of| with freq: 1.0
+ 
+178 |ænˈdrɒməkiː   Ancient Greek  Ἀνδρομάχη  was the wife of| with freq: 1.0
+ 
+179 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of Nausithous  or of Phaeax  the son of Poseidon and Corcyra   and father of Nausicaa  Halius  Clytoneus and| with freq: 1.0
+ 
+180 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of Nausithous  or of Phaeax  the son of Poseidon and Corcyra   and father of| with freq: 1.0
+ 
+181 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of Nausithous  or of Phaeax  the son of| with freq: 1.0
+ 
+182 |ælˈsɪnoʊəs   Greek  Ἀλκίνους or Ἀλκίνοος  Alkínoös  was  in Greek mythology  a son of| with freq: 1.0
+ 
+183 |Éloa  or the Sister of the Angels   published in 1824  see 1824 in poetry   is| with freq: 1.0
+ 
+184 |zdɾau̯ˈljiːtsa   English   A Toast   is a carmen figuratum poem by the 19th century Romantic Slovene poet| with freq: 1.0
+ 
+185 |written in April 1798  is one of the conversation poems by| with freq: 1.0
+ 
+186 |written in 1805  published in 1807  is a poem  an ode  written by| with freq: 1.0
+ 
+187 |written by Dr| with freq: 1.0
+ 
+188 |written by| with freq: 1.0
+ 
+189 |written 1795  is one of| with freq: 1.0
+ 
+190 |which re tells in Middle English the tragic story of the lovers| with freq: 1.0
+ 
+191 |which can be rendered in English as Timestead  is a German language poetry collection by| with freq: 1.0
+ 
+192 |which can also be titled “My love is strengthened  though more week in seeming ” is one of 154 sonnets written by the English playwright and poet| with freq: 1.0
+ 
+193 |which| with freq: 1.0
+ 
+194 |was written in 1952 by Canadian poet| with freq: 1.0
+ 
+195 |was written by the American poet| with freq: 1.0
+ 
+196 |was the wet nurse of| with freq: 1.0
+ 
+197 |was the squire of King Alcinous of Phaeacia who  on the evening of Odysseus s escorted departure to Ithaca  mixed and took around the wine from which the Phaeacians made their libations to| with freq: 1.0
+ 
+198 |was the squire of King Alcinous of Phaeacia who  on the evening of Odysseus s escorted departure to| with freq: 1.0
+ 
+199 |was the squire of King Alcinous of Phaeacia who  on the evening of| with freq: 1.0
+ 
+200 |was the squire of King| with freq: 1.0
+ 
+201 |was the son of the ousted Etruscan king Mezentius  and fought with him against| with freq: 1.0
+ 
+202 |was the son of the ousted Etruscan king| with freq: 1.0
+ 
+203 |was the priestess presiding over the| with freq: 1.0
+ 
+204 |was the last major work by| with freq: 1.0
+ 
+205 |was the last collection of poetry completed in| with freq: 1.0
+ 
+206 |was the first poem of| with freq: 1.0
+ 
+207 |was the first collection of poems by| with freq: 1.0
+ 
+208 |was the brother of Numitor and son of| with freq: 1.0
+ 
+209 |was the brother of| with freq: 1.0
+ 
+210 |was published by the American poet| with freq: 1.0
+ 
+211 |was first published by| with freq: 1.0
+ 
+212 |was composed by Samuel Taylor Coleridge as part of| with freq: 1.0
+ 
+213 |was born as the younger of the two sons of Hazrat| with freq: 1.0
+ 
+214 |was an Italian TV miniseries broadcast on RAI  Italian state TV  in 1968 and based on Homer s| with freq: 1.0
+ 
+215 |was an Italian TV miniseries broadcast on RAI  Italian state TV  in 1968 and based on| with freq: 1.0
+ 
+216 |was an Etruscan king  and father of| with freq: 1.0
+ 
+217 |was a son of Odysseus and| with freq: 1.0
+ 
+218 |was a son of Hippodamia and| with freq: 1.0
+ 
+219 |was a son of| with freq: 1.0
+ 
+220 |was a slave of Penelope whom she had received from her father Icarius on occasion of her marriage to| with freq: 1.0
+ 
+221 |was a slave of| with freq: 1.0
+ 
+222 |was a poetry collection published anonymously by| with freq: 1.0
+ 
+223 |was a poetry anthology edited by John Montague and first published in 1974 by| with freq: 1.0
+ 
+224 |was a poem composed by| with freq: 1.0
+ 
+225 |was a play created and performed by the Chickenshed Theatre Company  based on the works of| with freq: 1.0
+ 
+226 |was a part of| with freq: 1.0
+ 
+227 |was a heroic comic poem which was published by| with freq: 1.0
+ 
+228 |was a fourteenth century English scribe  widely thought to have worked for| with freq: 1.0
+ 
+229 |was a famous dispute in The Bulletin magazine from 1892 93 between two of Australia s most iconic writers and poets| with freq: 1.0
+ 
+230 |was a dramatic adaptation of Shakespeare  arranged by Sir| with freq: 1.0
+ 
+231 |was a descendant of| with freq: 1.0
+ 
+232 |was a collection of poetry published in November  1810 by| with freq: 1.0
+ 
+233 |was a character mentioned by| with freq: 1.0
+ 
+234 |was a beech tree with a poem carved into it by| with freq: 1.0
+ 
+235 |was a Trojan hero in the| with freq: 1.0
+ 
+236 |was a Roman Latin grammarian of whom a single work is known  the Interpretationes Vergilianae  a commentary to| with freq: 1.0
+ 
+237 |was a Cretan commander  father of Orsilochus  Cleisithyra  Leucus and Iphiclus  son of Deucalion and Cleopatra  grandson of| with freq: 1.0
+ 
+238 |was a Cretan commander  father of| with freq: 1.0
+ 
+239 |was a 1954 Random House book collecting 1949 54 poems by the American modernist poet writer| with freq: 1.0
+ 
+240 |was a 1915 film directed by Raymond Longford based on a narrative poem by| with freq: 1.0
+ 
+241 |variously translated as My Testament  My Last Will  The Testament of Mine  My Will and Testament and likewise  is a poem written by Juliusz Słowacki  one of the| with freq: 1.0
+ 
+242 |variously translated as My Testament  My Last Will  The Testament of Mine  My Will and Testament and likewise  is a poem written by| with freq: 1.0
+ 
+243 |usually referred to as  Zang Tumb Tuuum   is a sound poem and concrete poem written by| with freq: 1.0
+ 
+244 |təˈlɛməkəs   Greek  Τηλέμαχος  Tēlemakhos  literally  far fighter   is a figure in Greek mythology  the son of Odysseus and Penelope  and a central character in Homer s| with freq: 1.0
+ 
+245 |təˈlɛməkəs   Greek  Τηλέμαχος  Tēlemakhos  literally  far fighter   is a figure in Greek mythology  the son of Odysseus and Penelope  and a central character in| with freq: 1.0
+ 
+246 |təˈlɛməkəs   Greek  Τηλέμαχος  Tēlemakhos  literally  far fighter   is a figure in Greek mythology  the son of Odysseus and| with freq: 1.0
+ 
+247 |təˈlɛməkəs   Greek  Τηλέμαχος  Tēlemakhos  literally  far fighter   is a figure in Greek mythology  the son of| with freq: 1.0
+ 
+248 |translation  Life is a wonderful journey  is a song from the Hindi film Andaz  composed by the duo of Shankar Jaikishan  written by| with freq: 1.0
+ 
+249 |translation  From the Heart  is a critically acclaimed song from the movie Dil Se    composed by A  R  Rahman  lyrics penned by| with freq: 1.0
+ 
+250 |translated into English as Death Fugue and Fugue of Death  is a German language poem written by the Romanian born poet| with freq: 1.0
+ 
+251 |translated into English as Breathturn   is a 1967 German language poetry collection by| with freq: 1.0
+ 
+252 |traditionally The Sack of Oechalia  Ancient Greek  Οἰχαλίᾱς Ἅλωσις  is a fragmentary Greek epic that was variously attributed in Antiquity to either Homer or| with freq: 1.0
+ 
+253 |traditionally The Sack of Oechalia  Ancient Greek  Οἰχαλίᾱς Ἅλωσις  is a fragmentary Greek epic that was variously attributed in Antiquity to either| with freq: 1.0
+ 
+254 |to Zakynthos  is a pre Romantic sonnet by| with freq: 1.0
+ 
+255 |the voice of one crying out   is a Latin poem of around 10 000 lines in elegiac verse by| with freq: 1.0
+ 
+256 |the irreparable loss of sons   is a skaldic poem in 25 stanzas by| with freq: 1.0
+ 
+257 |that his only Sister s Death was Inevitable was composed by| with freq: 1.0
+ 
+258 |that ancient editors called the Dios apate  the| with freq: 1.0
+ 
+259 |səlˈmoʊniəs   Greek  Σαλμωνεύς  was a son of| with freq: 1.0
+ 
+260 |subtitled When Lilacs Last in the Dooryard Bloom d and other poems  is a collection of eighteen poems written and published by nineteenth century American poet| with freq: 1.0
+ 
+261 |subtitled The Great Renunciation  is a book by| with freq: 1.0
+ 
+262 |subtitled Poems of Peace and War 1913 1916  is a collection of poems by| with freq: 1.0
+ 
+263 |subtitled A Long Vacation Pastoral is a lengthy narrative poem by the Victorian poet| with freq: 1.0
+ 
+264 |styled as archy and mehitabel  is the title of a series of newspaper columns written by| with freq: 1.0
+ 
+265 |sometimes subtitled as A Vision instead of a dream  is an epic poem written by the English Romantic| with freq: 1.0
+ 
+266 |sive de rebus Siculis   Book in honour of the Emperor  or on Sicilian affairs   also called Carmen de motibus Siculis   Poem on the Sicilian revolt   is an illustrated narrative epic in Latin elegiac couplets  written in Palermo in 1196 by| with freq: 1.0
+ 
+267 |simplified Chinese  醉翁亭记  traditional Chinese  醉翁亭記  pinyin  Zùiwēng Tíng Jì  literally   An Account of the Old Toper s Pavilion   is a semi autobiographical poem by| with freq: 1.0
+ 
+268 |separators   was the name given to the ancient Alexandrian critics who believed the Iliad and| with freq: 1.0
+ 
+269 |separators   was the name given to the ancient Alexandrian critics who believed the| with freq: 1.0
+ 
+270 |seems  from the evidence of its prologue  to have been intended as the final tale of Geoffrey Chaucer s poetic cycle| with freq: 1.0
+ 
+271 |seems  from the evidence of its prologue  to have been intended as the final tale of| with freq: 1.0
+ 
+272 |s poem| with freq: 1.0
+ 
+273 |s life| with freq: 1.0
+ 
+274 |s epic poem  the Odyssey| with freq: 1.0
+ 
+275 |s Inferno  part of the Divine Comedy| with freq: 1.0
+ 
+276 |s Iliad| with freq: 1.0
+ 
+277 |rendered in English as Snow Part  is a 1971 German language poetry collection by| with freq: 1.0
+ 
+278 |rendered in English as Lightduress  is a 1970 German language poetry collection by| with freq: 1.0
+ 
+279 |refers to three characters who are all associated with Troy and the Trojan War 
+Father of Xanthus and Thoon  who were slain by| with freq: 1.0
+ 
+280 |refers to three characters who are all associated with| with freq: 1.0
+ 
+281 |refers to one of the uncompleted prophetic books by the English poet| with freq: 1.0
+ 
+282 |r  Malay  Surapandaki  Tamil  Curppanakai  Telugu shoorpanakha  Thai  Sammanakkha  or Shurpanakha is a pivotal character in| with freq: 1.0
+ 
+283 |pəˈtroʊkləs  pəˈtrɒkləs   Ancient Greek  Πάτροκλος Patroklos “glory of the father”  was the son of Menoetius  grandson of Actor  King of Opus  and| with freq: 1.0
+ 
+284 |pəˈnɛləpiː  pə NEL ə pee  Greek  Πηνελόπεια  Pēnelópeia  or Πηνελόπη  Pēnelópē  is the faithful wife of| with freq: 1.0
+ 
+285 |published in 1998  is a collection of poetry by English poet and children s writer| with freq: 1.0
+ 
+286 |published in 1852 by| with freq: 1.0
+ 
+287 |published in 1828  is the most complete version of a collection of poems by| with freq: 1.0
+ 
+288 |published between 1859 and 1885  is a cycle of twelve narrative poems by the English poet| with freq: 1.0
+ 
+289 |presumably never finished| with freq: 1.0
+ 
+290 |oʊˈdʒɪdʒiə   Ancient Greek  Ὠγυγίη Ōgygíē  ɔːɡyɡíɛː   or Ὠγυγία Ōgygia  ɔːɡyɡía    is an island mentioned in Homer s Odyssey  Book V  as the home of the nymph Calypso  the daughter of the Titan Atlas  also known as| with freq: 1.0
+ 
+291 |oʊˈdʒɪdʒiə   Ancient Greek  Ὠγυγίη Ōgygíē  ɔːɡyɡíɛː   or Ὠγυγία Ōgygia  ɔːɡyɡía    is an island mentioned in Homer s| with freq: 1.0
+ 
+292 |oʊˈdʒɪdʒiə   Ancient Greek  Ὠγυγίη Ōgygíē  ɔːɡyɡíɛː   or Ὠγυγία Ōgygia  ɔːɡyɡía    is an island mentioned in| with freq: 1.0
+ 
+293 |oʊˈdɪsiəs  oʊˈdɪsjuːs   Greek  Ὀδυσσεύς  odysˈsews    also known by the Roman name Ulysses   juːˈlɪsiːz   Latin  Ulyssēs  Ulixēs   was a legendary Greek king of Ithaca and a hero of Homer s epic poem the| with freq: 1.0
+ 
+294 |oʊˈdɪsiəs  oʊˈdɪsjuːs   Greek  Ὀδυσσεύς  odysˈsews    also known by the Roman name Ulysses   juːˈlɪsiːz   Latin  Ulyssēs  Ulixēs   was a legendary Greek king of Ithaca and a hero of| with freq: 1.0
+ 
+295 |oʊˈdɪsiəs  oʊˈdɪsjuːs   Greek  Ὀδυσσεύς  odysˈsews    also known by the Roman name Ulysses   juːˈlɪsiːz   Latin  Ulyssēs  Ulixēs   was a legendary Greek king of| with freq: 1.0
+ 
+296 |ou Choix de poesies illyriques  recueillies dans la Dalmatie  la Bosnie  La Croatie et l Hertzegowine  The Guzla  or a Selection of Illyric Poems Collected in Dalmatia  Bosnia  Croatia and Herzegovina  was an 1827 literary hoax of| with freq: 1.0
+ 
+297 |otherwise known as Bucolic poem 11  was written by| with freq: 1.0
+ 
+298 |otherwise Listen  People of this House is a poem dated to c  1500  see 1500 in poetry   composed by| with freq: 1.0
+ 
+299 |otherwise A Child Born in Prison is a poem by| with freq: 1.0
+ 
+300 |originally spelled  To His Mistris Going to Bed   is a poem written by the metaphysical poet| with freq: 1.0
+ 
+301 |originally published under the title Erotica Romana in Germany  later Römische Elegien  is a cycle of twenty four poems by| with freq: 1.0
+ 
+302 |originally published as  Plain Language from Truthful James   is a narrative poem by American writer| with freq: 1.0
+ 
+303 |originally The Rime of the Ancyent Marinere  is the longest major poem by the English poet Samuel Taylor Coleridge  written in 1797–98 and published in 1798 in the first edition of| with freq: 1.0
+ 
+304 |originally The Rime of the Ancyent Marinere  is the longest major poem by the English poet| with freq: 1.0
+ 
+305 |originally  Smaagutternes Nationalsang   is a poem written by| with freq: 1.0
+ 
+306 |originally  My Father in Heaven   also  Invocation  or The Eternal Father and Mother   is a Latter day Saint hymn written by| with freq: 1.0
+ 
+307 |original title was  Hymn  Sung at the Completion of the Concord Monument  April 19  1836   is a poem by| with freq: 1.0
+ 
+308 |original title  Mały szmugler   is a famous poem by the Polish poet| with freq: 1.0
+ 
+309 |original name Die Kraniche des Ibycus  is a ballad by| with freq: 1.0
+ 
+310 |original name Die Kraniche des| with freq: 1.0
+ 
+311 |original Polish title  Psałterz Dawidów  is a poetic translation into Polish of the Book of Psalms  by| with freq: 1.0
+ 
+312 |original German title  Willkommen und Abschied  is a poem by| with freq: 1.0
+ 
+313 |original  God spede ƿe plouȝ   sende us kǫꝛne Inolk  is the name of an early 16th century manuscript poem which borrows twelve stanzas from| with freq: 1.0
+ 
+314 |or Vita Nova  English  The New Life  is a text by| with freq: 1.0
+ 
+315 |or Viaje del Parnaso   Spanish  Journey to Parnassus  is a poetic work by| with freq: 1.0
+ 
+316 |or Turf and Towers  1873  is a poem in blank verse by| with freq: 1.0
+ 
+317 |or Trojan Catalogue is an epic catalogue the second book of the Iliad listing the allied contingents that fought for| with freq: 1.0
+ 
+318 |or Trojan Catalogue is an epic catalogue the second book of the| with freq: 1.0
+ 
+319 |or The Tretis Of The Twa Mariit Wemen and the Wedo is a narrative poem in Scots by the makar| with freq: 1.0
+ 
+320 |or The Peril of Sziget  Hungarian  Szigeti veszedelem  Latin  Obsidionis Szigetianae  Croatian  Opsada Sigeta  is a Hungarian epic poem in fifteen parts  written by| with freq: 1.0
+ 
+321 |or The Mask of Anarchy  is a political poem written in 1819  see 1819 in poetry  by| with freq: 1.0
+ 
+322 |or The British Soldier In China  is a ballad by Sir| with freq: 1.0
+ 
+323 |or Speech of the Birds  Persian  منطق الطیر‎  Manṭiq uṭ Ṭayr  also known as مقامات الطیور Maqāmāt uṭ Ṭuyūr  1177   is an long poem of approximately 4500 lines written in Persian by the poet Farid ud Din Attar  who is commonly known as| with freq: 1.0
+ 
+324 |or Sonnets on Eminent Contemporaries is an 11 part sonnet series created by| with freq: 1.0
+ 
+325 |or Shahnama  Persian  شاهنامه‎ Šāhnāmeh  pronounced  ʃɒːhnɒːˈme    The Book of Kings   is a long epic poem written by the Persian poet| with freq: 1.0
+ 
+326 |or Risala e Ruhi  The Book of Soul  is a book by Hazrat| with freq: 1.0
+ 
+327 |or Proca was one of the| with freq: 1.0
+ 
+328 |or Preiddeu Annwn  English  The Spoils of Annwfn  is a cryptic poem of sixty lines found in Middle Welsh in the Book of| with freq: 1.0
+ 
+329 |or Peiroos  Greek  Πείροος  was a Thracian war leader from the city of Aenus and an ally of King| with freq: 1.0
+ 
+330 |or Nausinoös was the son of| with freq: 1.0
+ 
+331 |or Madhyama Vyāyoga  Devanagari  मध्यमव्यायोग    English  The Middle One  is a Sanskrit play attributed to| with freq: 1.0
+ 
+332 |or Jñaneshwari   Marathi ज्ञानेश्वरी  is a commentary on the Bhagavad Gita written by the Marathi saint and poet| with freq: 1.0
+ 
+333 |or Hot House Blooms  French  Serres chaudes   1889  is a book of symbolist poetry by Belgian Nobel Laureate| with freq: 1.0
+ 
+334 |or Halesus may refer to 
+A companion of| with freq: 1.0
+ 
+335 |or Eëa   iːˈiːə  ee EE ə or  əˈiːə  ə EE ə  Ancient Greek  Αἰαία  Aiaía  aɪ áɪ a   was a mythological island said to be the home of the sorceress| with freq: 1.0
+ 
+336 |or Eurymede  daughter of King Nisus of Megara and mother of Bellerophon by| with freq: 1.0
+ 
+337 |or Ellesmere Manuscript is an early 15th century illuminated manuscript of| with freq: 1.0
+ 
+338 |or Egestes  Greek Ἄκέστης  was the son of the Sicilian river god| with freq: 1.0
+ 
+339 |or Ecchoing Green  is a poem by| with freq: 1.0
+ 
+340 |or Deiliad  Δειλιάς  δειλία  cowardice   a pun on the Iliad   is a lost parody of the Iliad mentioned in Aristotle’s Poetics where it is attributed to| with freq: 1.0
+ 
+341 |or Deiliad  Δειλιάς  δειλία  cowardice   a pun on the Iliad   is a lost parody of the Iliad mentioned in| with freq: 1.0
+ 
+342 |or Deiliad  Δειλιάς  δειλία  cowardice   a pun on the| with freq: 1.0
+ 
+343 |or Brut is a verse literary history of Britain by the poet| with freq: 1.0
+ 
+344 |or Anaktoria  is the name of a woman mentioned by poet| with freq: 1.0
+ 
+345 |or Alipashias  Greek  Αληπασιάδα or Αληπασιάς  is a Greek epic poem  written in early 19th century by the Muslim Albanian| with freq: 1.0
+ 
+346 |or Alexandreid  is a medieval Latin epic poem by| with freq: 1.0
+ 
+347 |or Advice to lovers is a poem by the Middle Irish era poet| with freq: 1.0
+ 
+348 |or A Letter Containing the Criminal Charges Laid Against Queen Anne Boleyn of England  is a 1 318 line poem written in French in 1536  by| with freq: 1.0
+ 
+349 |or  To the Hon Mr Erskine  was written by| with freq: 1.0
+ 
+350 |or  To William Godwin  was written by| with freq: 1.0
+ 
+351 |or  To The Queen by the players   is a short 18 line poem praising Queen Elizabeth I attributed to| with freq: 1.0
+ 
+352 |or  To Robert Southey  was written by| with freq: 1.0
+ 
+353 |or  To Richard Brinsley Sheridan  was written by| with freq: 1.0
+ 
+354 |or  The Lotos Flower   is a poem written by| with freq: 1.0
+ 
+355 |or  The Fate of the Nortons is a long narrative poem by| with freq: 1.0
+ 
+356 |or  Stop all the clocks  is a poem by| with freq: 1.0
+ 
+357 |or  Schwarz Rot Gold  was a revolutionary poem by| with freq: 1.0
+ 
+358 |or  Heideröslein    Rose on the Heath  or  Little Rose of the Field   is a poem by| with freq: 1.0
+ 
+359 |or  Growth of a Poet s Mind  An Autobiographical Poem is an autobiographical conversation poem in blank verse by the English poet| with freq: 1.0
+ 
+360 |or  A Poetical Description of the Great and Last Judgment  is a religious poem by clergyman| with freq: 1.0
+ 
+361 |or| with freq: 1.0
+ 
+362 |one of the defenders of| with freq: 1.0
+ 
+363 |one of the Achaean leaders in the Trojan War  son of either Alegenor  or of Alector and Acteis  or of Lacritus and Cleobule  and in the latter case brother of| with freq: 1.0
+ 
+364 |one of the 50 sons of Priam  and son of| with freq: 1.0
+ 
+365 |one of the 50 sons of| with freq: 1.0
+ 
+366 |on Turning Her Up in Her Nest with the Plough   Scots   Tae a Moose   is a Scots poem written by Robert Burns in 1785  and was included in the| with freq: 1.0
+ 
+367 |on Turning Her Up in Her Nest with the Plough   Scots   Tae a Moose   is a Scots poem written by| with freq: 1.0
+ 
+368 |on The Higher Criticism  is a poem by| with freq: 1.0
+ 
+369 |often referred to simply as The Howlat  is a humorous 15th century Scots poem by| with freq: 1.0
+ 
+370 |often referred to as just| with freq: 1.0
+ 
+371 |often alternately titled Shall I compare thee to a summer s day   is one of the best known of 154 sonnets written by the English playwright and poet| with freq: 1.0
+ 
+372 |of Mysia  father of| with freq: 1.0
+ 
+373 |of Haji Abdu El Yezdi is a long poem written by  Haji Abdu El Yezdi   who is widely considered an invention by the true author  Sir| with freq: 1.0
+ 
+374 |of Alba Longa  son of Procas  descendant of| with freq: 1.0
+ 
+375 |of Alba Longa  son of| with freq: 1.0
+ 
+376 |of| with freq: 1.0
+ 
+377 |nɔːˈsɪkiə  or  nɔːsɪˈkeɪə   Greek  Ναυσικάα or Ναυσικᾶ  pronounced  na͜ʊsikâ   also Nausicaä  Nausikaa  is a character in Homer s| with freq: 1.0
+ 
+378 |nɔːˈsɪkiə  or  nɔːsɪˈkeɪə   Greek  Ναυσικάα or Ναυσικᾶ  pronounced  na͜ʊsikâ   also Nausicaä  Nausikaa  is a character in| with freq: 1.0
+ 
+379 |meaning  the song of the hunger country   is a Finnish poem by| with freq: 1.0
+ 
+380 |meaning  permission   is an 1987 Indian Hindi film directed by| with freq: 1.0
+ 
+381 |may also refer to a character in| with freq: 1.0
+ 
+382 |m  Devanagari बुद्धचरितम्  is an epic poem in the Sanskrit mahakavya style on the life of Gautama Buddha by| with freq: 1.0
+ 
+383 |ləˈvɪniə   Latin  Lāuīnĭa  laːˈwiːnia   is the daughter of Latinus and Amata and the last wife of| with freq: 1.0
+ 
+384 |ləˈvɪniə   Latin  Lāuīnĭa  laːˈwiːnia   is the daughter of Latinus and| with freq: 1.0
+ 
+385 |ləˈvɪniə   Latin  Lāuīnĭa  laːˈwiːnia   is the daughter of| with freq: 1.0
+ 
+386 |later  Ginkgo biloba  is a poem written by the German poet| with freq: 1.0
+ 
+387 |last poems by| with freq: 1.0
+ 
+388 |kraɪˈsiːɪs   Ancient Greek  Χρυσηΐς  Khrysēís  pronounced  kʰrysɛːís   was a Trojan woman  the daughter of| with freq: 1.0
+ 
+389 |jʊˈrɪdɨsiː   Greek  Εὐρυδίκη  Eurydikē  was an oak nymph or one of the daughters of| with freq: 1.0
+ 
+390 |jʊˈraɪ ələs   Ancient Greek  Εὐρύαλος  refers to several different characters from Greek mythology and classical literature 
+In the Aeneid by Virgil| with freq: 1.0
+ 
+391 |jʊˈraɪ ələs   Ancient Greek  Εὐρύαλος  refers to several different characters from Greek mythology and classical literature 
+In the Aeneid by| with freq: 1.0
+ 
+392 |jʊˈraɪ ələs   Ancient Greek  Εὐρύαλος  refers to several different characters from Greek mythology and classical literature 
+In the| with freq: 1.0
+ 
+393 |is traditionally arranged first among the poems of the Roman poet| with freq: 1.0
+ 
+394 |is the work of an eminent Turkish national poet| with freq: 1.0
+ 
+395 |is the title of two poems by| with freq: 1.0
+ 
+396 |is the title of an epic poem written by the Norwegian poet| with freq: 1.0
+ 
+397 |is the title of a section of| with freq: 1.0
+ 
+398 |is the title and refrain of a 1793 poem and song by| with freq: 1.0
+ 
+399 |is the third story told in Geoffrey Chaucer s| with freq: 1.0
+ 
+400 |is the third story told in| with freq: 1.0
+ 
+401 |is the third poem of T  S  Eliot s| with freq: 1.0
+ 
+402 |is the third poem of| with freq: 1.0
+ 
+403 |is the successor of the great sufi saint Syed| with freq: 1.0
+ 
+404 |is the son of Silvius  in some versions grandson of Ascanius and great grandson or grandson of| with freq: 1.0
+ 
+405 |is the son of Silvius  in some versions grandson of| with freq: 1.0
+ 
+406 |is the shield that Achilles uses in his fight with Hector  famously described in a passage in Book 18  lines 478–608 of Homer s| with freq: 1.0
+ 
+407 |is the shield that Achilles uses in his fight with Hector  famously described in a passage in Book 18  lines 478–608 of| with freq: 1.0
+ 
+408 |is the shield that Achilles uses in his fight with| with freq: 1.0
+ 
+409 |is the shield that| with freq: 1.0
+ 
+410 |is the seventh book of poetry by| with freq: 1.0
+ 
+411 |is the servant of Eumaeus  Odysseus s pigman   who purchases him during his own master s long absence from| with freq: 1.0
+ 
+412 |is the servant of Eumaeus| with freq: 1.0
+ 
+413 |is the servant of| with freq: 1.0
+ 
+414 |is the popular name given to a poem by| with freq: 1.0
+ 
+415 |is the opening line of Canto VII of| with freq: 1.0
+ 
+416 |is the of title of a poem and a song written by| with freq: 1.0
+ 
+417 |is the name shared by three sonnets written by Samuel Taylor Coleridge  Leigh Hunt  and| with freq: 1.0
+ 
+418 |is the name shared by three sonnets written by| with freq: 1.0
+ 
+419 |is the name of two related poems by| with freq: 1.0
+ 
+420 |is the name of two collections of poetry by| with freq: 1.0
+ 
+421 |is the name of an unpublished poem written around 1815 by the 9 year old Elizabeth Barrett  later famous as| with freq: 1.0
+ 
+422 |is the name of a poem written by| with freq: 1.0
+ 
+423 |is the most famous poem by New Zealand poet| with freq: 1.0
+ 
+424 |is the most famous of the sixteen Satires by the Roman author| with freq: 1.0
+ 
+425 |is the last complete poem composed by American author| with freq: 1.0
+ 
+426 |is the informal name given to the 141st of| with freq: 1.0
+ 
+427 |is the headword in a musical fragment from the first stasimon of Orestes by| with freq: 1.0
+ 
+428 |is the full title of a poem by| with freq: 1.0
+ 
+429 |is the fourth book of poems by| with freq: 1.0
+ 
+430 |is the first tale of Group E  Fragment IV  in Geoffrey Chaucer s| with freq: 1.0
+ 
+431 |is the first tale of Group E  Fragment IV  in| with freq: 1.0
+ 
+432 |is the first published work by American writer| with freq: 1.0
+ 
+433 |is the first poetry book by Canadian poet and songwriter| with freq: 1.0
+ 
+434 |is the first poem of T  S  Eliot s| with freq: 1.0
+ 
+435 |is the first poem of| with freq: 1.0
+ 
+436 |is the first part of Chaucer s| with freq: 1.0
+ 
+437 |is the first of two poems to carry that name written by| with freq: 1.0
+ 
+438 |is the first new poetry book by| with freq: 1.0
+ 
+439 |is the first line of a sonnet by the English poet| with freq: 1.0
+ 
+440 |is the first line of a love sonnet by| with freq: 1.0
+ 
+441 |is the first in a series of 154 sonnets written by| with freq: 1.0
+ 
+442 |is the first collection of poetry and prose by| with freq: 1.0
+ 
+443 |is the first collection of poems by Pakistani poet| with freq: 1.0
+ 
+444 |is the final section of| with freq: 1.0
+ 
+445 |is the eighth book of poems by Canadian author| with freq: 1.0
+ 
+446 |is the collective name given to a series of songs and poems by| with freq: 1.0
+ 
+447 |is the collection of the poetry of Bahr ul uloom Hazrat Moulana Maulvi Muhammad Abdul Qadeer Siddiqi Qadri| with freq: 1.0
+ 
+448 |is the collection of the poetry of Bahr ul uloom Hazrat Moulana Maulvi| with freq: 1.0
+ 
+449 |is the best known work of the young poet| with freq: 1.0
+ 
+450 |is the English name of a poem by| with freq: 1.0
+ 
+451 |is the 151st of 154 poems in sonnet form by| with freq: 1.0
+ 
+452 |is the 14th century Assamese version of the Ramayana attributed to the poet| with freq: 1.0
+ 
+453 |is poem by| with freq: 1.0
+ 
+454 |is part of Geoffrey Chaucer s| with freq: 1.0
+ 
+455 |is part of Fables  Ancient and Modern written by| with freq: 1.0
+ 
+456 |is part of| with freq: 1.0
+ 
+457 |is one of the twelve named Malebranche in the 8th Circle of Hell s 5th Gulf  where corrupt politicians are immersed in burning pitch  the Malebolge  from the Inferno of Dante Alighieri s| with freq: 1.0
+ 
+458 |is one of the twelve named Malebranche in the 8th Circle of Hell s 5th Gulf  where corrupt politicians are immersed in burning pitch  the Malebolge  from the Inferno of| with freq: 1.0
+ 
+459 |is one of the twelve named Malebranche in the 8th Circle of Hell s 5th Gulf  where corrupt politicians are immersed in burning pitch  the| with freq: 1.0
+ 
+460 |is one of the six songs from Franz Schubert s Schwanengesang that sets words by| with freq: 1.0
+ 
+461 |is one of the most notable works by punk poet| with freq: 1.0
+ 
+462 |is one of the more prominent characters featured in| with freq: 1.0
+ 
+463 |is one of the major prophetic books of the English writer| with freq: 1.0
+ 
+464 |is one of the first major poems written by the English writer| with freq: 1.0
+ 
+465 |is one of the demons in the Inferno of Dante Alighieri s| with freq: 1.0
+ 
+466 |is one of the demons in the Inferno of| with freq: 1.0
+ 
+467 |is one of the best known poems by| with freq: 1.0
+ 
+468 |is one of the best known of the sonnets of| with freq: 1.0
+ 
+469 |is one of the best known of 154 sonnets written by the English playwright and poet| with freq: 1.0
+ 
+470 |is one of the best and most critically acclaimed sonnets of the 154 sonnets written by the English playwright and poet| with freq: 1.0
+ 
+471 |is one of the Siblings of Pra Ram in the Thai Ramakian Epic tale  which is in turn an adaptation of India s great Vedic Epic by the Hermit| with freq: 1.0
+ 
+472 |is one of the Canterbury Tales written by| with freq: 1.0
+ 
+473 |is one of the 154 sonnets composed by| with freq: 1.0
+ 
+474 |is one of several  characters   either fictional or real persons  featured in William| with freq: 1.0
+ 
+475 |is one of several  characters   either fictional or real persons  featured in| with freq: 1.0
+ 
+476 |is one of The Canterbury Tales by the Middle English poet| with freq: 1.0
+ 
+477 |is one of French writer| with freq: 1.0
+ 
+478 |is one of 154 sonnets by the English playwright and poet| with freq: 1.0
+ 
+479 |is one of 154 Shakespeare s sonnets written by the English playwright and poet| with freq: 1.0
+ 
+480 |is one of 154| with freq: 1.0
+ 
+481 |is known also as the Rossetti Manuscript from its association with its former owner Dante Gabriel Rossetti  was used by| with freq: 1.0
+ 
+482 |is known also as the Rossetti Manuscript from its association with its former owner| with freq: 1.0
+ 
+483 |is author and poet| with freq: 1.0
+ 
+484 |is author| with freq: 1.0
+ 
+485 |is an original musical written and produced in 1953 by Seventh Army Special Services in Germany  the first of the numerous stage musicals  film musicals and songs inspired in part by the| with freq: 1.0
+ 
+486 |is an organic collection of twelve eclogues  composed by| with freq: 1.0
+ 
+487 |is an opera in four acts by Franco Faccio set to a libretto by Arrigo Boito  based on Shakespeare s play| with freq: 1.0
+ 
+488 |is an opera composed by Gian Francesco Malipiero who also wrote the Italian libretto  partly based on the myth of| with freq: 1.0
+ 
+489 |is an opera by Benjamin Britten  with a libretto adapted by| with freq: 1.0
+ 
+490 |is an ode taken from| with freq: 1.0
+ 
+491 |is an ode by| with freq: 1.0
+ 
+492 |is an ode  written by| with freq: 1.0
+ 
+493 |is an internationally acclaimed poem by the award winning Indian English poet| with freq: 1.0
+ 
+494 |is an influential poem by| with freq: 1.0
+ 
+495 |is an incomplete epic poem written in Italian by| with freq: 1.0
+ 
+496 |is an incomplete English epic poem by| with freq: 1.0
+ 
+497 |is an illustrated collection of poems by| with freq: 1.0
+ 
+498 |is an iconic patriotic poem about Australia  written by| with freq: 1.0
+ 
+499 |is an expressionist  satirical poem by| with freq: 1.0
+ 
+500 |is an epyllion or  little epic  poem written by| with freq: 1.0
+ 
+501 |is an episode in the myth of| with freq: 1.0
+ 
+502 |is an episode from| with freq: 1.0
+ 
+503 |is an epic poem written by Ugandan poet| with freq: 1.0
+ 
+504 |is an epic poem written by Indian Virashaiva poet| with freq: 1.0
+ 
+505 |is an epic poem trilogy written by the Hungarian poet| with freq: 1.0
+ 
+506 |is an epic poem of 1723 written by the French Enlightenment writer and philosopher| with freq: 1.0
+ 
+507 |is an epic poem in blank verse by the 17th century English poet| with freq: 1.0
+ 
+508 |is an epic poem in blank verse by| with freq: 1.0
+ 
+509 |is an epic poem by Greek poet and philosopher Nikos Kazantzakis  based on Homer s| with freq: 1.0
+ 
+510 |is an epic poem by Greek poet and philosopher Nikos Kazantzakis  based on| with freq: 1.0
+ 
+511 |is an epic poem by Greek poet and philosopher| with freq: 1.0
+ 
+512 |is an epic poem by Caribbean writer| with freq: 1.0
+ 
+513 |is an epic poem based on the Zulu oral tradition  compiled in Zulu then translated by South African Poet| with freq: 1.0
+ 
+514 |is an epic poem  an idyll  written by German writer Johann Wolfgang von Goethe between 1796 and 1797  and was to some extent suggested by| with freq: 1.0
+ 
+515 |is an epic poem  an idyll  written by German writer| with freq: 1.0
+ 
+516 |is an elegy poem by| with freq: 1.0
+ 
+517 |is an elegiac poem written by the Roman poet Gaius Valerius| with freq: 1.0
+ 
+518 |is an elegiac poem ballad written by| with freq: 1.0
+ 
+519 |is an early poem by American writer| with freq: 1.0
+ 
+520 |is an early fourteenth century Middle English Arthurian verse romance based quite closely upon the late twelfth century Old French romance The Knight of the Lion by| with freq: 1.0
+ 
+521 |is an award winning poem written by the 19th century poet| with freq: 1.0
+ 
+522 |is an award winning poem by the Indian English poet| with freq: 1.0
+ 
+523 |is an award winning poem by| with freq: 1.0
+ 
+524 |is an autobiographical poem written by revolutionary feminist activist| with freq: 1.0
+ 
+525 |is an anti war poem written by English Romantic poet laureate| with freq: 1.0
+ 
+526 |is an anti war poem by| with freq: 1.0
+ 
+527 |is an anthology edited by Cyril Alington and George Lyttelton  with an introduction by| with freq: 1.0
+ 
+528 |is an anonymous skaldic poem which is found in a section called Viðbótarþulur in Skáldskaparmál in| with freq: 1.0
+ 
+529 |is an anonymous Old French poem of the early 13th century  which was written to serve as a prologue to| with freq: 1.0
+ 
+530 |is an anonymous Middle English narrative poem  retelling the story of| with freq: 1.0
+ 
+531 |is an allegorical poem about the death of ideal love by| with freq: 1.0
+ 
+532 |is an adaptation by Nahum Tate of William Shakespeare s| with freq: 1.0
+ 
+533 |is an adaptation by Nahum Tate of| with freq: 1.0
+ 
+534 |is an adaptation by| with freq: 1.0
+ 
+535 |is an Scots poem written by| with freq: 1.0
+ 
+536 |is an Old French narrative romance by| with freq: 1.0
+ 
+537 |is an Italian patriotic song written by| with freq: 1.0
+ 
+538 |is an Irish poem by| with freq: 1.0
+ 
+539 |is an Irish ballad written by| with freq: 1.0
+ 
+540 |is an American musical with a libretto by Arthur Laurents  music by Leonard Bernstein  lyrics by| with freq: 1.0
+ 
+541 |is an 1899 poem by| with freq: 1.0
+ 
+542 |is an 1896 poem by| with freq: 1.0
+ 
+543 |is an 1896 book of poetry by| with freq: 1.0
+ 
+544 |is an 1890 poem by| with freq: 1.0
+ 
+545 |is an 1889 poem by| with freq: 1.0
+ 
+546 |is an 1885 poem written by| with freq: 1.0
+ 
+547 |is an 1864 poem written by the British poet| with freq: 1.0
+ 
+548 |is an 1858 narrative poem by American poet| with freq: 1.0
+ 
+549 |is an 1855 epic poem  in trochaic tetrameter  by| with freq: 1.0
+ 
+550 |is an 1847 syair  poem  credited variously to| with freq: 1.0
+ 
+551 |is an 1847 poem by| with freq: 1.0
+ 
+552 |is an 1840 hymn written by Latter Day Saint apostle| with freq: 1.0
+ 
+553 |is an 1829 poem by| with freq: 1.0
+ 
+554 |is an 1828 narrative poem  in Polish  by| with freq: 1.0
+ 
+555 |is an 1824 poem written by| with freq: 1.0
+ 
+556 |is an 1814 epic poem composed by| with freq: 1.0
+ 
+557 |is an 1810 epic poem composed by| with freq: 1.0
+ 
+558 |is an 1801 epic poem composed by| with freq: 1.0
+ 
+559 |is among the most famous of| with freq: 1.0
+ 
+560 |is a work of poetic satire written by English playwright| with freq: 1.0
+ 
+561 |is a work by Spanish Romantic poet| with freq: 1.0
+ 
+562 |is a well known poem written by| with freq: 1.0
+ 
+563 |is a war poem in the form of a rondeau  written during the First World War by Canadian physician Lieutenant Colonel| with freq: 1.0
+ 
+564 |is a war poem by the English war poet| with freq: 1.0
+ 
+565 |is a volume published in 1923 by| with freq: 1.0
+ 
+566 |is a volume of poetry by| with freq: 1.0
+ 
+567 |is a visualization of the epic Ramayana saga originally written by| with freq: 1.0
+ 
+568 |is a vision of poetic melancholy by| with freq: 1.0
+ 
+569 |is a very popular award winning Indian poem by the Indian English poet  writer and film maker| with freq: 1.0
+ 
+570 |is a verse novel by Australian novelist and poet| with freq: 1.0
+ 
+571 |is a verse drama by| with freq: 1.0
+ 
+572 |is a verse chronicle by| with freq: 1.0
+ 
+573 |is a travel book in prose and verse by W  H  Auden and| with freq: 1.0
+ 
+574 |is a translation into Middle Scots of the Latin Virgil s Aeneid  completed by the poet and clergyman| with freq: 1.0
+ 
+575 |is a translation into Middle Scots of the Latin Virgil s| with freq: 1.0
+ 
+576 |is a translation into Middle Scots of the Latin| with freq: 1.0
+ 
+577 |is a translation by Irish poet William Butler Yeats of| with freq: 1.0
+ 
+578 |is a three act play written by| with freq: 1.0
+ 
+579 |is a term for the name of a poem by| with freq: 1.0
+ 
+580 |is a tall satirical poem by| with freq: 1.0
+ 
+581 |is a tale in verse by| with freq: 1.0
+ 
+582 |is a tale in Geoffrey Chaucer s| with freq: 1.0
+ 
+583 |is a tale in| with freq: 1.0
+ 
+584 |is a tale from the Trojan War about the subterfuge that the Greeks used to enter the city of| with freq: 1.0
+ 
+585 |is a story written by| with freq: 1.0
+ 
+586 |is a story in The Canterbury Tales by| with freq: 1.0
+ 
+587 |is a story in| with freq: 1.0
+ 
+588 |is a story and subject in art from Greek mythology in which the god| with freq: 1.0
+ 
+589 |is a sports themed poem written by former NFL Films President and co founder| with freq: 1.0
+ 
+590 |is a spoken word poem written by| with freq: 1.0
+ 
+591 |is a sonnet written in 1832 and later corrected by the Slovene Romantic poet| with freq: 1.0
+ 
+592 |is a sonnet written by the English Romantic poet| with freq: 1.0
+ 
+593 |is a sonnet written by William Shakespeare and was first published in a 1609 quarto edition titled| with freq: 1.0
+ 
+594 |is a sonnet sequence by English Renaissance poet| with freq: 1.0
+ 
+595 |is a sonnet poem written by| with freq: 1.0
+ 
+596 |is a sonnet cycle written by| with freq: 1.0
+ 
+597 |is a sonnet by the English poet| with freq: 1.0
+ 
+598 |is a sonnet by American poet| with freq: 1.0
+ 
+599 |is a song written in Marathi by the noted poet| with freq: 1.0
+ 
+600 |is a song written by the Scottish poet| with freq: 1.0
+ 
+601 |is a song poem by| with freq: 1.0
+ 
+602 |is a song lyric written for a pre existing melody in 1787 by| with freq: 1.0
+ 
+603 |is a song in book one of| with freq: 1.0
+ 
+604 |is a song from Shakespeare s play| with freq: 1.0
+ 
+605 |is a song first published in 1792 in Volume Four of the| with freq: 1.0
+ 
+606 |is a song by Amy Woodforde Finden based on a poem by Laurence Hope  pseudonym of| with freq: 1.0
+ 
+607 |is a song based on a poem by| with freq: 1.0
+ 
+608 |is a song  with lyrics from a poem written by| with freq: 1.0
+ 
+609 |is a soliloquy written by Robert Browning  first published in his collection| with freq: 1.0
+ 
+610 |is a soliloquy written by| with freq: 1.0
+ 
+611 |is a simple lyric poem written by| with freq: 1.0
+ 
+612 |is a short poem by the 15th century Scottish makar| with freq: 1.0
+ 
+613 |is a short play written by the English playwright| with freq: 1.0
+ 
+614 |is a short nonsense poem by German writer| with freq: 1.0
+ 
+615 |is a short lyric poem by the English poet| with freq: 1.0
+ 
+616 |is a short epic poem written by Brazilian author| with freq: 1.0
+ 
+617 |is a short comic poem in Scots by| with freq: 1.0
+ 
+618 |is a short collection of English poems by| with freq: 1.0
+ 
+619 |is a short Victorian poem by the English poet| with freq: 1.0
+ 
+620 |is a short Old English poem originally composed by| with freq: 1.0
+ 
+621 |is a short Latin hexameter version of the Iliad of| with freq: 1.0
+ 
+622 |is a short Latin hexameter version of the| with freq: 1.0
+ 
+623 |is a short 1981 parody of the play| with freq: 1.0
+ 
+624 |is a seven stanza poem ballad by the English Romantic poet| with freq: 1.0
+ 
+625 |is a set of four poems written by| with freq: 1.0
+ 
+626 |is a series of poems written by| with freq: 1.0
+ 
+627 |is a series of poems for all the Sundays and some other feasts of the liturgical year of the Church of England written by| with freq: 1.0
+ 
+628 |is a series of poems by| with freq: 1.0
+ 
+629 |is a sequence written by| with freq: 1.0
+ 
+630 |is a self published poetry collection written by Canadian author| with freq: 1.0
+ 
+631 |is a satirical poem written by| with freq: 1.0
+ 
+632 |is a satirical poem by the English Restoration poet| with freq: 1.0
+ 
+633 |is a satirical poem by William Makepeace Thackeray written in response to the enormous success of Johann Wolfgang von Goethe s novel| with freq: 1.0
+ 
+634 |is a satirical poem by William Makepeace Thackeray written in response to the enormous success of| with freq: 1.0
+ 
+635 |is a satirical Scots epitaph written by poet Robert Burns in 1785  and was included in his first publication  the| with freq: 1.0
+ 
+636 |is a satirical Scots epitaph written by poet| with freq: 1.0
+ 
+637 |is a romantic poem written by| with freq: 1.0
+ 
+638 |is a rock styled musical comedy loosely based on Twelfth Night by| with freq: 1.0
+ 
+639 |is a rock styled musical comedy loosely based on| with freq: 1.0
+ 
+640 |is a rhymed  tragic narrative poem by| with freq: 1.0
+ 
+641 |is a reworking of William Shakespeare s The Taming of the Shrew by British playwright and actor| with freq: 1.0
+ 
+642 |is a reworking of William Shakespeare s| with freq: 1.0
+ 
+643 |is a reworking of| with freq: 1.0
+ 
+644 |is a rare book by| with freq: 1.0
+ 
+645 |is a prose work by the Welsh poet| with freq: 1.0
+ 
+646 |is a prose poem written by| with freq: 1.0
+ 
+647 |is a posthumously published work by Irish writer| with freq: 1.0
+ 
+648 |is a posthumous collection of poems by| with freq: 1.0
+ 
+649 |is a popular poem for children written by American writer and poet| with freq: 1.0
+ 
+650 |is a popular award winning poem by the Indian English poet and writer| with freq: 1.0
+ 
+651 |is a popular Telugu composition of| with freq: 1.0
+ 
+652 |is a popular Indian bhajan  a Hindu devotional song written by 15th century mystic poet| with freq: 1.0
+ 
+653 |is a popular English poem by the award winning Indian poet| with freq: 1.0
+ 
+654 |is a political sonnet by the English Romantic poet| with freq: 1.0
+ 
+655 |is a poetry collection written by Canadian author| with freq: 1.0
+ 
+656 |is a poetry collection by the American poet| with freq: 1.0
+ 
+657 |is a poetry collection by Nobel Prize winning author| with freq: 1.0
+ 
+658 |is a poetical work written by the English poet| with freq: 1.0
+ 
+659 |is a poetic work written by English author and occultist| with freq: 1.0
+ 
+660 |is a poetic sequence by American poet| with freq: 1.0
+ 
+661 |is a poetic album of 30 short poems by| with freq: 1.0
+ 
+662 |is a poem written on May 11  1957 by| with freq: 1.0
+ 
+663 |is a poem written in blank verse  published in 1914  by| with freq: 1.0
+ 
+664 |is a poem written in May 1803 by| with freq: 1.0
+ 
+665 |is a poem written in 1998 by| with freq: 1.0
+ 
+666 |is a poem written in 1959 by poet| with freq: 1.0
+ 
+667 |is a poem written in 1932 by| with freq: 1.0
+ 
+668 |is a poem written in 1922 by| with freq: 1.0
+ 
+669 |is a poem written in 1902 by| with freq: 1.0
+ 
+670 |is a poem written in 1896 by| with freq: 1.0
+ 
+671 |is a poem written in 1890 by| with freq: 1.0
+ 
+672 |is a poem written in 1887 by Australian bush poet| with freq: 1.0
+ 
+673 |is a poem written in 1880 by the Scottish poet| with freq: 1.0
+ 
+674 |is a poem written in 1820 by the English poet| with freq: 1.0
+ 
+675 |is a poem written in 1806 by| with freq: 1.0
+ 
+676 |is a poem written in 1782 by| with freq: 1.0
+ 
+677 |is a poem written in 1752 by| with freq: 1.0
+ 
+678 |is a poem written in 1449 by John Metham  it was an early English adaptation of the Pyramus and Thisbe narrative from Book 4 of Ovid‘s| with freq: 1.0
+ 
+679 |is a poem written in 1449 by John Metham  it was an early English adaptation of the Pyramus and Thisbe narrative from Book 4 of| with freq: 1.0
+ 
+680 |is a poem written in 1449 by John Metham  it was an early English adaptation of the| with freq: 1.0
+ 
+681 |is a poem written by the acclaimed author| with freq: 1.0
+ 
+682 |is a poem written by the Roman poet| with freq: 1.0
+ 
+683 |is a poem written by the Italian poet| with freq: 1.0
+ 
+684 |is a poem written by the English Romantic poet| with freq: 1.0
+ 
+685 |is a poem written by the Australian bush poet John O Brien  the pen name of Roman Catholic priest| with freq: 1.0
+ 
+686 |is a poem written by celebrated Irish poet| with freq: 1.0
+ 
+687 |is a poem written by William Wordsworth in 1799 and published in his| with freq: 1.0
+ 
+688 |is a poem written by William Wordsworth in 1798 and published in the 1800 edition of| with freq: 1.0
+ 
+689 |is a poem written by William Wordsworth in 1798 and published in his| with freq: 1.0
+ 
+690 |is a poem written by William Wordsworth and is included in the| with freq: 1.0
+ 
+691 |is a poem written by English poet| with freq: 1.0
+ 
+692 |is a poem written by E| with freq: 1.0
+ 
+693 |is a poem written by Danville  Kentucky native| with freq: 1.0
+ 
+694 |is a poem written by Canadian poet| with freq: 1.0
+ 
+695 |is a poem written by American singer songwriter| with freq: 1.0
+ 
+696 |is a poem written by American Beat poet| with freq: 1.0
+ 
+697 |is a poem that Nikola Tesla composed in the late 1920s for his friend| with freq: 1.0
+ 
+698 |is a poem published in 1881 by| with freq: 1.0
+ 
+699 |is a poem of 122 lines by the English poet| with freq: 1.0
+ 
+700 |is a poem is composed by Sir| with freq: 1.0
+ 
+701 |is a poem in the form of a dream vision by| with freq: 1.0
+ 
+702 |is a poem in the form of a danse macabre by the Scottish poet| with freq: 1.0
+ 
+703 |is a poem in heroic couplets by| with freq: 1.0
+ 
+704 |is a poem from the second edition  1931  of| with freq: 1.0
+ 
+705 |is a poem from the collection A Door in the Hive written by| with freq: 1.0
+ 
+706 |is a poem from one of| with freq: 1.0
+ 
+707 |is a poem from T  S  Eliot s| with freq: 1.0
+ 
+708 |is a poem from 1856 written by| with freq: 1.0
+ 
+709 |is a poem first published as  The Picket Guard  by| with freq: 1.0
+ 
+710 |is a poem first published after March 1616 by| with freq: 1.0
+ 
+711 |is a poem composed in 1798 by the English poet William Wordsworth  and first published in the Lyrical Ballads anthology which was co written with his friend and fellow poet| with freq: 1.0
+ 
+712 |is a poem composed in 1798 by the English poet William Wordsworth  and first published in the| with freq: 1.0
+ 
+713 |is a poem composed in 1798 by the English poet| with freq: 1.0
+ 
+714 |is a poem composed by| with freq: 1.0
+ 
+715 |is a poem completed by| with freq: 1.0
+ 
+716 |is a poem by the romantic poet| with freq: 1.0
+ 
+717 |is a poem by the medieval French poet| with freq: 1.0
+ 
+718 |is a poem by the comedian| with freq: 1.0
+ 
+719 |is a poem by the ancient Roman writer| with freq: 1.0
+ 
+720 |is a poem by the Scottish northern renaissance poet Robert Henryson that adapts and develops the Greek myth which most famously appears in two classic Latin texts  the Metamorphoses of Ovid and the Georgics of| with freq: 1.0
+ 
+721 |is a poem by the Scottish northern renaissance poet Robert Henryson that adapts and develops the Greek myth which most famously appears in two classic Latin texts  the Metamorphoses of Ovid and the| with freq: 1.0
+ 
+722 |is a poem by the Scottish northern renaissance poet Robert Henryson that adapts and develops the Greek myth which most famously appears in two classic Latin texts  the Metamorphoses of| with freq: 1.0
+ 
+723 |is a poem by the Scottish northern renaissance poet Robert Henryson that adapts and develops the Greek myth which most famously appears in two classic Latin texts  the| with freq: 1.0
+ 
+724 |is a poem by the Scottish northern renaissance poet| with freq: 1.0
+ 
+725 |is a poem by the Roman poet Gaius Valerius| with freq: 1.0
+ 
+726 |is a poem by the Kenyan poet| with freq: 1.0
+ 
+727 |is a poem by the Italian writer Giovanni Boccaccio  and the inspiration for Geoffrey Chaucer s Troilus and Criseyde and  through Chaucer  the Shakespeare play Troilus and| with freq: 1.0
+ 
+728 |is a poem by the Italian writer Giovanni Boccaccio  and the inspiration for Geoffrey Chaucer s Troilus and Criseyde and  through Chaucer  the Shakespeare play| with freq: 1.0
+ 
+729 |is a poem by the Italian writer Giovanni Boccaccio  and the inspiration for| with freq: 1.0
+ 
+730 |is a poem by the Italian writer| with freq: 1.0
+ 
+731 |is a poem by the English poet William Blake from his book Songs of Innocence  1789   not to be confused with| with freq: 1.0
+ 
+732 |is a poem by the English performance poet| with freq: 1.0
+ 
+733 |is a poem by the English author and poet| with freq: 1.0
+ 
+734 |is a poem by the English Romantic poet| with freq: 1.0
+ 
+735 |is a poem by the British poet| with freq: 1.0
+ 
+736 |is a poem by the Australian bush poet| with freq: 1.0
+ 
+737 |is a poem by the American poet| with freq: 1.0
+ 
+738 |is a poem by the American author| with freq: 1.0
+ 
+739 |is a poem by the American Quaker poet| with freq: 1.0
+ 
+740 |is a poem by prolific Australian writer and poet| with freq: 1.0
+ 
+741 |is a poem by poet| with freq: 1.0
+ 
+742 |is a poem by iconic Australian writer and poet| with freq: 1.0
+ 
+743 |is a poem by famous British poet| with freq: 1.0
+ 
+744 |is a poem by a famous Indonesian poet| with freq: 1.0
+ 
+745 |is a poem by William Wordsworth  originally published in| with freq: 1.0
+ 
+746 |is a poem by William Carlos Williams  composed in response to the Elizabethan exchange between Christopher Marlowe  in  The Passionate Shepherd to His Love   and| with freq: 1.0
+ 
+747 |is a poem by William Carlos Williams  composed in response to the Elizabethan exchange between Christopher Marlowe  in| with freq: 1.0
+ 
+748 |is a poem by William Carlos Williams  composed in response to the Elizabethan exchange between| with freq: 1.0
+ 
+749 |is a poem by William Blake that was published in his collection| with freq: 1.0
+ 
+750 |is a poem by William Blake from Songs of Experience  not to be confused with| with freq: 1.0
+ 
+751 |is a poem by Welsh poet| with freq: 1.0
+ 
+752 |is a poem by T  S  Eliot included in| with freq: 1.0
+ 
+753 |is a poem by South African writer| with freq: 1.0
+ 
+754 |is a poem by Sir| with freq: 1.0
+ 
+755 |is a poem by Scottish poet| with freq: 1.0
+ 
+756 |is a poem by Roman poet Gaius Valerius| with freq: 1.0
+ 
+757 |is a poem by Roman love poet Gaius Valerius| with freq: 1.0
+ 
+758 |is a poem by Robert Browning published in| with freq: 1.0
+ 
+759 |is a poem by Robert Browning about| with freq: 1.0
+ 
+760 |is a poem by Poet Laureate| with freq: 1.0
+ 
+761 |is a poem by Nicaraguan poet| with freq: 1.0
+ 
+762 |is a poem by Nebraska writer| with freq: 1.0
+ 
+763 |is a poem by Lord Byron first published in 1815 in his| with freq: 1.0
+ 
+764 |is a poem by James Henry| with freq: 1.0
+ 
+765 |is a poem by Geoffrey Chaucer which re tells in Middle English the tragic story of the lovers| with freq: 1.0
+ 
+766 |is a poem by English metaphysical poet| with freq: 1.0
+ 
+767 |is a poem by English author| with freq: 1.0
+ 
+768 |is a poem by English Romantic poet| with freq: 1.0
+ 
+769 |is a poem by Catullus based on a poem of| with freq: 1.0
+ 
+770 |is a poem by Canadian poet| with freq: 1.0
+ 
+771 |is a poem by British Nobel laureate| with freq: 1.0
+ 
+772 |is a poem by Australian poet| with freq: 1.0
+ 
+773 |is a poem by Anglo Irish poet| with freq: 1.0
+ 
+774 |is a poem by Ancient Greek poet| with freq: 1.0
+ 
+775 |is a poem by American writer| with freq: 1.0
+ 
+776 |is a poem by American modernist poet and physician| with freq: 1.0
+ 
+777 |is a poem by African American writer and poet| with freq: 1.0
+ 
+778 |is a poem by 8th century Chinese poet| with freq: 1.0
+ 
+779 |is a poem and song by| with freq: 1.0
+ 
+780 |is a poem and dramatic monologue by| with freq: 1.0
+ 
+781 |is a poem  written by  George Gordon  Lord Byron  1788–1824   and included in a letter to| with freq: 1.0
+ 
+782 |is a poem  written by  George Gordon| with freq: 1.0
+ 
+783 |is a poem  somewhat doubtfully attributed to| with freq: 1.0
+ 
+784 |is a poem  or more precisely a villanelle  written by Welsh poet| with freq: 1.0
+ 
+785 |is a poem  by British poet| with freq: 1.0
+ 
+786 |is a play written by the American poet| with freq: 1.0
+ 
+787 |is a play by Leo Butler that was commissioned by the Royal Shakespeare Company and written in response to The Tempest by| with freq: 1.0
+ 
+788 |is a play by Leo Butler that was commissioned by the Royal Shakespeare Company and written in response to| with freq: 1.0
+ 
+789 |is a play by Leo Butler that was commissioned by the| with freq: 1.0
+ 
+790 |is a piece of war poetry written by| with freq: 1.0
+ 
+791 |is a patriotic poem written in Urdu by| with freq: 1.0
+ 
+792 |is a patriotic anthem written by| with freq: 1.0
+ 
+793 |is a pastoral poem by English poet| with freq: 1.0
+ 
+794 |is a pastoral poem by| with freq: 1.0
+ 
+795 |is a passionate ode to Lesbia and one of the most famous poems by| with freq: 1.0
+ 
+796 |is a papyrus containing a major fragment of poetry usually attributed to the archaic lyric poet| with freq: 1.0
+ 
+797 |is a one person play by Rick Miller which blends William Shakespeare s tragedy| with freq: 1.0
+ 
+798 |is a one person play by Rick Miller which blends| with freq: 1.0
+ 
+799 |is a one of several  confessional  poems by| with freq: 1.0
+ 
+800 |is a one man show of Shakespearean monologues interspersed with theatrical anecdotes devised and performed by| with freq: 1.0
+ 
+801 |is a one act opera by Hans Werner Henze with a German libretto by Hans Ulrich Treichel  after the poem by| with freq: 1.0
+ 
+802 |is a novella by| with freq: 1.0
+ 
+803 |is a novel by| with freq: 1.0
+ 
+804 |is a nonsense verse poem left unfinished by| with freq: 1.0
+ 
+805 |is a nonsense poem written by| with freq: 1.0
+ 
+806 |is a nonsense poem by| with freq: 1.0
+ 
+807 |is a nativity ode written by| with freq: 1.0
+ 
+808 |is a narrative poem with powerful tragic themes  first published in 1855 by| with freq: 1.0
+ 
+809 |is a narrative poem published in 1864 by| with freq: 1.0
+ 
+810 |is a narrative poem published as an appendix to the original edition of| with freq: 1.0
+ 
+811 |is a narrative poem of 616 lines in Middle Scots  written by the 15th century Scottish makar| with freq: 1.0
+ 
+812 |is a narrative poem of 160 lines by| with freq: 1.0
+ 
+813 |is a narrative poem by American writer| with freq: 1.0
+ 
+814 |is a narrative poem by American poet| with freq: 1.0
+ 
+815 |is a musical with music by Richard Rodgers and lyrics by Lorenz Hart  based on William Shakespeare s play| with freq: 1.0
+ 
+816 |is a musical with music by Richard Rodgers and lyrics by Lorenz Hart  based on| with freq: 1.0
+ 
+817 |is a musical with music by Richard Rodgers and lyrics by| with freq: 1.0
+ 
+818 |is a musical with music by| with freq: 1.0
+ 
+819 |is a modern exposition of the meaning and significance of the Bhagavadgita  1967  by| with freq: 1.0
+ 
+820 |is a mock heroic poem by| with freq: 1.0
+ 
+821 |is a mock heroic narrative poem written by| with freq: 1.0
+ 
+822 |is a military memoir of the Western Desert campaign of World War II written by the British soldier poet| with freq: 1.0
+ 
+823 |is a metaphysical poem written by the English author and politician| with freq: 1.0
+ 
+824 |is a metaphysical poem by| with freq: 1.0
+ 
+825 |is a medieval German romance written by the poet| with freq: 1.0
+ 
+826 |is a manuscript from late antiquity  containing the works of the Roman author| with freq: 1.0
+ 
+827 |is a major poetical work published in 1821 by| with freq: 1.0
+ 
+828 |is a major poetic work of the English romantic poet| with freq: 1.0
+ 
+829 |is a major poem by| with freq: 1.0
+ 
+830 |is a maidservant of| with freq: 1.0
+ 
+831 |is a lyric poem written in 1847 by| with freq: 1.0
+ 
+832 |is a lyric poem written by| with freq: 1.0
+ 
+833 |is a lyric poem in three verses of four iambic tetrameter on an alternating rhyme scheme  by the English poet| with freq: 1.0
+ 
+834 |is a lyric poem by the English romantic poet| with freq: 1.0
+ 
+835 |is a love poem completed in April 1801 by the English poet William Wordsworth and originally intended for the Lyrical Ballads anthology  but it was first published in| with freq: 1.0
+ 
+836 |is a love poem completed in April 1801 by the English poet William Wordsworth and originally intended for the| with freq: 1.0
+ 
+837 |is a love poem completed in April 1801 by the English poet| with freq: 1.0
+ 
+838 |is a long raucous poem written by English poet| with freq: 1.0
+ 
+839 |is a long poem written by George Chapman  it was first published in 1594  in an edition printed by Richard Field for William Ponsonby  the prestigious publisher of Edmund Spenser and Sir| with freq: 1.0
+ 
+840 |is a long poem written by George Chapman  it was first published in 1594  in an edition printed by Richard Field for William Ponsonby  the prestigious publisher of| with freq: 1.0
+ 
+841 |is a long poem written by| with freq: 1.0
+ 
+842 |is a long poem in the form of an elegy written by American poet| with freq: 1.0
+ 
+843 |is a long poem by the American writer| with freq: 1.0
+ 
+844 |is a long poem by the American poet critic| with freq: 1.0
+ 
+845 |is a long poem  42 stanzas  by| with freq: 1.0
+ 
+846 |is a long narrative poem by American novelist and poet| with freq: 1.0
+ 
+847 |is a long narrative poem  or  verse novel   by| with freq: 1.0
+ 
+848 |is a long epic poem written by the British poet| with freq: 1.0
+ 
+849 |is a long dramatic narrative poem  and  more specifically  a verse novel  of 21 000 lines  written by| with freq: 1.0
+ 
+850 |is a long didactic poem by| with freq: 1.0
+ 
+851 |is a line from the Roman lyrical poet| with freq: 1.0
+ 
+852 |is a lengthy narrative poem in four parts written by| with freq: 1.0
+ 
+853 |is a late twelfth century  c 1180  Old French chanson de geste by| with freq: 1.0
+ 
+854 |is a landmark poetic political satire by| with freq: 1.0
+ 
+855 |is a lament attributed to| with freq: 1.0
+ 
+856 |is a hymn with words taken from a longer poem  The Brewing of Soma by American Quaker poet| with freq: 1.0
+ 
+857 |is a historical poem written by the American poet| with freq: 1.0
+ 
+858 |is a hip hop theatre retelling of Shakespeare s| with freq: 1.0
+ 
+859 |is a frequently cited poem by| with freq: 1.0
+ 
+860 |is a free verse poem by| with freq: 1.0
+ 
+861 |is a fragmentary Middle High German romance written by| with freq: 1.0
+ 
+862 |is a five line poem by| with freq: 1.0
+ 
+863 |is a film poem created in 1992 by English poet and playwright| with freq: 1.0
+ 
+864 |is a film poem created in 1989 by English poet and playwright| with freq: 1.0
+ 
+865 |is a fifteenth century dream vision poem by an unknown author  it was originally attributed to| with freq: 1.0
+ 
+866 |is a fictional character who is described in a poem in Old Possum s Book of Practical Cats  by| with freq: 1.0
+ 
+867 |is a fictional character who is described in a poem in| with freq: 1.0
+ 
+868 |is a feature of Dante s Commedia created by Dante as the fifth river of the dead  taking into consideration that| with freq: 1.0
+ 
+869 |is a famous statement and provocative poem attributed to pastor| with freq: 1.0
+ 
+870 |is a famous English language poem by| with freq: 1.0
+ 
+871 |is a digital text written by| with freq: 1.0
+ 
+872 |is a debut book of poetry by African American poet| with freq: 1.0
+ 
+873 |is a cycle of connected poems by the Scottish makar| with freq: 1.0
+ 
+874 |is a curtal sonnet by the English poet| with freq: 1.0
+ 
+875 |is a critically acclaimed lyric poem by the Canadian writer| with freq: 1.0
+ 
+876 |is a contemplative poem in Scots by| with freq: 1.0
+ 
+877 |is a concrete poem by| with freq: 1.0
+ 
+878 |is a compilation of 100 poems by| with freq: 1.0
+ 
+879 |is a commentary on the Hindu epic Ramayana  birth of Veda| with freq: 1.0
+ 
+880 |is a comic ballad by| with freq: 1.0
+ 
+881 |is a collection of verses written by| with freq: 1.0
+ 
+882 |is a collection of translations of classical and medieval poetry by| with freq: 1.0
+ 
+883 |is a collection of thirteen short poems written by| with freq: 1.0
+ 
+884 |is a collection of spontaneous poetry by| with freq: 1.0
+ 
+885 |is a collection of short poems by| with freq: 1.0
+ 
+886 |is a collection of poetry for children by the Scottish author| with freq: 1.0
+ 
+887 |is a collection of poetry composed in 1461 by| with freq: 1.0
+ 
+888 |is a collection of poetry by the English author| with freq: 1.0
+ 
+889 |is a collection of poetry by African American writer and poet| with freq: 1.0
+ 
+890 |is a collection of poems written by| with freq: 1.0
+ 
+891 |is a collection of poems traditionally ascribed as juvenilia of| with freq: 1.0
+ 
+892 |is a collection of poems for children by| with freq: 1.0
+ 
+893 |is a collection of poems by the French author| with freq: 1.0
+ 
+894 |is a collection of poems by the British poet| with freq: 1.0
+ 
+895 |is a collection of poems by English poet| with freq: 1.0
+ 
+896 |is a collection of poems by American poet| with freq: 1.0
+ 
+897 |is a collection of historical poems published in 2004 by Perugia Press in Florence  Massachusetts and written by| with freq: 1.0
+ 
+898 |is a collection of haiku poetry by| with freq: 1.0
+ 
+899 |is a collection of fifty one poems set against the bleak and forbidding Dorset landscape by English writer| with freq: 1.0
+ 
+900 |is a collection of Marsias  or more appropriately Marasi  by| with freq: 1.0
+ 
+901 |is a collection of Latin verse  from the age of| with freq: 1.0
+ 
+902 |is a collection of Border ballads compiled by| with freq: 1.0
+ 
+903 |is a collection of 32 short to medium length prose poems by French poet and essayist| with freq: 1.0
+ 
+904 |is a collection of 32 poems by| with freq: 1.0
+ 
+905 |is a collection of| with freq: 1.0
+ 
+906 |is a collection  divided into separate English and Latin sections  of the poet s youthful poetry in a variety of genres  including such notable works as An Ode on the Morning of Christ s Nativity  Comus  and| with freq: 1.0
+ 
+907 |is a classic fantasy novel first published in 1890 and written by H  Rider Haggard and| with freq: 1.0
+ 
+908 |is a ci poem written by| with freq: 1.0
+ 
+909 |is a character in the fifth Bolgia of Malebolge in Dante Alighieri s Inferno  part of the| with freq: 1.0
+ 
+910 |is a character in the fifth Bolgia of Malebolge in| with freq: 1.0
+ 
+911 |is a character in the fifth Bolgia of| with freq: 1.0
+ 
+912 |is a character in| with freq: 1.0
+ 
+913 |is a celebrated poem from| with freq: 1.0
+ 
+914 |is a celebrated early poem by| with freq: 1.0
+ 
+915 |is a book of poetry written by Canadian author| with freq: 1.0
+ 
+916 |is a book of poetry published in 1907 by| with freq: 1.0
+ 
+917 |is a book of poetry by Canadian poet| with freq: 1.0
+ 
+918 |is a book of poetry by Canadian author| with freq: 1.0
+ 
+919 |is a book of poems written by| with freq: 1.0
+ 
+920 |is a book of poems by former English Poet Laureate| with freq: 1.0
+ 
+921 |is a book of poems by American author| with freq: 1.0
+ 
+922 |is a book of clerihews by| with freq: 1.0
+ 
+923 |is a book length poem written by| with freq: 1.0
+ 
+924 |is a book length poem suite published by| with freq: 1.0
+ 
+925 |is a book length poem by American writer| with freq: 1.0
+ 
+926 |is a book by the English poet and printmaker| with freq: 1.0
+ 
+927 |is a book by Brazilian author| with freq: 1.0
+ 
+928 |is a book by| with freq: 1.0
+ 
+929 |is a ballet typically presented in three acts  with a libretto originally created by Jules Henri Vernoy de Saint Georges loosely based on the poem The Corsair by| with freq: 1.0
+ 
+930 |is a ballet typically presented in three acts  with a libretto originally created by Jules Henri Vernoy de Saint Georges loosely based on the poem| with freq: 1.0
+ 
+931 |is a ballade by| with freq: 1.0
+ 
+932 |is a ballad written by English poet| with freq: 1.0
+ 
+933 |is a ballad written by| with freq: 1.0
+ 
+934 |is a ballad published by the German poet| with freq: 1.0
+ 
+935 |is a ballad by English Romantic poet| with freq: 1.0
+ 
+936 |is a ballad by| with freq: 1.0
+ 
+937 |is a Victorian ballad by the English poet| with freq: 1.0
+ 
+938 |is a Victorian English love poem by| with freq: 1.0
+ 
+939 |is a Urdu ghazal written by noted Urdu poet| with freq: 1.0
+ 
+940 |is a Telugu poem composed by| with freq: 1.0
+ 
+941 |is a Scottish folk song whose lyrics are taken from an eponymous| with freq: 1.0
+ 
+942 |is a Scots poem written by| with freq: 1.0
+ 
+943 |is a Scots poem of| with freq: 1.0
+ 
+944 |is a Scots poem composed by| with freq: 1.0
+ 
+945 |is a Sanskrit text traditionally ascribed to the sage| with freq: 1.0
+ 
+946 |is a Punjabi Sufi song written by noted Punjabi poet  Baba| with freq: 1.0
+ 
+947 |is a Māori haka composed by| with freq: 1.0
+ 
+948 |is a Middle High German verse romance by the poet| with freq: 1.0
+ 
+949 |is a Middle English romance which gives a fictionalised account of the life of| with freq: 1.0
+ 
+950 |is a Middle English poem possibly by| with freq: 1.0
+ 
+951 |is a Middle English poem by John Lydgate relating the history of| with freq: 1.0
+ 
+952 |is a Middle English poem by| with freq: 1.0
+ 
+953 |is a Middle English allegorical narrative poem by| with freq: 1.0
+ 
+954 |is a Middle English Arthurian verse romance whose protagonist  Sir Perceval  made his debut in medieval literature well over a hundred years before the composition of this work  in| with freq: 1.0
+ 
+955 |is a Kannada composition in Carnatic music by| with freq: 1.0
+ 
+956 |is a Jukebox musical by playwright Bob Carlton based on Shakespeare s The Tempest and the 1950s science fiction film| with freq: 1.0
+ 
+957 |is a Jukebox musical by playwright Bob Carlton based on Shakespeare s| with freq: 1.0
+ 
+958 |is a Homeric location of Thessaly mentioned in the  Catalogue of Ships  passage 
+It has been interpreted to be a city in the Pelasgiotis district or an alternative name of Phthia  the kingdom of Peleus and| with freq: 1.0
+ 
+959 |is a Homeric location of Thessaly mentioned in the  Catalogue of Ships  passage 
+It has been interpreted to be a city in the Pelasgiotis district or an alternative name of| with freq: 1.0
+ 
+960 |is a Homeric location of Thessaly mentioned in the| with freq: 1.0
+ 
+961 |is a Hindi song sung by Sowmya Raoh  composed by A R Rahman and written by| with freq: 1.0
+ 
+962 |is a Greek hero in the| with freq: 1.0
+ 
+963 |is a Germanization of the Greek Xenia  host gifts   a title originally applied by the Roman poet| with freq: 1.0
+ 
+964 |is a Christmas poem by| with freq: 1.0
+ 
+965 |is a Christmas carol based on the 1863 poem  Christmas Bells  by American poet| with freq: 1.0
+ 
+966 |is a 76 line poem by| with freq: 1.0
+ 
+967 |is a 739 line long poem by American postmodern poet| with freq: 1.0
+ 
+968 |is a 560 page epic poem by| with freq: 1.0
+ 
+969 |is a 517 line occasional poem written by| with freq: 1.0
+ 
+970 |is a 44 line poem by| with freq: 1.0
+ 
+971 |is a 43 line poem written in 1927 by| with freq: 1.0
+ 
+972 |is a 392 line narrative poem by| with freq: 1.0
+ 
+973 |is a 357 line English poem by| with freq: 1.0
+ 
+974 |is a 300 verse ballad by| with freq: 1.0
+ 
+975 |is a 28 line poem by| with freq: 1.0
+ 
+976 |is a 24 line poem by| with freq: 1.0
+ 
+977 |is a 2014 Tamil song composed and performed by Anirudh Ravichander and penned by| with freq: 1.0
+ 
+978 |is a 2007 comedic abridgement of William Shakespeare s| with freq: 1.0
+ 
+979 |is a 2007 comedic abridgement of| with freq: 1.0
+ 
+980 |is a 2006 collection of poems by| with freq: 1.0
+ 
+981 |is a 2005 poetry collection by the American writer| with freq: 1.0
+ 
+982 |is a 2005 historical fantasy novel by British fantasy writer David Gemmell  forming part of his| with freq: 1.0
+ 
+983 |is a 20 minute ballet based upon the tragedy Othello by| with freq: 1.0
+ 
+984 |is a 20 minute ballet based upon the tragedy| with freq: 1.0
+ 
+985 |is a 19th century poem attributed to| with freq: 1.0
+ 
+986 |is a 19th century Vietnamese language epic poem written in vernacular nôm script by the blind poet| with freq: 1.0
+ 
+987 |is a 1999 Brazilian drama film directed by Carlos Diegues  based on the play| with freq: 1.0
+ 
+988 |is a 1992 poetry collection by the American writer| with freq: 1.0
+ 
+989 |is a 1992 book of poems and reflections written by American recording artist| with freq: 1.0
+ 
+990 |is a 1991 collection of ten fables in poetry written by| with freq: 1.0
+ 
+991 |is a 1990 collection of poems  written by| with freq: 1.0
+ 
+992 |is a 1986 Hindi language Indian feature film directed by Bharat Rangachary  starring Sanjeev Kumar  Mithun Chakraborty| with freq: 1.0
+ 
+993 |is a 1985 collection of poetry by| with freq: 1.0
+ 
+994 |is a 1984 poetry collection by Canadian author| with freq: 1.0
+ 
+995 |is a 1983 collection of| with freq: 1.0
+ 
+996 |is a 1982 Hindi language Indian feature film directed by Basu Chatterjee  starring Ashok Kumar| with freq: 1.0
+ 
+997 |is a 1979 poem by British poet| with freq: 1.0
+ 
+998 |is a 1979 Hindi language Indian feature film directed by Basu Chatterjee and produced by Ramraj Nahta  starring Mithun Chakraborty  Bindiya Goswami| with freq: 1.0
+ 
+999 |is a 1977 Hindi film written and directed by| with freq: 1.0
+ 
+1000 |is a 1974 poetry collection by Finnish poet and translator| with freq: 1.0
+ 
+1001 |is a 1969 poem by| with freq: 1.0
+ 
+1002 |is a 1968 poetry collection written by Canadian author| with freq: 1.0
+ 
+1003 |is a 1968 German language poetry collection by| with freq: 1.0
+ 
+1004 |is a 1968 Bollywood musical  which is a loose remake of the 1963 Bengali film| with freq: 1.0
+ 
+1005 |is a 1962 book of poems by the American modernist poet writer| with freq: 1.0
+ 
+1006 |is a 1960 poetry collection by Romanian writer| with freq: 1.0
+ 
+1007 |is a 1959 German language poetry collection by| with freq: 1.0
+ 
+1008 |is a 1957 poetry collection by Finnish poet and translator| with freq: 1.0
+ 
+1009 |is a 1956 Hindi film directed by Anant Thakur  with music by Shankar Jaikishan and lyrics by| with freq: 1.0
+ 
+1010 |is a 1954 radio drama by Welsh poet| with freq: 1.0
+ 
+1011 |is a 1952 German language poetry collection by| with freq: 1.0
+ 
+1012 |is a 1950 book of poetry by| with freq: 1.0
+ 
+1013 |is a 1947 poetry collection by Finnish poet and translator| with freq: 1.0
+ 
+1014 |is a 1946 poetry collection by Finnish poet and translator| with freq: 1.0
+ 
+1015 |is a 1946 poetry collection by Finnish poet| with freq: 1.0
+ 
+1016 |is a 1943 poetry collection by Finnish poet| with freq: 1.0
+ 
+1017 |is a 1938 Finnish poetry collection by Finnish poet and translator| with freq: 1.0
+ 
+1018 |is a 1928 poetry collection by Finnish poet| with freq: 1.0
+ 
+1019 |is a 1927 poetry collection by| with freq: 1.0
+ 
+1020 |is a 1921 book of poems by| with freq: 1.0
+ 
+1021 |is a 1921 a collection of poems by Finnish poet| with freq: 1.0
+ 
+1022 |is a 1920 poetry collection by Finnish poet| with freq: 1.0
+ 
+1023 |is a 1919 poem by American poet| with freq: 1.0
+ 
+1024 |is a 1918 poetry collection by Finnish poet| with freq: 1.0
+ 
+1025 |is a 1917 Australian bush poem by| with freq: 1.0
+ 
+1026 |is a 1916 poem written by| with freq: 1.0
+ 
+1027 |is a 1916 poem by| with freq: 1.0
+ 
+1028 |is a 1916 collection of poetry by| with freq: 1.0
+ 
+1029 |is a 1914 poetry collection by| with freq: 1.0
+ 
+1030 |is a 1914 poem by American poet| with freq: 1.0
+ 
+1031 |is a 1910 short comedy by George Bernard Shaw in which| with freq: 1.0
+ 
+1032 |is a 1903 narrative poem in 104 lines by| with freq: 1.0
+ 
+1033 |is a 17th century stotra  hymn of praise  composed in Marathi language by saint poet of Maharashtra| with freq: 1.0
+ 
+1034 |is a 17th century ballad which provides an account of the interactions between| with freq: 1.0
+ 
+1035 |is a 1795 prophetic book by the English poet and painter| with freq: 1.0
+ 
+1036 |is a 1794 song in Scots by| with freq: 1.0
+ 
+1037 |is a 1794 prophetic book by the British poet and illustrator| with freq: 1.0
+ 
+1038 |is a 1793 prophetic book by the English poet and illustrator| with freq: 1.0
+ 
+1039 |is a 1793 poem by| with freq: 1.0
+ 
+1040 |is a 1789 song and poem by| with freq: 1.0
+ 
+1041 |is a 1788 poem by the German writer| with freq: 1.0
+ 
+1042 |is a 1786 poem by American author| with freq: 1.0
+ 
+1043 |is a 1710 poem by Anglo Irish poet| with freq: 1.0
+ 
+1044 |is a 1709 poem by| with freq: 1.0
+ 
+1045 |is a 1649 poem by| with freq: 1.0
+ 
+1046 |is a 15 283 line epic poem by the poet| with freq: 1.0
+ 
+1047 |is a 14th century poem by| with freq: 1.0
+ 
+1048 |is a 12 line poem by| with freq: 1.0
+ 
+1049 |is a 1045 line Middle English romance or Breton lay written by| with freq: 1.0
+ 
+1050 |is a  mainly light  poem by the Georgian poet| with freq: 1.0
+ 
+1051 |is Fabill 3 of| with freq: 1.0
+ 
+1052 |is Canadian poet and songwriter| with freq: 1.0
+ 
+1053 |is Canadian poet and composer| with freq: 1.0
+ 
+1054 |in the mound at Hisarlik  is an archaeological layer of| with freq: 1.0
+ 
+1055 |in the Sanskrit language| with freq: 1.0
+ 
+1056 |in five syllables  ˌɒziˈmændiəs  or four syllables  ˌɒziˈmændjəs   is a sonnet written by the English romantic poet| with freq: 1.0
+ 
+1057 |in Roman mythology and especially Virgil s Aeneid  is the helmsman of| with freq: 1.0
+ 
+1058 |in Roman mythology and especially Virgil s| with freq: 1.0
+ 
+1059 |in Roman mythology and especially| with freq: 1.0
+ 
+1060 |in Greek mythology was a similar personification to that of Linus  and hence also called a son of| with freq: 1.0
+ 
+1061 |in German  Die| with freq: 1.0
+ 
+1062 |in English The No One s Rose  is a 1963 German language poetry collection by| with freq: 1.0
+ 
+1063 |in English From Threshold to Threshold  is a 1955 German language poetry collection by| with freq: 1.0
+ 
+1064 |in English  The Trojans  is a French grand opera in five acts by| with freq: 1.0
+ 
+1065 |in English  The Sand from the Urns   is a German language poetry collection by| with freq: 1.0
+ 
+1066 |in Bengali script  বনলতা সেন  is a Bengali poem written in 1934  by the poet| with freq: 1.0
+ 
+1067 |in 1955  published as part of his 1956 collection of poetry titled| with freq: 1.0
+ 
+1068 |in| with freq: 1.0
+ 
+1069 |great granddaughter of the precedent  the offspring of Bateia and| with freq: 1.0
+ 
+1070 |genus 
+In Homer s| with freq: 1.0
+ 
+1071 |genus 
+In| with freq: 1.0
+ 
+1072 |full title  Here follow some verses upon the burning of our house  July 10th  1666  is a poem by| with freq: 1.0
+ 
+1073 |from the title of Theocritus s poem Θύρσις  is a poem written by Matthew Arnold in December 1865 to commemorate his friend  the poet| with freq: 1.0
+ 
+1074 |from the title of Theocritus s poem Θύρσις  is a poem written by| with freq: 1.0
+ 
+1075 |from the title of| with freq: 1.0
+ 
+1076 |from the narrative poem| with freq: 1.0
+ 
+1077 |from Recollections of Early Childhood  also known as Ode  Immortality Ode or Great Ode  is a poem by William Wordsworth  completed in 1804 and published in| with freq: 1.0
+ 
+1078 |from Recollections of Early Childhood  also known as Ode  Immortality Ode or Great Ode  is a poem by| with freq: 1.0
+ 
+1079 |from Greek Τηλεμάχεια  is a term traditionally applied to the first four books of Homer s epic poem the| with freq: 1.0
+ 
+1080 |from Greek Τηλεμάχεια  is a term traditionally applied to the first four books of| with freq: 1.0
+ 
+1081 |from 1592 to 1598| with freq: 1.0
+ 
+1082 |first published in 1955  was| with freq: 1.0
+ 
+1083 |first published in 1845 in Saint Petersburg  as a separate edition  under the title| with freq: 1.0
+ 
+1084 |first published as  Molly Mogg  or the Fair Maid of the Inn   is a poem written by John Gay with contributions from| with freq: 1.0
+ 
+1085 |first published as  Molly Mogg  or the Fair Maid of the Inn   is a poem written by| with freq: 1.0
+ 
+1086 |father of Ops and grandfather of| with freq: 1.0
+ 
+1087 |en revy om människan i tid och rum  is a poem of science fiction written by the Swedish Nobel laureate| with freq: 1.0
+ 
+1088 |during the Trojan War| with freq: 1.0
+ 
+1089 |died 1541   also known as Cafer  was an Ottoman Bektashi dervish poet and companion of Sultan| with freq: 1.0
+ 
+1090 |died 1296 
+Donati  brother of Corso and Piccarda Donati  was a childhood friend of| with freq: 1.0
+ 
+1091 |died 1296 
+Donati  brother of Corso and| with freq: 1.0
+ 
+1092 |di Pistoia is a minor character in Inferno  the first part of Dante Alighieri s epic poem the| with freq: 1.0
+ 
+1093 |di Pistoia is a minor character in Inferno  the first part of| with freq: 1.0
+ 
+1094 |daughter of Icarius  a sister of| with freq: 1.0
+ 
+1095 |da Conceição by| with freq: 1.0
+ 
+1096 |consists of a number of short poetic works customarily accredited to the Scottish poet| with freq: 1.0
+ 
+1097 |composed near Hereford around 1180  survives in three separate Middle English versions  a long poem| with freq: 1.0
+ 
+1098 |composed in April 1859 and published in 1862  is a narrative poem by| with freq: 1.0
+ 
+1099 |commonly known as  Prufrock   is a poem by American British poet| with freq: 1.0
+ 
+1100 |commonly known as  A Man s a Man for A  That   is a 1795 Scots song by| with freq: 1.0
+ 
+1101 |chữ Hán  宮怨吟曲 Complaint of a Palace Maid  is a Vietnamese language poem by| with freq: 1.0
+ 
+1102 |character| with freq: 1.0
+ 
+1103 |can refer to 
+A golden mixing cup  described in Homer s| with freq: 1.0
+ 
+1104 |can refer to 
+A golden mixing cup  described in| with freq: 1.0
+ 
+1105 |bɪˈliːtɪs   French  Les Chansons de Bilitis  is a collection of erotic poetry by| with freq: 1.0
+ 
+1106 |by Virgil  Nisus and| with freq: 1.0
+ 
+1107 |by Miss Oral   sometimes known as  A Day for a Lay  or  The Gobble Poem   is an erotic poem by| with freq: 1.0
+ 
+1108 |better known by its first line   It is Christmas Day in the workhouse   is a dramatic monologue written as a traditional rhyming poem and published in 1877 by| with freq: 1.0
+ 
+1109 |beetle  chafer  by| with freq: 1.0
+ 
+1110 |as he was called  was a close friend of| with freq: 1.0
+ 
+1111 |as an augur| with freq: 1.0
+ 
+1112 |are two poems by the poet  journalist  and Mexican diplomat| with freq: 1.0
+ 
+1113 |are those written for| with freq: 1.0
+ 
+1114 |are the opening lines for a poem written by| with freq: 1.0
+ 
+1115 |are the ancient Greek gods referenced in Homer s| with freq: 1.0
+ 
+1116 |are the ancient Greek gods referenced in| with freq: 1.0
+ 
+1117 |are spurious 15th century additions to| with freq: 1.0
+ 
+1118 |are ideal friends and lovers  who died during a raid on the| with freq: 1.0
+ 
+1119 |are a set of six epistolary poems allegedly composed by Ovid in Latin elegiac couplets  following the fifteen poems of his| with freq: 1.0
+ 
+1120 |are a set of six epistolary poems allegedly composed by| with freq: 1.0
+ 
+1121 |are a set of about two thousand English words that| with freq: 1.0
+ 
+1122 |are a series of five poems composed by the English Romantic poet| with freq: 1.0
+ 
+1123 |are a pair of friends serving under Aeneas in the Aeneid  the Augustan epic by| with freq: 1.0
+ 
+1124 |are a pair of friends serving under Aeneas in the| with freq: 1.0
+ 
+1125 |are a pair of friends serving under| with freq: 1.0
+ 
+1126 |are a collection of light verse by| with freq: 1.0
+ 
+1127 |and second wife of Phineus| with freq: 1.0
+ 
+1128 |and other poems is a book of poems by| with freq: 1.0
+ 
+1129 |and other poems is a book by| with freq: 1.0
+ 
+1130 |and Criseyde is a poem by Geoffrey Chaucer which re tells in Middle English the tragic story of the lovers| with freq: 1.0
+ 
+1131 |and Calliope  and the inventor of the song| with freq: 1.0
+ 
+1132 |alternative title   Nowell  Sing We Clear   is a Christmas carol with words written around 1860 by| with freq: 1.0
+ 
+1133 |also sometimes referred to as  Inscription on the Monument to a Newfoundland Dog   is a poem by the British poet| with freq: 1.0
+ 
+1134 |also rendered as The Twa Cumeris is a short humorous poem in Scots written at an unknown date by| with freq: 1.0
+ 
+1135 |also referred to as The Headache and My Heid Did Yak Yesternicht  is a brief poem in Scots by| with freq: 1.0
+ 
+1136 |also known as the Proci  are one of the main subjects of Homer s| with freq: 1.0
+ 
+1137 |also known as the Proci  are one of the main subjects of| with freq: 1.0
+ 
+1138 |also known as the Fourth Eclogue is the name of a Latin poem by the Roman poet| with freq: 1.0
+ 
+1139 |also known as the  Parliament of Foules    Parlement of Birddes    Assembly of Fowls    Assemble of Foules   or  The Parliament of Birds   is a poem by| with freq: 1.0
+ 
+1140 |also known as The Twa Mice  is a Middle Scots adaptation of Aesop s Fable The Town Mouse and the Country Mouse by the Scottish poet| with freq: 1.0
+ 
+1141 |also known as The Rainbow  is a poem by the British Romantic Poet| with freq: 1.0
+ 
+1142 |also known as The Compleat Wrks of Wllm Shkspr  Abridged   is a play written by Adam Long  Daniel Singer  and Jess Winfield that parodies the plays of| with freq: 1.0
+ 
+1143 |also known as Ptoliporthes or Ptoliporthus  is the son born to Odysseus and| with freq: 1.0
+ 
+1144 |also known as Ptoliporthes or Ptoliporthus  is the son born to| with freq: 1.0
+ 
+1145 |also known as Poem 465  is the informal name for an untitled poem by American author| with freq: 1.0
+ 
+1146 |also known as Paris Spleen or Petits Poèmes en prose  is a collection of 51 short prose poems by| with freq: 1.0
+ 
+1147 |also known as Lullaby to his Illegitimate Son is an Irish language poem by| with freq: 1.0
+ 
+1148 |also known as Epitaphe Villon or Frères humains  is the best known poem by| with freq: 1.0
+ 
+1149 |also known as Epistles to Several Persons  is a series of four poems on ethical subjects by| with freq: 1.0
+ 
+1150 |also known as Dumbaris Dirige to the King is a humorous poem in Scots and Latin composed by| with freq: 1.0
+ 
+1151 |also known as Colin Clouts Come Home Again  is a pastoral poem by the English poet| with freq: 1.0
+ 
+1152 |also known as Black  on the fall of Srebrenica  11 July  1995   is a poem by Irish poet| with freq: 1.0
+ 
+1153 |also known as  Les Quatre Deuils  or  Le Malheureux  in modern French or  The Four Sorrows  in English  is a Breton lai by the medieval poet| with freq: 1.0
+ 
+1154 |also known as  Le Rossignol    Le Laustic    Laostic   and  Aüstic   is a Breton lai by the medieval poet| with freq: 1.0
+ 
+1155 |also commonly known as  The Fountain of Bakchisarai   is a poem by| with freq: 1.0
+ 
+1156 |also commonly known as  Daffodils   is a lyric poem by| with freq: 1.0
+ 
+1157 |also called The Tale of Melibeus  is one of The Canterbury Tales by| with freq: 1.0
+ 
+1158 |also called The Tale of Melibeus  is one of| with freq: 1.0
+ 
+1159 |also called The Sailor s Tale  is one of The Canterbury Tales by| with freq: 1.0
+ 
+1160 |also called The Sailor s Tale  is one of| with freq: 1.0
+ 
+1161 |also called The Lawyer s Tale  is the fifth of the Canterbury Tales by| with freq: 1.0
+ 
+1162 |also called The Ascension  is one of| with freq: 1.0
+ 
+1163 |also called Palanto   in Roman mythology  was the wife of King| with freq: 1.0
+ 
+1164 |also Rifeo and Rupheo  was a Trojan hero and the name of a figure from the Aeneid of| with freq: 1.0
+ 
+1165 |also Rifeo and Rupheo  was a Trojan hero and the name of a figure from the| with freq: 1.0
+ 
+1166 |also Giampolo   John Paul   is the accepted name of a character in Dante s| with freq: 1.0
+ 
+1167 |also Bizhan and Manizheh  Persian بيژن و منيژه   Bīžan o Manīža  is a love story in| with freq: 1.0
+ 
+1168 |also Amphínomos  Ἀμφίνομος  literally  grazing all about    was the son of King Nisos and one of the suitors of Penelope that was killed by| with freq: 1.0
+ 
+1169 |also Amphínomos  Ἀμφίνομος  literally  grazing all about    was the son of King Nisos and one of the suitors of| with freq: 1.0
+ 
+1170 |also  Der Widerspenstigen Zähmung   English| with freq: 1.0
+ 
+1171 |a diviner  was a minor suitor of| with freq: 1.0
+ 
+1172 |a character in Virgil s| with freq: 1.0
+ 
+1173 |a character in| with freq: 1.0
+ 
+1174 |a Sanskrit work traditionally attributed to the sage| with freq: 1.0
+ 
+1175 |a Poem  1850  is  despite the title  often treated as two poems by| with freq: 1.0
+ 
+1176 |a Greek warrior who fought at Troy and was killed by| with freq: 1.0
+ 
+1177 |a Greek warrior who fought at| with freq: 1.0
+ 
+1178 |You flow  Olza  down the valley   is a poem by Polish educator and poet| with freq: 1.0
+ 
+1179 |Yiddish  דער ייִדישער קעניג ליר Der Yidisher Konig Lir  also known as The Jewish| with freq: 1.0
+ 
+1180 |West Eastern Diwan   original title  West östlicher Divan  is a diwan  or collection of lyrical poems  by the German poet| with freq: 1.0
+ 
+1181 |WWV 38  The ban on love   is an early opera in two acts by Richard Wagner  with the libretto written by the composer after Shakespeare s| with freq: 1.0
+ 
+1182 |Vercelli Book  fol 52b 54a  is the shortest of| with freq: 1.0
+ 
+1183 |Urdu  ساقی نامہ  often transliterated in English as Saqi Nama is an Urdu Nazm that was written by| with freq: 1.0
+ 
+1184 |Ukrainian  Перебендя  is a poem by| with freq: 1.0
+ 
+1185 |Tosa Diary  is a poetic diary written anonymously by the tenth century Japanese poet| with freq: 1.0
+ 
+1186 |To Anna Flower  also translated as  To Eve Blossom   is a poem written by the German artist| with freq: 1.0
+ 
+1187 |Thorsdrapa  Lay of Thor  is a skaldic poem by| with freq: 1.0
+ 
+1188 |The story of the| with freq: 1.0
+ 
+1189 |The Yellow Bittern  is a classic poem in Irish by the poet| with freq: 1.0
+ 
+1190 |The Werewolf   is one of the twelve Lais of| with freq: 1.0
+ 
+1191 |The Violet    K  476  is a song for voice and piano by Wolfgang Amadeus Mozart  written in Vienna on 8 June 1785  to a poem by| with freq: 1.0
+ 
+1192 |The Tenth Satire of Juvenal Imitated is a poem by the English author| with freq: 1.0
+ 
+1193 |The Tenth Satire of| with freq: 1.0
+ 
+1194 |The Supreme Compassion   is a long poem in fifteen sections  by| with freq: 1.0
+ 
+1195 |The Stolen Bucket  is a mock heroic epic poem by| with freq: 1.0
+ 
+1196 |The Southern country  is a famous historical Vietnamese poem which was written in 1077 by General| with freq: 1.0
+ 
+1197 |The Solution  is a famous German poem by| with freq: 1.0
+ 
+1198 |The Rose of the People  is a book of Brazilian modernist poetry written by| with freq: 1.0
+ 
+1199 |The Romance of Magelone the Fair and Peter Count of Provence  is a German romance in prose and verse by the poet| with freq: 1.0
+ 
+1200 |The Pope   was a political tract in verse by| with freq: 1.0
+ 
+1201 |The Lover s Confession   is a 33 000 line Middle English poem by| with freq: 1.0
+ 
+1202 |The Legend of the Ages  is a collection of poems by| with freq: 1.0
+ 
+1203 |The King s Book   is a fifteenth century poem attributed to| with freq: 1.0
+ 
+1204 |The King in Thule   is a German poem by| with freq: 1.0
+ 
+1205 |The Iliad of Dares the Phrygian  On the Trojan War   is an epic poem in Latin  written around 1183 by the English poet| with freq: 1.0
+ 
+1206 |The Heroines   or Epistulae Heroidum  Letters of Heroines   is a collection of fifteen epistolary poems composed by| with freq: 1.0
+ 
+1207 |The Guided Path  is a poem in Urdu written by Sir| with freq: 1.0
+ 
+1208 |The Glove  is a ballad by| with freq: 1.0
+ 
+1209 |The Frenzy of Orlando  more literally Raging Roland   in Italian furioso is seldom capitalized  is an Italian epic poem by| with freq: 1.0
+ 
+1210 |The Frederick Girl  is a play in four acts by Clyde Fitch and based on the heroine of| with freq: 1.0
+ 
+1211 |The Fable of| with freq: 1.0
+ 
+1212 |The End of Satan   1886  is a long religious epic by| with freq: 1.0
+ 
+1213 |The Drunken Boat   is a 100 line verse poem written in 1871 by| with freq: 1.0
+ 
+1214 |The Diver  is a ballad by| with freq: 1.0
+ 
+1215 |The Desire to Paint in English  is a prose poem written by| with freq: 1.0
+ 
+1216 |The Death of| with freq: 1.0
+ 
+1217 |The Contemplations  is a collection of poetry by| with freq: 1.0
+ 
+1218 |The Cat About Town  is a poem from T  S  Eliot s| with freq: 1.0
+ 
+1219 |The Cat About Town  is a poem from| with freq: 1.0
+ 
+1220 |The Art of Being a Grandfather   is a substantial book of poems by| with freq: 1.0
+ 
+1221 |The| with freq: 1.0
+ 
+1222 |Telugu  ముత్యాల సరాలు  is a compilation of Telugu poems written by| with freq: 1.0
+ 
+1223 |Swedish original title  Fänrik Ståls sägner  Finnish  Vänrikki Stoolin tarinat  or year 2007 translation Vänrikki Stålin tarinat  is an epic poem written in Swedish by the Finland Swedish author| with freq: 1.0
+ 
+1224 |Swedish  Sorgegondolen  is a 1996 poetry collection by the Swedish writer| with freq: 1.0
+ 
+1225 |Swedish  För levande och döda  is a 1989 collection of poetry by the Swedish writer| with freq: 1.0
+ 
+1226 |Swedish  Den stora gåtan  is a 2004 collection of poetry by the Swedish writer| with freq: 1.0
+ 
+1227 |Swedish  17 dikter  is a 1954 poetry collection by the Swedish writer| with freq: 1.0
+ 
+1228 |Sunstone   is a poem by| with freq: 1.0
+ 
+1229 |Sun and Flesh  in English  is a poem written by| with freq: 1.0
+ 
+1230 |Spanish  las dos Españas  is a phrase from a short poem by Spanish poet| with freq: 1.0
+ 
+1231 |Spanish  Veinte poemas de amor y una canción desesperada  is a collection of romantic poems by the Chilean poet| with freq: 1.0
+ 
+1232 |Sorrows  or  Lamentations   is a collection of letters written in elegiac couplets by the Augustan poet| with freq: 1.0
+ 
+1233 |Sonnets of Death  is a work by the Chilean poet| with freq: 1.0
+ 
+1234 |Sonety krymskie  are a series of 18 Polish sonnets by| with freq: 1.0
+ 
+1235 |Solitudes  is a poem by| with freq: 1.0
+ 
+1236 |Slovene  Sonetni venec   sometimes also translated as the Garland of Sonnets  is a crown of sonnets that was written by| with freq: 1.0
+ 
+1237 |Sindhi  شاھ جو رسالو  is a poetic compendium of famous Sindhi Sufi poet| with freq: 1.0
+ 
+1238 |Seven Negro Sermons in Verse is a 1927 book of poems by| with freq: 1.0
+ 
+1239 |Serbian  Горски вијенац   Gorski vijenac  is a poem and a play  a masterpiece of Montenegrin literature  written by Prince Bishop and poet| with freq: 1.0
+ 
+1240 |Scots pronunciation   ˈɔːl d  lɑŋˈsəin   note  s  rather than  z   is a Scots poem written by| with freq: 1.0
+ 
+1241 |Sanskrit  पाण्‍डु Pāṇḍu  is the son of Ambalika and Rishi Veda| with freq: 1.0
+ 
+1242 |Sanskrit  कुमारसम्भव  IAST  Kumāra sambhava  is a Sanskrit epic poem by| with freq: 1.0
+ 
+1243 |Russian  Страна негодяев  Strana Negodyaye  is a poem by Russian poet| with freq: 1.0
+ 
+1244 |Russian  Сказка про Федота стрельца  удалого молодца  is a play poem by Russian writer and actor| with freq: 1.0
+ 
+1245 |Russian  Сказка о рыбаке и рыбке  Skazka o rybake i rybke  is a fairy tale in verse by| with freq: 1.0
+ 
+1246 |Russian  Сказка о золотом петушке  Skazka o zolotom petushke  is the last fairy tale in verse by| with freq: 1.0
+ 
+1247 |Russian  Руслан и Людмила  Ruslan i Lyudmila  is a poem by| with freq: 1.0
+ 
+1248 |Russian  Морская царевна  is one of the last ballads by| with freq: 1.0
+ 
+1249 |Russian  Евге́ний Оне́гин  BGN PCGN  Yevgeniy Onegin  is a novel in verse written by| with freq: 1.0
+ 
+1250 |Russian  Горбунóв и Горчакóв  is a poem by Russian and English poet  essayist  dramatist| with freq: 1.0
+ 
+1251 |Russian  Гавриилиада  Gavriiliada  is a sexually explicit  blasphemous work widely believed to have been written by| with freq: 1.0
+ 
+1252 |Russian  «Смерть Поэта»  is an 1837 poem by Mikhail Lermontov  written in reaction to the death of| with freq: 1.0
+ 
+1253 |Russian  «Смерть Поэта»  is an 1837 poem by| with freq: 1.0
+ 
+1254 |Romeo and Juliet  is an opéra in five acts by Charles Gounod to a French libretto by Jules Barbier and Michel Carré  based on The Tragedy of Romeo and Juliet by| with freq: 1.0
+ 
+1255 |Romeo and Juliet  is an opéra in five acts by Charles Gounod to a French libretto by| with freq: 1.0
+ 
+1256 |Romeo and| with freq: 1.0
+ 
+1257 |Robert Lowell s second book of poetry  won the| with freq: 1.0
+ 
+1258 |Regret   is a poem by Flemish poet| with freq: 1.0
+ 
+1259 |Punjabi  بُلھا کی جاناں  Shahmukhi   ਬੁਲ੍ਹਾ ਕੀ ਜਾਣਾ  Gurmukhi   is one of the most known Kafi poems written by the Punjabi Sufi saint| with freq: 1.0
+ 
+1260 |Portuguese pronunciation   kɐ̃ˈsɐ̃w dw eˈzilju   Exile song  is a poem written by Brazilian Romantic writer| with freq: 1.0
+ 
+1261 |Portuguese meaning  Creole And Other Poems   is a Capeverdean poem book published in 1964 by| with freq: 1.0
+ 
+1262 |Portuguese| with freq: 1.0
+ 
+1263 |Poor Heinrich  is a Middle High German narrative poem by| with freq: 1.0
+ 
+1264 |Polish title   Święta miłości kochanej ojczyzny   also   Hymn do miłości ojczyzny    Hymn to Love of Country   is a patriotic poem by the Polish Enlightenment author and poet| with freq: 1.0
+ 
+1265 |Polish  Czerwona Zaraza  is a Polish poem  written in 1944 by| with freq: 1.0
+ 
+1266 |Polish   Oda do młodości   is an 1820 Polish poem by| with freq: 1.0
+ 
+1267 |Police by| with freq: 1.0
+ 
+1268 |Poem on the Lisbon Disaster  is a poem in French composed by| with freq: 1.0
+ 
+1269 |Persian  هفت پیکر  Haft Peykar ‎  was a famous romantic epic by Nizami of Ganja| with freq: 1.0
+ 
+1270 |Persian  هفت اورنگ‎  meaning  Seven Thrones   by the Persian poet Nur ad Din Abd ar Rahman| with freq: 1.0
+ 
+1271 |Persian  ناظر و منظور‎  is a love story written by Safavid era Persian poet| with freq: 1.0
+ 
+1272 |Persian  سلطان ولد‎  Turkish  Sultan Veled  was the eldest son of Jalal Al Din| with freq: 1.0
+ 
+1273 |Persian  جاوید نامہ‎   or Book of Eternity  is a Persian book of poetry written by Allama| with freq: 1.0
+ 
+1274 |Parsi  فلسفه دعا    is a famous Islamic Iranian prayer  Written by| with freq: 1.0
+ 
+1275 |Out of Norfolk   is a 1798 poem by English poet| with freq: 1.0
+ 
+1276 |Orpheus of The Assumption  is a stage play with music in three acts by| with freq: 1.0
+ 
+1277 |Orpheus and| with freq: 1.0
+ 
+1278 |Orlando in Love  is an epic poem written by the Italian Renaissance author| with freq: 1.0
+ 
+1279 |Or A Layman s Faith  1682  is a poem by| with freq: 1.0
+ 
+1280 |On the Nature of Things  is a first century BC didactic poem by the Roman poet and philosopher| with freq: 1.0
+ 
+1281 |Old Norse  Frōðr  Old English  Frōda  Middle High German  Vruote  is the name of a number of legendary Danish kings in various texts including Beowulf| with freq: 1.0
+ 
+1282 |Old French   Les Deus Amanz   English   The Two Lovers   is a Breton lai  a type of narrative poem  written by| with freq: 1.0
+ 
+1283 |Ode to the Cat  is a poem by the Chilean poet and Nobel laureate| with freq: 1.0
+ 
+1284 |Nisus and| with freq: 1.0
+ 
+1285 |Negro Music in White America  is a seminal study of Afro American music  and culture generally  by| with freq: 1.0
+ 
+1286 |Modern Scots  The Banks o Doon  is a Scots song written by| with freq: 1.0
+ 
+1287 |Middle Irish poem by| with freq: 1.0
+ 
+1288 |Middle English  Þe Seconde Nonnes Tale  is part of Geoffrey Chaucer s| with freq: 1.0
+ 
+1289 |Middle English  Þe Seconde Nonnes Tale  is part of| with freq: 1.0
+ 
+1290 |Middle English  the Tale of the Wyf of Bathe  is among the best known of| with freq: 1.0
+ 
+1291 |Middle English  The Prioresses Tale  follows The Shipman s Tale in Geoffrey Chaucer s| with freq: 1.0
+ 
+1292 |Middle English  The Prioresses Tale  follows The Shipman s Tale in| with freq: 1.0
+ 
+1293 |Middle English  The Prioresses Tale  follows| with freq: 1.0
+ 
+1294 |Middle English  The Milleres Tale  is the second of Geoffrey Chaucer s Canterbury Tales  1380s–1390s   told by the drunken miller Robyn to  quite   requite| with freq: 1.0
+ 
+1295 |Middle English  The Milleres Tale  is the second of| with freq: 1.0
+ 
+1296 |Middle English  The Marchantes Tale  is one of| with freq: 1.0
+ 
+1297 |Middle English  The Knightes Tale  is the first tale from Geoffrey Chaucer s| with freq: 1.0
+ 
+1298 |Middle English  The Knightes Tale  is the first tale from| with freq: 1.0
+ 
+1299 |Middle English  The Frankeleyns Tale  is one of The Canterbury Tales by| with freq: 1.0
+ 
+1300 |Middle English  The Frankeleyns Tale  is one of| with freq: 1.0
+ 
+1301 |Middle English  Tales of Caunterbury  is a collection of over 20 stories written in Middle English by| with freq: 1.0
+ 
+1302 |Meditations  is a poem by| with freq: 1.0
+ 
+1303 |Magardhwaja as per Hindu Mythology  is son of Hanuman  who makes his appearance in epic| with freq: 1.0
+ 
+1304 |Love s Remedy or The Cure for Love  is an 814 line poem in Latin by the Roman poet| with freq: 1.0
+ 
+1305 |Lithuanian  Anykščių šilelis   written by| with freq: 1.0
+ 
+1306 |Lines on the loss of the  Titanic    is a poem by| with freq: 1.0
+ 
+1307 |Letters from the Black Sea  is a work of| with freq: 1.0
+ 
+1308 |Latin for  Secular Hymn  or  Song of the Ages   is a hymn in Sapphic meter written by the Roman poet| with freq: 1.0
+ 
+1309 |Latin Christias  is an epic poem in six cantos on the life of Christ by Marco Girolamo  Marcus Hieronymus  Vida modeled on| with freq: 1.0
+ 
+1310 |Latin  literally  Whom I   are the words  in Virgil s| with freq: 1.0
+ 
+1311 |Latin  literally  Whom I   are the words  in| with freq: 1.0
+ 
+1312 |Latin  fons Bandusiae  is a natural water source in rural Italy  to which the Roman poet| with freq: 1.0
+ 
+1313 |Latin  Rex Romae  was the chief magistrate of the| with freq: 1.0
+ 
+1314 |Latin  Metamorphōseōn librī   Books of Transformations   is a Latin narrative poem by the Roman poet| with freq: 1.0
+ 
+1315 |Latin  Căpĕtŭs Sĭluĭŭs  was a descendant of Aeneas and one of the legendary| with freq: 1.0
+ 
+1316 |Latin  Căpĕtŭs Sĭluĭŭs  was a descendant of| with freq: 1.0
+ 
+1317 |Latin  Achilleis  is an unfinished epic poem by Publius Papinius Statius that was intended to present the life of| with freq: 1.0
+ 
+1318 |Latin   desired things   is a 1927 prose poem by American writer| with freq: 1.0
+ 
+1319 |Latin   Rejoice in the Lamb   is a religious poem by| with freq: 1.0
+ 
+1320 |Last poems  is a poetry collection by| with freq: 1.0
+ 
+1321 |Land of the Living   is a hymn written in 1824 by the Danish theologian and priest| with freq: 1.0
+ 
+1322 |La Gerusalemme liberata  is an epic poem by the Italian poet| with freq: 1.0
+ 
+1323 |King Lear  is an opera in two acts by Aulis Sallinen  with a libretto by the composer  based on the play by| with freq: 1.0
+ 
+1324 |Kepair of the Quenis Wardrop is a poem of| with freq: 1.0
+ 
+1325 |Kannada  ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ  is a Kannada poem  which was composed by the Indian Kannadiga poet| with freq: 1.0
+ 
+1326 |Kalev s Son  is an epic poem by| with freq: 1.0
+ 
+1327 |Judith   is one of the most important Croatian literary works  an epic poem written by the  father of Croatian literature| with freq: 1.0
+ 
+1328 |John the Valiant  is a poem written in Hungarian by| with freq: 1.0
+ 
+1329 |Italian pronunciation   oˈtɛllo   is an opera in four acts by Giuseppe Verdi to an Italian libretto by Arrigo Boito  based on Shakespeare s play| with freq: 1.0
+ 
+1330 |Italian original title  Li soprani der monno vecchio  is an 1831 sonnet in the Romanesco dialect of Rome  by Italian poet| with freq: 1.0
+ 
+1331 |Italian for  sweet nothing   is a poem by Finnish poet| with freq: 1.0
+ 
+1332 |Italian for  Purgatory   is the second part of Dante s| with freq: 1.0
+ 
+1333 |Italian  Odi barbare  is a collection of three books of poetry by| with freq: 1.0
+ 
+1334 |Italian  Divina Commedia  is an epic poem written by| with freq: 1.0
+ 
+1335 |Introduction| with freq: 1.0
+ 
+1336 |Indonesian for  To You Alone   is a 28 line poem by Amir Hamzah which was included in his 1937 collection| with freq: 1.0
+ 
+1337 |Indonesian for  To You Alone   is a 28 line poem by| with freq: 1.0
+ 
+1338 |ISBN 0 07 045724 7  is a book by| with freq: 1.0
+ 
+1339 |Hungarian  A walesi bárdok  is a ballad by Hungarian poet| with freq: 1.0
+ 
+1340 |History of the destruction of Troy   or Historia Troiana is a Latin prose narrative written by| with freq: 1.0
+ 
+1341 |Hindi कामायनी   1936  is a Hindi epic poem  Mahakavya  by| with freq: 1.0
+ 
+1342 |Hindi  बरसात की एक रात  English  One rainy night  is a 1981 Bollywood film starring Amitabh Bachchan  Raakhee  Amjad Khan and| with freq: 1.0
+ 
+1343 |Hindi  पृथ्वीराज रासो  Rajasthani  पिरथबीराज रासो  or Prithvirajaraso  is an epic poem composed by court poet| with freq: 1.0
+ 
+1344 |Hindi  कजरा रे  English  Oh  Kohl Lined  Eyes   is a song composed by Shankar Ehsaan Loy  written by| with freq: 1.0
+ 
+1345 |Hindi  आलाप में गिरह  is first collection of poems by Hindi poet| with freq: 1.0
+ 
+1346 |Hindi  आंधी  translation  Storm  is a 1975 Indian political drama film starring Sanjeev Kumar and Suchitra Sen  and directed by| with freq: 1.0
+ 
+1347 |Hindi  अशोक वाटिका  was a garden in Lanka  the Kingdom of demon king  Ravana  as mentioned in the Vishnu Purana and Hindu epic  Ramayana of Valmiki  and all subsequent versions  including the Ramacharitamanas written by| with freq: 1.0
+ 
+1348 |Hindi  अशोक वाटिका  was a garden in Lanka  the Kingdom of demon king  Ravana  as mentioned in the Vishnu Purana and Hindu epic  Ramayana of| with freq: 1.0
+ 
+1349 |Hindi  अंधा युग  The Age of Blindness  The Blind Age  is 1954 verse play written in Hindi  by renowned novelist  poet  and playwright| with freq: 1.0
+ 
+1350 |Greek Ἔννομος Ennomos  was the name of two defenders of| with freq: 1.0
+ 
+1351 |Greek Ἑλένη Helénē  pronounced  helénɛː    also known as Helen of Sparta  was the daughter of| with freq: 1.0
+ 
+1352 |Greek Ἁλιζῶνες  also Halizonians or Alazones  are an obscure people that appear in Homer s| with freq: 1.0
+ 
+1353 |Greek for  Samson the agonist   is a tragic closet drama by| with freq: 1.0
+ 
+1354 |Greek  Ἶλος  is the name of several mythological persons associated directly or indirectly with| with freq: 1.0
+ 
+1355 |Greek  Ἰλιάς Κωνσταντίνου Ἑρμονιακοῦ  is a 14th century Byzantine paraphrase of the| with freq: 1.0
+ 
+1356 |Greek  Ἰλίου πέρσις  Iliou persis   Sack of Ilium    also known as The Sack of| with freq: 1.0
+ 
+1357 |Greek  Ἐπικός Κύκλος  Epikos Kyklos  was a collection of Ancient Greek epic poems that related the story of the Trojan War  which includes the Cypria  the Aethiopis  the so called Little| with freq: 1.0
+ 
+1358 |Greek  Ἀστεροπαῖος  Latin  Asteropaeus  was a leader of the Trojan allied Paeonians along with fellow warrior| with freq: 1.0
+ 
+1359 |Greek  Ἀργοναυτικά Argonautika  is a Greek epic poem written by| with freq: 1.0
+ 
+1360 |Greek  Ἀντίκλεια   Without Fame   was the daughter of Autolycus and Amphithea and mother of| with freq: 1.0
+ 
+1361 |Greek  τὰ μεθ᾿ Ὅμηρον  is an epic poem by Quintus of Smyrna  probably written in the latter half of the 4th century  and telling the story of the Trojan War  between the death of| with freq: 1.0
+ 
+1362 |Greek  Φωκαΐς  was an ancient Greek epic attributed to| with freq: 1.0
+ 
+1363 |Greek  Φλεγύας   son of| with freq: 1.0
+ 
+1364 |Greek  Φήμιος  Phêmios  is an Ithacan poet who performs narrative songs in the house of the absent| with freq: 1.0
+ 
+1365 |Greek  Φήμιος  Phêmios  is an| with freq: 1.0
+ 
+1366 |Greek  Τηλεγόνεια  Tēlegoneia  Latin  Telegonia  is a lost ancient Greek epic poem about Telegonus  son of Odysseus by| with freq: 1.0
+ 
+1367 |Greek  Τηλεγόνεια  Tēlegoneia  Latin  Telegonia  is a lost ancient Greek epic poem about Telegonus  son of| with freq: 1.0
+ 
+1368 |Greek  Τηλεγόνεια  Tēlegoneia  Latin  Telegonia  is a lost ancient Greek epic poem about| with freq: 1.0
+ 
+1369 |Greek  Ταλθύβιος  was herald and friend to| with freq: 1.0
+ 
+1370 |Greek  Προσόδιον  in ancient Greece was a processional song to the altar of a deity  mainly Apollo or| with freq: 1.0
+ 
+1371 |Greek  Προσόδιον  in ancient Greece was a processional song to the altar of a deity  mainly| with freq: 1.0
+ 
+1372 |Greek  Οι Ελεύθεροι Πολιορκημένοι  Oi Eleftheroi Poliorkimenoi  is an epic  unfinished work composed by| with freq: 1.0
+ 
+1373 |Greek  Μελανθώ   is one of the minor characters in the| with freq: 1.0
+ 
+1374 |Greek  Μέντωρ  Méntōr  gen   Μέντορος  was the son of Alcimus or| with freq: 1.0
+ 
+1375 |Greek  Κτιμένη  Ktimene  was the younger sister of Odysseus  the legendary king of| with freq: 1.0
+ 
+1376 |Greek  Κτιμένη  Ktimene  was the younger sister of| with freq: 1.0
+ 
+1377 |Greek  Κλυτίος  also spelled Klythios  Klytios  Clytios  and Klytius  is the name of multiple people in Greek mythology 
+A son of Laomedon  brother of Priam  and an elder of| with freq: 1.0
+ 
+1378 |Greek  Κλυτίος  also spelled Klythios  Klytios  Clytios  and Klytius  is the name of multiple people in Greek mythology 
+A son of Laomedon  brother of| with freq: 1.0
+ 
+1379 |Greek  Κασσάνδρα  pronounced  kas̚sándra͜a   also Κασάνδρα   also known as Alexandra or Kassandra  was the daughter of King Priam and Queen Hecuba of| with freq: 1.0
+ 
+1380 |Greek  Κασσάνδρα  pronounced  kas̚sándra͜a   also Κασάνδρα   also known as Alexandra or Kassandra  was the daughter of King Priam and Queen| with freq: 1.0
+ 
+1381 |Greek  Κασσάνδρα  pronounced  kas̚sándra͜a   also Κασάνδρα   also known as Alexandra or Kassandra  was the daughter of King| with freq: 1.0
+ 
+1382 |Greek  Εὔφορβος   the son of| with freq: 1.0
+ 
+1383 |Greek  Εὐρύκλεια Eurýkleia   or Euryclea  also known as Antiphata  Ἀντιφάτη  in other traditions   is the daughter of Ops and granddaughter of Peisenor  as well as the wet nurse of| with freq: 1.0
+ 
+1384 |Greek  Εὐρύκλεια Eurýkleia   or Euryclea  also known as Antiphata  Ἀντιφάτη  in other traditions   is the daughter of Ops and granddaughter of| with freq: 1.0
+ 
+1385 |Greek  Διονυσιακά  is an ancient epic poem and the principal work of| with freq: 1.0
+ 
+1386 |Greek  Βοίβη  was a town and lake of ancient Thessaly  mentioned in the Homeric| with freq: 1.0
+ 
+1387 |Greek  Βατραχομυομαχία  from βάτραχος   frog   μῦς   mouse   and μάχη   battle   or the Battle of Frogs and Mice is a comic epic or parody of the Iliad  definitely attributed to Homer by the Romans  but according to Plutarch the work of| with freq: 1.0
+ 
+1388 |Greek  Βατραχομυομαχία  from βάτραχος   frog   μῦς   mouse   and μάχη   battle   or the Battle of Frogs and Mice is a comic epic or parody of the Iliad  definitely attributed to Homer by the Romans  but according to| with freq: 1.0
+ 
+1389 |Greek  Βατραχομυομαχία  from βάτραχος   frog   μῦς   mouse   and μάχη   battle   or the Battle of Frogs and Mice is a comic epic or parody of the Iliad  definitely attributed to| with freq: 1.0
+ 
+1390 |Greek  Βατραχομυομαχία  from βάτραχος   frog   μῦς   mouse   and μάχη   battle   or the Battle of Frogs and Mice is a comic epic or parody of the| with freq: 1.0
+ 
+1391 |Greek   Απολείπειν ο θεός Αντώνιον   also translated as  The God Forsakes Antony   is a poem by| with freq: 1.0
+ 
+1392 |Great War   is a poem by| with freq: 1.0
+ 
+1393 |Graysteel   was a medieval poem popular in 16th century Scotland  set to music and performed for James IV of Scotland and| with freq: 1.0
+ 
+1394 |God   1891  is a long religious epic by| with freq: 1.0
+ 
+1395 |German  Vom Schnee  is a 2003 long poem by the German writer| with freq: 1.0
+ 
+1396 |German  Neue Gedichte  is a two part collection of poems written by Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+1397 |German  Duineser Elegien  are a collection of ten elegies written by the Bohemian Austrian poet| with freq: 1.0
+ 
+1398 |German  Die Sonette an Orpheus  are a cycle of 55 sonnets written in 1922 by the Bohemian Austrian poet| with freq: 1.0
+ 
+1399 |German  Die Rundköpfe und die Spitzköpfe  is an epic parable play written by the German dramatist| with freq: 1.0
+ 
+1400 |German  Der aufhaltsame Aufstieg des Arturo Ui  is a 1941 play by the German dramatist| with freq: 1.0
+ 
+1401 |German  Der Hirt des Riesengebürgs  is a German ballad by Friedrich de la Motte Fouqué which was translated into English by| with freq: 1.0
+ 
+1402 |German  Das Stunden Buch  is a collection of poetry by the Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+1403 |German  Das Lied von der Glocke  also translated as The Lay of the Bell  is a poem that the German poet| with freq: 1.0
+ 
+1404 |German  Das Buch der Bilder  is a collection of poetry by the Bohemian Austrian poet and novelist| with freq: 1.0
+ 
+1405 |German  Atemschaukel  2009  is a 304 page prose poem by| with freq: 1.0
+ 
+1406 |German  Als Litauer sind wir geboren  Lithuanian  Lietuvninkai mes esam gimę  is a Lithuanian language patriotic and sentimental poem written by the German linguist| with freq: 1.0
+ 
+1407 |German   Was gesagt werden muss   is a 2012 prose poem by the German writer| with freq: 1.0
+ 
+1408 |German   An die Freude   first line   Freude  schöner Götterfunken   is an ode written in the summer of 1785 by German poet  playwright and historian| with freq: 1.0
+ 
+1409 |Georgian  ვეფხისტყაოსანი pronounced  vɛpʰxist’q’ɑosɑni   one who owns a leopard skin   is a Georgian medieval epic poem  consisting of over 1600 shairi quatrains  written in the 12th century by the Georgian epic poet| with freq: 1.0
+ 
+1410 |From the region  literally  pivot  or  turning point   of the rising of the sun  is a Latin poem by| with freq: 1.0
+ 
+1411 |French version  Orphée et Eurydice  English| with freq: 1.0
+ 
+1412 |French  Érec et Énide  is the first of| with freq: 1.0
+ 
+1413 |French  Yvain  le Chevalier au Lion  is a romance by| with freq: 1.0
+ 
+1414 |French  Une Saison en Enfer  is an extended poem in prose written and published in 1873 by French writer| with freq: 1.0
+ 
+1415 |French  Pour un tombeau d Anatole  is an unfinished poem by the French writer| with freq: 1.0
+ 
+1416 |French  Le testament d Orphée  is a 1960 film directed by and starring| with freq: 1.0
+ 
+1417 |French  Le Sang d un Poète   1930  is an avant garde film directed by| with freq: 1.0
+ 
+1418 |French  Lancelot  le Chevalier de la Charrette  is an Old French poem by| with freq: 1.0
+ 
+1419 |French   The Beautiful Lady Without Mercy    is a ballad written by the English poet| with freq: 1.0
+ 
+1420 |Forgotten Songs  is a song cycle for voice and piano  L  60 by Claude Debussy  based on a poem written by| with freq: 1.0
+ 
+1421 |Exploits of a Great Hero   is a play by the 8th century Sanskrit playwright| with freq: 1.0
+ 
+1422 |Evrimahos  Evrymahos  Evrymachos or Eurýmakhos  Εὐρύμαχος   is attributed to the following individuals 
+
+Greek mythology
+In Homer’s| with freq: 1.0
+ 
+1423 |Evrimahos  Evrymahos  Evrymachos or Eurýmakhos  Εὐρύμαχος   is attributed to the following individuals 
+
+Greek mythology
+In| with freq: 1.0
+ 
+1424 |English title  Letter to the author of The Three Impostors  is an epistle in verse form written by| with freq: 1.0
+ 
+1425 |English  Women of Ireland   is a poem written by Ulster poet| with freq: 1.0
+ 
+1426 |English  To the Simple Man  is a poem by| with freq: 1.0
+ 
+1427 |English  The Parliament of Satan  is an Urdu poem written by| with freq: 1.0
+ 
+1428 |English  The Oath of Hindustan  is a 1973 war movie based on Operation Cactus Lilly in the Indo Pakistani War of 1971 directed by Chetan Anand  who has previously made popular war film| with freq: 1.0
+ 
+1429 |English  The Infinite  is a poem written by| with freq: 1.0
+ 
+1430 |English  The Descent of| with freq: 1.0
+ 
+1431 |English  The Battle of the Trees  is a medieval Welsh poem preserved in the 14th century manuscript known as the Book of| with freq: 1.0
+ 
+1432 |English  Sacred Flowers  is the title of a 1912 collection of poetry by Romanian poet| with freq: 1.0
+ 
+1433 |English  Premières   subtitled različne piesme  is a collection of 35 poems written by Croatian poet| with freq: 1.0
+ 
+1434 |English  Possessed by madness for Layla  Persian  لیلی و مجنون عامری‎  Leyli o Majnun   Arabic  مجنون لیلی‎  Majnun Layla   is a love story that originated as a short  anecdotal poem in ancient Arabia  later significantly expanded and popularized in a literary adaptation by Persian poet| with freq: 1.0
+ 
+1435 |English  Nine Pieces  is a collection of poems attributed to| with freq: 1.0
+ 
+1436 |English  Memory of Holland  is a poem written by Dutch poet| with freq: 1.0
+ 
+1437 |English  Clothing  is a 1988 Hindi drama film written and directed by| with freq: 1.0
+ 
+1438 |English    krai si z   Greek  Χρύσης   Khrúsēs  was a priest of Apollo at Chryse  near the city of| with freq: 1.0
+ 
+1439 |English    krai si z   Greek  Χρύσης   Khrúsēs  was a priest of| with freq: 1.0
+ 
+1440 |Elf Song   is a poem written in German by| with freq: 1.0
+ 
+1441 |East Journey Verses  is a skaldic poem composed by the Icelandic skald| with freq: 1.0
+ 
+1442 |Dve Sudby  is a poem by| with freq: 1.0
+ 
+1443 |Dutch  Orchideeën  een bundel proza en poëzie  is a collection of prose and poetry written by Dutch writer| with freq: 1.0
+ 
+1444 |Dutch  Een lent van vaerzen  was the literary debut of Dutch writer| with freq: 1.0
+ 
+1445 |Diario postumo  is a series of poems attributed to the Italian poet| with freq: 1.0
+ 
+1446 |Devanāgarī  श्रीरामचरितमानस  IAST  Śrīrāmacaritamānasa   also spelt Shri Ramacharitamanasa  is an epic poem in Awadhi  composed by the 16th century Indian poet Goswami| with freq: 1.0
+ 
+1447 |Devanāgarī  नमकीन  English  Salty   1982 Hindi film  directed by| with freq: 1.0
+ 
+1448 |Dawn of Islam  is an Urdu poem written by Sir| with freq: 1.0
+ 
+1449 |Croatian  Suze sina razmetnoga  is a poem written by the Croatian Baroque poet| with freq: 1.0
+ 
+1450 |Croatian  Smrt Smail age Čengića  is an epic poem by| with freq: 1.0
+ 
+1451 |Croatian  Ribanje i ribarsko prigovaranje  is the most important literary work of Croatian Renaissance poet| with freq: 1.0
+ 
+1452 |Croatian  Balade Petrice Kerempuha  is a philosophicly poetical work by Croatian writer| with freq: 1.0
+ 
+1453 |Cosmetics for the Female Face  also known as The Art of Beauty  is a didactic poem written in elegiac couplets by the Roman poet| with freq: 1.0
+ 
+1454 |Chinese  靜夜思  or  Lamentations in the Tranquillity of Night  is the title of a famous poem written by the Tang Dynasty poet| with freq: 1.0
+ 
+1455 |Chinese  哀郢  pinyin  āi Yǐng  is a poem which has sometimes been attributed to Chinese poet| with freq: 1.0
+ 
+1456 |Catalan  New ode to Barcelona  is a poem by| with freq: 1.0
+ 
+1457 |Catalan  Les elegies de Bierville  is the most outstanding work by the Catalan poet| with freq: 1.0
+ 
+1458 |Castigations   is a collection of poems by| with freq: 1.0
+ 
+1459 |Capri  is a poem by| with freq: 1.0
+ 
+1460 |Capital of Pain  is a book of poems by French surrealist poet| with freq: 1.0
+ 
+1461 |Bulgarian  Епопея на забравените  Epopeya na zabravenite  is a Bulgarian poetic saga written by| with freq: 1.0
+ 
+1462 |Book of Slavery  is a poem in the Persian language written by Sir| with freq: 1.0
+ 
+1463 |Book IV| with freq: 1.0
+ 
+1464 |Bengali  বোধ  in Clinton B  Seely s English translation Sensation and Fakrul Alam s An Overwhelming Sensation  is a Bengali poem written in 1930 by| with freq: 1.0
+ 
+1465 |Bengali  গীতাঞ্জলি  is a collection of poems by the Indian poet| with freq: 1.0
+ 
+1466 |Bengali  কৃত্তিবাসি রামায়ণ   or Krittibasi Ramayan or Sri Ram Panchali  Bengali  শ্রীরাম পাঁচালী   composed by 15th century Bengali poet| with freq: 1.0
+ 
+1467 |Bengali  অবনী বাড়ি আছো Ôboni Baŗi Achho  is a poem by| with freq: 1.0
+ 
+1468 |Being a portion of The Recluse  a poem is a long poem by Romantic poet| with freq: 1.0
+ 
+1469 |Being Poems Chiefly of the Irish Heroic Age is a volume of poems by| with freq: 1.0
+ 
+1470 |Beams and shadows   1840  is a collection of forty four poems by| with freq: 1.0
+ 
+1471 |Battle of spirits  by the Late Antique Latin poet| with freq: 1.0
+ 
+1472 |Bambo the black child  is a children s poem by Polish author| with freq: 1.0
+ 
+1473 |Ballade of the Ladies of Times Past   is a poem by| with freq: 1.0
+ 
+1474 |Bajki i przypowieści  1779   by| with freq: 1.0
+ 
+1475 |Autumn Song   is a poem by| with freq: 1.0
+ 
+1476 |Assamese  মাধৱ কন্দলী  pronounced as  Madhob Kondoli    14th century  was an Assamese poet of India  notable for the earliest rendering of the| with freq: 1.0
+ 
+1477 |Ancient Greek  Ἴσμαρος  Ismaros  ismaros   is a city of the Cicones  mentioned in the| with freq: 1.0
+ 
+1478 |Ancient Greek  Ἔργα καὶ Ἡμέραι  Erga kai Hēmerai  is a didactic poem of some 800 lines written by the ancient Greek poet| with freq: 1.0
+ 
+1479 |Ancient Greek  Ἄξυλος  is mentioned in Book VI of Homer s| with freq: 1.0
+ 
+1480 |Ancient Greek  Ἄξυλος  is mentioned in Book VI of| with freq: 1.0
+ 
+1481 |Ancient Greek  Ἀστρονομία   Astronomy   or Astrologia  Ἀστρολογία  also  Astronomy   is a fragmentary Ancient Greek hexameter poem that was attributed to| with freq: 1.0
+ 
+1482 |Ancient Greek  Ἀσπὶς Ἡρακλέους  Aspis Hērakleous  is an archaic Greek epic poem that was attributed to| with freq: 1.0
+ 
+1483 |Ancient Greek  Ἀμφιμέδων  was the son of Melaneus and one of the suitors of| with freq: 1.0
+ 
+1484 |Ancient Greek  νεῶν κατάλογος  neōn katalogos  is an epic catalogue in Book 2 of Homer s Iliad  2 494 759   which lists the contingents of the Achaean army that sailed to| with freq: 1.0
+ 
+1485 |Ancient Greek  νεῶν κατάλογος  neōn katalogos  is an epic catalogue in Book 2 of Homer s| with freq: 1.0
+ 
+1486 |Ancient Greek  νεῶν κατάλογος  neōn katalogos  is an epic catalogue in Book 2 of| with freq: 1.0
+ 
+1487 |Ancient Greek  Χείρωνος ὑποθῆκαι  Cheírōnos hypothêkai  is a now fragmentary Greek didactic poem that was attributed to| with freq: 1.0
+ 
+1488 |Ancient Greek  Πειρίθου κατάβασις  Peirithou katabasis  is a fragmentary epic poem that was ascribed to| with freq: 1.0
+ 
+1489 |Ancient Greek  Πάνθοος   son of Othryas  was an elder of Troy  husband of the  queenly  Phrontis and father of Euphorbus  Polydamas and| with freq: 1.0
+ 
+1490 |Ancient Greek  Πάνθοος   son of Othryas  was an elder of Troy  husband of the  queenly  Phrontis and father of| with freq: 1.0
+ 
+1491 |Ancient Greek  Πάνθοος   son of Othryas  was an elder of| with freq: 1.0
+ 
+1492 |Ancient Greek  Μελαμποδία  is a now fragmentary Greek epic poem that was attributed to| with freq: 1.0
+ 
+1493 |Ancient Greek  Μεγάλαι Ἠοῖαι  Ancient   meɡálai ɛːhói ai    or Great Ehoiai  is a fragmentary Greek epic poem that was popularly  though not universally  attributed to| with freq: 1.0
+ 
+1494 |Ancient Greek  Μέγαλα Ἔργα   or Great Works  is a now fragmentary didactic poem that was attributed to the Greek oral poet| with freq: 1.0
+ 
+1495 |Ancient Greek  Καινεύς  Kaineus  was a Lapith hero of Thessaly and  in| with freq: 1.0
+ 
+1496 |Ancient Greek  Κήυκος γάμος  Kḗykos gámos  is a fragmentary Ancient Greek hexameter poem that was attributed to| with freq: 1.0
+ 
+1497 |Ancient Greek  Θεανώ  was the priestess of Athena in| with freq: 1.0
+ 
+1498 |Ancient Greek  Θεανώ  was the priestess of| with freq: 1.0
+ 
+1499 |Ancient Greek  Δάρης  Dárēs  Middle Welsh  Dared   according to Homer  was a Trojan priest of| with freq: 1.0
+ 
+1500 |Ancient Greek  Δάρης  Dárēs  Middle Welsh  Dared   according to| with freq: 1.0
+ 
+1501 |Ancient Greek  Γυναικῶν Κατάλογος  Gynaikôn Katálogos —also known as the Ehoiai  Ἠοῖαι  Ancient   ɛːhói ai  —is a fragmentary Greek epic poem that was attributed to| with freq: 1.0
+ 
+1502 |Ancient Greek  τὰ Λίβηθρα or Λείβηθρα  was a city close to Olympus where| with freq: 1.0
+ 
+1503 |Ancient Greek  Οὐκαλέγων  was one of the Elders of| with freq: 1.0
+ 
+1504 |An Episode is a narrative poem with strong tragic themes first published in 1853 by| with freq: 1.0
+ 
+1505 |An English Study is a long poem in prose and verse written by| with freq: 1.0
+ 
+1506 |An Elegy on the Death of| with freq: 1.0
+ 
+1507 |An Agony in 8 Fits  is typically categorized as a nonsense poem written by| with freq: 1.0
+ 
+1508 |An ABC of Baseball Immortals is a poem written by| with freq: 1.0
+ 
+1509 |Among the discord God hits       is a poem written by| with freq: 1.0
+ 
+1510 |Africanus  236–183 BC   also known as Scipio the African| with freq: 1.0
+ 
+1511 |A tempest   is a 1969 play by| with freq: 1.0
+ 
+1512 |A dramatic poem is a poem written in 1816–1817 by| with freq: 1.0
+ 
+1513 |A Winter Idyl is a long narrative poem by American poet| with freq: 1.0
+ 
+1514 |A Version from the Irish is a version of the Irish poem Buile Shuibhne written by| with freq: 1.0
+ 
+1515 |A Tale of Acadie  is an epic poem by the American poet| with freq: 1.0
+ 
+1516 |A Song   is a poem by| with freq: 1.0
+ 
+1517 |A Poem and Pilgrimage in the Holy Land  1876  is an epic poem by American writer| with freq: 1.0
+ 
+1518 |A Poem  in Three Parts  1687  is an allegory in heroic couplets by| with freq: 1.0
+ 
+1519 |A Poem  1812  is a poem by| with freq: 1.0
+ 
+1520 |A Personal Anthology is a compilation of thirty pieces of prose and poetry selected by Italian Jewish author and Holocaust survivor| with freq: 1.0
+ 
+1521 |A Mahakavya in Sanskrit based on the life of Jesus Christ  Sanskrit  क्रिस्तुभागवतम्  Kristubhāgavatam or Kristu Bhāgavatam  is a Sanskrit epic poem on the life of Jesus Christ composed by| with freq: 1.0
+ 
+1522 |A Dramatic Poem is an 1855 poetic play  the first published work of Scottish author| with freq: 1.0
+ 
+1523 |A Conversation  1818–19  is a poem in 617 lines of enjambed heroic couplets by| with freq: 1.0
+ 
+1524 |A Commentary on Shakespeare s The Tempest  is a long poem by| with freq: 1.0
+ 
+1525 |A Commentary on Shakespeare s| with freq: 1.0
+ 
+1526 |A Christmas Oratorio  is a long poem by| with freq: 1.0
+ 
+1527 |A Baroque Eclogue  1947  first UK edition  1948  is a long poem in six parts by| with freq: 1.0
+ 
+1528 |A Ballad was a major poetical work published as a broadside by| with freq: 1.0
+ 
+1529 |A Ballad of the Republic Sung in the Year 1888  is a baseball poem written in 1888 by| with freq: 1.0
+ 
+1530 |2010  is a reimagining of| with freq: 1.0
+ 
+1531 |2005   written with the assistance of Professor James Diggle of Cambridge University and Professor John Underhill of the University of Edinburgh  Paliki  a peninsula of Kefalonia  is the location of Homer s Ithaca  the home of Odysseus in Homer s| with freq: 1.0
+ 
+1532 |2005   written with the assistance of Professor James Diggle of Cambridge University and Professor John Underhill of the University of Edinburgh  Paliki  a peninsula of Kefalonia  is the location of Homer s Ithaca  the home of| with freq: 1.0
+ 
+1533 |2005   written with the assistance of Professor James Diggle of Cambridge University and Professor John Underhill of the University of Edinburgh  Paliki  a peninsula of Kefalonia  is the location of Homer s| with freq: 1.0
+ 
+1534 |1987  is a collection of poems written by Irish poet| with freq: 1.0
+ 
+1535 |1980–1985 is an| with freq: 1.0
+ 
+1536 |1972  is a poetry collection by| with freq: 1.0
+ 
+1537 |1972  is Eugène Ionesco s satire on Shakespeare s| with freq: 1.0
+ 
+1538 |1971  is African American writer and poet| with freq: 1.0
+ 
+1539 |1969  is a poetry collection by| with freq: 1.0
+ 
+1540 |1966  is a collection of poems written by| with freq: 1.0
+ 
+1541 |1965–1971 is a collection of poetry by| with freq: 1.0
+ 
+1542 |1962  is a postmodern novel by| with freq: 1.0
+ 
+1543 |1958 1960  1961  is a book of poems by| with freq: 1.0
+ 
+1544 |1948  is a Bengali book of poems written by| with freq: 1.0
+ 
+1545 |1945  is a poem by| with freq: 1.0
+ 
+1546 |1939  is a collection of whimsical poems by T  S  Eliot about feline psychology and sociology  published by| with freq: 1.0
+ 
+1547 |1939  is a collection of whimsical poems by| with freq: 1.0
+ 
+1548 |1934  is a famous imagist poem by| with freq: 1.0
+ 
+1549 |1925  is a poem by| with freq: 1.0
+ 
+1550 |1922  is the second and last of the two volumes of poems| with freq: 1.0
+ 
+1551 |1920  is a long poem by| with freq: 1.0
+ 
+1552 |1919  was| with freq: 1.0
+ 
+1553 |1914  is a poem written by English poet| with freq: 1.0
+ 
+1554 |1892  is the second poetry collection of| with freq: 1.0
+ 
+1555 |1892  is a poem by| with freq: 1.0
+ 
+1556 |1876  is an epic poem of over 10 000 lines by| with freq: 1.0
+ 
+1557 |1860  is a poem by American poet| with freq: 1.0
+ 
+1558 |1856  is an epic novel poem by| with freq: 1.0
+ 
+1559 |1853  is a poem by Matthew Arnold  based on a 17th century Oxford story found in| with freq: 1.0
+ 
+1560 |1853  is a poem by| with freq: 1.0
+ 
+1561 |1840   1905  was the translator of Persian works by mystic poets Saadi| with freq: 1.0
+ 
+1562 |1836  is an early dramatic monologue by| with freq: 1.0
+ 
+1563 |1822  is a satirical poem in ottava rima by| with freq: 1.0
+ 
+1564 |1818  is a poem in twelve cantos composed by| with freq: 1.0
+ 
+1565 |1818  is a narrative poem by| with freq: 1.0
+ 
+1566 |1816  is a poem by the English Romantic poet| with freq: 1.0
+ 
+1567 |1807  is a philosophical epic poem by the American diplomat and man of letters| with freq: 1.0
+ 
+1568 |1805  is a long narrative poem by| with freq: 1.0
+ 
+1569 |18 March 1868 – 14 December 1941  was an English poet  writer and journalist  who remains best known for her patriotic motivational poems published during World War I  Wilfred Owen directed his 1917 poem Dulce et Decorum Est at Pope  whose literary reputation has faded into relative obscurity as those of war poets such as Owen and| with freq: 1.0
+ 
+1570 |18 March 1868 – 14 December 1941  was an English poet  writer and journalist  who remains best known for her patriotic motivational poems published during World War I| with freq: 1.0
+ 
+1571 |1771  was the final work completed by English poet| with freq: 1.0
+ 
+1572 |1769  is an epic poem by the Portuguese writer| with freq: 1.0
+ 
+1573 |1684  is an elegy written by| with freq: 1.0
+ 
+1574 |1599  is an anthology of 20 poems collected and published by| with freq: 1.0
+ 
+1575 |1594  is a narrative poem by| with freq: 1.0
+ 
+1576 |1342  revised c  1365  was a narrative poem by Boccaccio  full of echoes of the| with freq: 1.0
+ 
