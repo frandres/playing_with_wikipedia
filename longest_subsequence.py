@@ -32,4 +32,3 @@ def get_longest_subsequence(s1,s2):
     res = res.strip()
     return res
 
-print get_longest_subsequence('this noise is 84321 a test', 'is 31232 a 9210 test')

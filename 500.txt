@@ -1,0 +1,620 @@
+Analyzing: 1, Éistibh,_a_Luchd_an_Tighe-se
+Analyzing: 2, Il_Canzoniere
+Analyzing: 3, Chori_Chori
+Analyzing: 4, Swami_Haridas
+Analyzing: 5, Paper_War_of_1752–1753
+Analyzing: 6, Aakhri_Daao
+Analyzing: 7, Anyone_Lived_in_a_Pretty_How_Town_(film)
+Analyzing: 8, 1671_in_poetry
+Analyzing: 9, Kosli_language_movement
+Analyzing: 10, Within_and_Without
+Analyzing: 11, Juan-y-Pherick’s_Journey_and_Other_Poems
+Analyzing: 12, Romulus_and_Remus
+Analyzing: 13, Kubla_Khan
+Analyzing: 14, Hymn_Before_Sunrise
+Analyzing: 15, Stefan_George
+Analyzing: 16, Christmas-Eve_and_Easter-Day
+Analyzing: 17, Farz_(1967_film)
+Analyzing: 18, Sonnet_68
+Analyzing: 19, Leisure_(poem)
+Analyzing: 20, Bhaktisvarupa_Damodar_Swami
+Analyzing: 21, The_Book_of_Images
+Analyzing: 22, Nepenthe
+Analyzing: 23, Indraprastha
+Analyzing: 24, Romeo_and_Juliet_(Tchaikovsky)
+Analyzing: 25, Hibiscus_on_the_Sleeping_Shores
+Analyzing: 26, Song_of_the_Yue_Boatman
+Analyzing: 27, Thyrsis
+Analyzing: 28, Ellesmere_Chaucer
+Analyzing: 29, Shambuka
+Analyzing: 30, Hermann_und_Thusnelda
+Analyzing: 31, Qayamat_Se_Qayamat_Tak
+Analyzing: 32, Antinous_son_of_Eupeithes
+Analyzing: 33, Girart_de_Vienne
+Analyzing: 34, The_Beggar's_Petition
+Analyzing: 35, Midaregami
+Analyzing: 36, Lanka_Dahan
+Analyzing: 37, Vichitravirya
+Analyzing: 38, Asteropaios
+Analyzing: 39, Reinmar_von_Brennenberg
+Analyzing: 40, 1888_in_poetry
+Analyzing: 41, Threnody
+Analyzing: 42, 1783_in_poetry
+Analyzing: 43, Didon_(Desmarets)
+Analyzing: 44, The_Dark_Man_(poem)
+Analyzing: 45, Gritsamada
+Analyzing: 46, Le_Spleen_de_Paris
+Analyzing: 47, Mayurpankh
+Analyzing: 48, Euryalus
+Analyzing: 49, P._H._B._Lyon
+Analyzing: 50, Duryodhana
+Analyzing: 51, Praise_Song_for_the_Day
+Analyzing: 52, In_Defence_of_the_Bush
+Analyzing: 53, Samaveda
+Analyzing: 54, Pallas_(son_of_Evander)
+Analyzing: 55, Ramashram_Satsang,_Mathura
+Analyzing: 56, Les_Champs_Magnétiques
+Analyzing: 57, Disabled_(poem)
+Analyzing: 58, Dyaus_Pita
+Analyzing: 59, Scots_of_the_Riverina
+Analyzing: 60, Ode_of_Remembrance
+Analyzing: 61, Poems_(William_Carlos_Williams)
+Analyzing: 62, One_Hour_to_Madness_and_Joy
+Analyzing: 63, Rakkamma_Kaiya_Thattu
+Analyzing: 64, Rhoetus
+Analyzing: 65, Laodice_(daughter_of_Priam)
+Analyzing: 66, Chevrefoil
+Analyzing: 67, Curse_of_Kehama
+Analyzing: 68, The_Love_Song_of_J._Alfred_Prufrock
+Analyzing: 69, If_I_Told_Him:_A_Completed_Portrait_of_Picasso
+Analyzing: 70, Pashyanti
+Analyzing: 71, Fierro_(film)
+Analyzing: 72, Andha_Kanoon
+Analyzing: 73, Pandu
+Analyzing: 74, Kroniki
+Analyzing: 75, Tiberius_Gracchus
+Analyzing: 76, For_the_Time_Being
+Analyzing: 77, Tere_Mere_Sapne_(1971_film)
+Analyzing: 78, Lausus
+Analyzing: 79, Araṇya-Kāṇḍa_(The_forest_episode)
+Analyzing: 80, The_Oven_Bird
+Analyzing: 81, Cantabile_(symphonic_suite)
+Analyzing: 82, Raphèl_maí_amèche_zabí_almi
+Analyzing: 83, Child_Is_Father_of_the_Man
+Analyzing: 84, The_Bride_of_Abydos
+Analyzing: 85, Visits_to_St._Elizabeths
+Analyzing: 86, El_estudiante_de_Salamanca
+Analyzing: 87, Pra_Ram
+Analyzing: 88, The_Tragedy_of_Macbeth_Part_II
+Analyzing: 89, Malyavan
+Analyzing: 90, Harvest_of_War
+Analyzing: 91, Thorgerda
+Analyzing: 92, The_Village_(poem)
+Analyzing: 93, The_Tambov_Treasurer's_Wife
+Analyzing: 94, The_Prioress's_Tale
+Analyzing: 95, Abhimanyu
+Analyzing: 96, Himalay_Ki_Godmein
+Analyzing: 97, The_Death_of_a_Soldier
+Analyzing: 98, Parthenopeus
+Analyzing: 99, Preludes_(poem)
+Analyzing: 100, Bel_paese_(phrase)
+Analyzing: 101, Liberhan_Commission
+Analyzing: 102, L'Amadigi
+Analyzing: 103, Barbarika
+Analyzing: 104, Laus_Pisonis
+Analyzing: 105, Jabberwocky
+Analyzing: 106, Orpheus_und_Eurydike
+Analyzing: 107, Richard_L._Thompson
+Analyzing: 108, The_Sick_Stockrider
+Analyzing: 109, Recessional_(poem)
+Analyzing: 110, Zeus
+Analyzing: 111, On_Monsieur's_Departure
+Analyzing: 112, The_Kingis_Quair
+Analyzing: 113, Troilus_and_Criseyde
+Analyzing: 114, Auguries_of_Innocence
+Analyzing: 115, Dia_libh_a_laochruidh_Gaoidhiol
+Analyzing: 116, Ermil_Kostrov
+Analyzing: 117, Falstaff_(opera)
+Analyzing: 118, Four_Quartets
+Analyzing: 119, 1550_in_poetry
+Analyzing: 120, Markandeya
+Analyzing: 121, Horae_Canonicae
+Analyzing: 122, Mera_Naam_Joker
+Analyzing: 123, Minos
+Analyzing: 124, Sidney_Keyes
+Analyzing: 125, Eteoneus
+Analyzing: 126, 1958_in_poetry
+Analyzing: 127, Follower_(poem)
+Analyzing: 128, The_Dante_Quartet
+Analyzing: 129, The_Auroras_of_Autumn
+Analyzing: 130, For_the_Living_and_the_Dead
+Analyzing: 131, The_Wild_Party_(poem)
+Analyzing: 132, Medicamina_Faciei_Femineae
+Analyzing: 133, This_Is_Just_To_Say
+Analyzing: 134, Sri_Rama_Rajyam
+Analyzing: 135, Naprej,_zastava_slave
+Analyzing: 136, Alamein_to_Zem_Zem
+Analyzing: 137, Makardhwaja
+Analyzing: 138, Danny_Deever
+Analyzing: 139, Hay_and_Hell_and_Booligal
+Analyzing: 140, Widsith
+Analyzing: 141, Pyaar_Ka_Mandir
+Analyzing: 142, 1749_in_poetry
+Analyzing: 143, Battle_of_Finnsburg
+Analyzing: 144, Giriraja_Swami
+Analyzing: 145, List_of_Kalevala_translations
+Analyzing: 146, A_Season_in_Hell
+Analyzing: 147, Scholars_of_Piyyut
+Analyzing: 148, Of_Heaven_Considered_as_a_Tomb
+Analyzing: 149, Jeevan_Ek_Sanghursh
+Analyzing: 150, Phocais
+Analyzing: 151, Nazrana_(1987_film)
+Analyzing: 152, The_Plot_Against_the_Giant
+Analyzing: 153, Spain_(Auden)
+Analyzing: 154, Hansadutta_Swami
+Analyzing: 155, In_the_Bazaars_of_Hyderabad
+Analyzing: 156, London,_1802
+Analyzing: 157, Sonnet_138
+Analyzing: 158, Sonnet_139
+Analyzing: 159, Brihat_Jataka
+Analyzing: 160, The_Traveller_(poem)
+Analyzing: 161, Sonnet_132
+Analyzing: 162, Jhelum_River
+Analyzing: 163, Sonnet_130
+Analyzing: 164, Sonnet_131
+Analyzing: 165, Return_to_the_Field
+Analyzing: 166, Sonnet_137
+Analyzing: 167, Sonnet_134
+Analyzing: 168, Sonnet_135
+Analyzing: 169, Translations_and_Imitations_from_German_Ballads_by_Sir_Walter_Scott
+Analyzing: 170, Foraire_Uladh_ar_Aodh
+Analyzing: 171, A_Drunken_Man's_Praise_of_Sobriety
+Analyzing: 172, Medieval_debate_poetry
+Analyzing: 173, The_Parson's_Tale
+Analyzing: 174, List_of_International_Society_for_Krishna_Consciousness_sannyasis
+Analyzing: 175, Phylo
+Analyzing: 176, A._E._Housman
+Analyzing: 177, The_Seasons_(poem)
+Analyzing: 178, Thersites
+Analyzing: 179, Sonnet_119
+Analyzing: 180, 1942_in_poetry
+Analyzing: 181, Raat_Aur_Din
+Analyzing: 182, Laodamas
+Analyzing: 183, Watson_Kirkconnell
+Analyzing: 184, Songs_of_Travel_and_Other_Verses
+Analyzing: 185, Gaius_Gracchus
+Analyzing: 186, Nachuk_Tahate_Shyama
+Analyzing: 187, Eris_(mythology)
+Analyzing: 188, Allahabad
+Analyzing: 189, Polybus_(Trojan_War)
+Analyzing: 190, Epeius
+Analyzing: 191, Kiln_(poem)
+Analyzing: 192, Hymen_(god)
+Analyzing: 193, Book_of_Haikus
+Analyzing: 194, 1929_in_poetry
+Analyzing: 195, St._Simeon_Stylites_(poem)
+Analyzing: 196, Glaucus_(soldier)
+Analyzing: 197, An_Early_Martyr_and_Other_Poems
+Analyzing: 198, Arundhati_(epic)
+Analyzing: 199, Pandæmonium_(Paradise_Lost)
+Analyzing: 200, The_Secrets_of_Selflessness
+Analyzing: 201, Sonnet_111
+Analyzing: 202, 1785_in_poetry
+Analyzing: 203, Carrickfergus_(poem)
+Analyzing: 204, Gift_from_Hijaz
+Analyzing: 205, The_Countess_Kathleen_and_Various_Legends_and_Lyrics
+Analyzing: 206, Enkidu
+Analyzing: 207, Sonnet_28
+Analyzing: 208, Sonnet_27
+Analyzing: 209, Indradyumna_Swami
+Analyzing: 210, Homer's_Ithaca
+Analyzing: 211, Sonnet_24
+Analyzing: 212, Sonnet_23
+Analyzing: 213, Teesri_Manzil
+Analyzing: 214, Capitale_de_la_douleur
+Analyzing: 215, Sonnet_20
+Analyzing: 216, Celebrations,_Rituals_of_Peace_and_Prayer
+Analyzing: 217, New_Poems
+Analyzing: 218, Ring_Out,_Wild_Bells
+Analyzing: 219, Calypso_(mythology)
+Analyzing: 220, Ahiravan
+Analyzing: 221, Rupa_Goswami
+Analyzing: 222, Eldorado_(poem)
+Analyzing: 223, When_I_have_Fears_that_I_may_Cease_to_Be
+Analyzing: 224, Vidhaata
+Analyzing: 225, The_Plowman's_Tale
+Analyzing: 226, Dymer
+Analyzing: 227, Siksastaka
+Analyzing: 228, The_Song_of_the_Vermonters,_1779
+Analyzing: 229, Ramayana_(Rajagopalachari_book)
+Analyzing: 230, Carmina_Burana
+Analyzing: 231, Saleh_Muhammad_Safoori
+Analyzing: 232, Jo_Jeeta_Wohi_Sikandar
+Analyzing: 233, Amphimedon
+Analyzing: 234, The_Bothie_of_Tober-na-Vuolich
+Analyzing: 235, Sarfarosh
+Analyzing: 236, Emathia
+Analyzing: 237, Mandalay_(poem)
+Analyzing: 238, On_Receiving_News_of_the_War
+Analyzing: 239, Javad_Nurbakhsh
+Analyzing: 240, Achilles_and_Patroclus
+Analyzing: 241, Chakravyuh
+Analyzing: 242, Radha_Krsna_Temple
+Analyzing: 243, The_Swan_of_Tuonela
+Analyzing: 244, List_of_poems_by_Philip_Larkin
+Analyzing: 245, The_Swimmer_(poem)
+Analyzing: 246, 1898_in_poetry
+Analyzing: 247, Aye_Mere_Watan_Ke_Logo
+Analyzing: 248, Iron_Dawn
+Analyzing: 249, The_Tale_of_the_Golden_Cockerel
+Analyzing: 250, Dancing_the_Dream
+Analyzing: 251, The_Dream_(John_Donne_poem)
+Analyzing: 252, The_Mahabharata_(1989_film)
+Analyzing: 253, Haqeeqat
+Analyzing: 254, The_Pleasures_of_the_Imagination
+Analyzing: 255, Ahalya
+Analyzing: 256, Tiberius_Claudius_Donatus
+Analyzing: 257, Avatars_in_the_Mahabharata
+Analyzing: 258, The_Rime_of_the_Ancient_Mariner_in_popular_culture
+Analyzing: 259, Os_Lusíadas
+Analyzing: 260, Subh_Sukh_Chain
+Analyzing: 261, Selected_Poems_1965–1975
+Analyzing: 262, Phoenix_(son_of_Amyntor)
+Analyzing: 263, The_Bagford_Ballads
+Analyzing: 264, Kesava_Deo_Temple
+Analyzing: 265, H.M.S._Donovan_(album)
+Analyzing: 266, Thoon_(mythology)
+Analyzing: 267, The_Virgin_Carrying_a_Lantern
+Analyzing: 268, Manfred_Korfmann
+Analyzing: 269, The_Cinnamon_Peeler
+Analyzing: 270, Ju_Song
+Analyzing: 271, I'm_Nobody!_Who_are_you?
+Analyzing: 272, The_Conqueror_Worm
+Analyzing: 273, F._De_Samara_to_A._G._A.
+Analyzing: 274, Sonnet_115
+Analyzing: 275, Qadir_Bux_Bedil
+Analyzing: 276, Tataka
+Analyzing: 277, Aniara
+Analyzing: 278, The_Fall_of_the_Angels
+Analyzing: 279, Sweet_Afton
+Analyzing: 280, The_Eagle_(poem)
+Analyzing: 281, El_Golem
+Analyzing: 282, No_Such_Thing_(film)
+Analyzing: 283, Mayya_(song)
+Analyzing: 284, The_Legend_of_Good_Women
+Analyzing: 285, Sarpedon
+Analyzing: 286, I_Am_–_Somebody
+Analyzing: 287, Fog_(poem)
+Analyzing: 288, Benjamin_Fondane
+Analyzing: 289, Sappho's_Fragment_44
+Analyzing: 290, Margites
+Analyzing: 291, The_Paddock_and_the_Mouse
+Analyzing: 292, Dhṛtarāṣṭra
+Analyzing: 293, Duino_Elegies
+Analyzing: 294, Conradin
+Analyzing: 295, The_City_(poem)
+Analyzing: 296, Journey_of_the_Magi
+Analyzing: 297, Gentleman_(film)
+Analyzing: 298, Sidereal_and_tropical_astrology
+Analyzing: 299, Lityerses
+Analyzing: 300, Keshava
+Analyzing: 301, Anne_Hathaway_(poem)
+Analyzing: 302, Gdzie_słońce_wschodzi_i_kedy_zapada
+Analyzing: 303, Mansur_Al-Hallaj
+Analyzing: 304, Do_Anjaane
+Analyzing: 305, A_Toccata_of_Galuppi's
+Analyzing: 306, List_of_films_based_on_poems
+Analyzing: 307, Tamerlane_and_Other_Poems
+Analyzing: 308, 1972_in_poetry
+Analyzing: 309, One's_Self_I_Sing
+Analyzing: 310, Samanadhikaranya
+Analyzing: 311, Arnaeus
+Analyzing: 312, Talthybius
+Analyzing: 313, Roman_de_Brut
+Analyzing: 314, Corso_Donati
+Analyzing: 315, To_the_Memory_of_Mr._Oldham
+Analyzing: 316, Rohal_Faqir
+Analyzing: 317, Eneados
+Analyzing: 318, Giacomo_Joyce
+Analyzing: 319, To_the_Rose_upon_the_Rood_of_Time
+Analyzing: 320, Hare_Krishna_(mantra)
+Analyzing: 321, Polydamna
+Analyzing: 322, Halitherses
+Analyzing: 323, Sigurd
+Analyzing: 324, Hastinapur
+Analyzing: 325, Shah_Hussain
+Analyzing: 326, The_Angel_in_the_House
+Analyzing: 327, Autumn_Day_in_Kui_Prefecture
+Analyzing: 328, 1709_in_poetry
+Analyzing: 329, Naram_Garam
+Analyzing: 330, Khwaja_Mir_Dard
+Analyzing: 331, An_Eton_Poetry_Book
+Analyzing: 332, Le_Désir_de_peindre
+Analyzing: 333, Epistle_to_a_Godson
+Analyzing: 334, The_Wedding_of_Sir_Gawain_and_Dame_Ragnelle
+Analyzing: 335, Vivian_de_Sola_Pinto
+Analyzing: 336, List_of_long_poems_in_English
+Analyzing: 337, Calesius
+Analyzing: 338, Divine_Comedy
+Analyzing: 339, The_Dark_Lady_of_the_Sonnets
+Analyzing: 340, Lake_Isle_of_Innisfree
+Analyzing: 341, August_Houseplant
+Analyzing: 342, Metabus
+Analyzing: 343, Palladium_(classical_antiquity)
+Analyzing: 344, Circe
+Analyzing: 345, Phylas
+Analyzing: 346, The_Light_of_Asia
+Analyzing: 347, Hum_Hain_Lajawab_(1984_film)
+Analyzing: 348, Ottagathai_Kattiko
+Analyzing: 349, Jabali
+Analyzing: 350, Hera
+Analyzing: 351, 2005_Ram_Janmabhoomi_attack_in_Ayodhya
+Analyzing: 352, 1792_in_poetry
+Analyzing: 353, Laxman_Kumara
+Analyzing: 354, Huna_Kingdom
+Analyzing: 355, Karnan_(film)
+Analyzing: 356, Perpessicius
+Analyzing: 357, 1946_in_poetry
+Analyzing: 358, He_Is_Na_Dog,_He_Is_a_Lam
+Analyzing: 359, The_Road_Goes_Ever_On_(song)
+Analyzing: 360, 1799_in_poetry
+Analyzing: 361, Aap_Ke_Saath
+Analyzing: 362, Satsvarupa_dasa_Goswami
+Analyzing: 363, Govind
+Analyzing: 364, 1703_in_poetry
+Analyzing: 365, The_Dead_(poem)
+Analyzing: 366, Rukmini
+Analyzing: 367, Chinh_phụ_ngâm
+Analyzing: 368, The_Fact_of_the_Matter
+Analyzing: 369, Main_Tulsi_Tere_Aangan_Ki
+Analyzing: 370, The_Tragical_History_of_Romeus_and_Juliet
+Analyzing: 371, Der_Ring_des_Polykrates_(poem)
+Analyzing: 372, Eudoros
+Analyzing: 373, The_Mills_of_The_Kavanaughs
+Analyzing: 374, Wolfwatching
+Analyzing: 375, Goloka
+Analyzing: 376, 1919_in_poetry
+Analyzing: 377, Odysseus
+Analyzing: 378, Walther_von_der_Vogelweide
+Analyzing: 379, Kunti
+Analyzing: 380, La_Geste_de_Garin_de_Monglane
+Analyzing: 381, Nekyia
+Analyzing: 382, Mithila,_India
+Analyzing: 383, Morgante
+Analyzing: 384, The_Bomb-itty_of_Errors
+Analyzing: 385, The_Morall_Fabillis_of_Esope_the_Phrygian
+Analyzing: 386, Elucidation
+Analyzing: 387, Laocoön
+Analyzing: 388, The_Mask_of_Orpheus
+Analyzing: 389, The_Deserted_Village
+Analyzing: 390, Birds,_Beasts_and_Flowers
+Analyzing: 391, Mere_Sajna
+Analyzing: 392, L'Orfeide
+Analyzing: 393, Valayapathi
+Analyzing: 394, Geoffrey_Chaucer
+Analyzing: 395, Chicago_Poems
+Analyzing: 396, Parijatapaharanamu
+Analyzing: 397, Savitr
+Analyzing: 398, Phagun_(1973_film)
+Analyzing: 399, The_two_Spains
+Analyzing: 400, Shikhandi
+Analyzing: 401, Shishupala_Vadha
+Analyzing: 402, Amleto
+Analyzing: 403, Idylls_of_the_King
+Analyzing: 404, Lapse_of_Time_(54th_Ruba'i,_Khayyám)
+Analyzing: 405, Three_Stories_and_Ten_Poems
+Analyzing: 406, East_Coker_(poem)
+Analyzing: 407, Historicity_of_the_Iliad
+Analyzing: 408, Out,_Out—
+Analyzing: 409, –_Becchin’amor!_–_Che_vuo’,_falso_tradito?
+Analyzing: 410, Macbeth_(Bloch)
+Analyzing: 411, Kadhal_Anukkal
+Analyzing: 412, Dilwale_Dulhania_Le_Jayenge
+Analyzing: 413, The_Queen_of_Hearts_(poem)
+Analyzing: 414, 1931_in_poetry
+Analyzing: 415, 1813_in_poetry
+Analyzing: 416, 1965_in_poetry
+Analyzing: 417, Calchas
+Analyzing: 418, Michael_Robartes_and_the_Dancer
+Analyzing: 419, Anukramaṇī
+Analyzing: 420, Podalirius
+Analyzing: 421, English_translations_of_Dante's_Divine_Comedy
+Analyzing: 422, Mydon
+Analyzing: 423, 1845_in_poetry
+Analyzing: 424, Minyas_(poem)
+Analyzing: 425, To_Burke
+Analyzing: 426, Wedding_of_Ceyx
+Analyzing: 427, Falstaff_(Elgar)
+Analyzing: 428, Kala_Dhanda_Goray_Log
+Analyzing: 429, Kulliyyat-e-Hasrat
+Analyzing: 430, Nausinous
+Analyzing: 431, Gubbinal
+Analyzing: 432, Das_verschleierte_Bild_zu_Sais
+Analyzing: 433, Aleinu
+Analyzing: 434, Mansagari
+Analyzing: 435, Ferishtah's_Fancies
+Analyzing: 436, 1829_in_poetry
+Analyzing: 437, Scarmiglione
+Analyzing: 438, Vergilius_Vaticanus
+Analyzing: 439, Majboor_(1974_film)
+Analyzing: 440, Bread_and_Roses
+Analyzing: 441, Vana_Parva
+Analyzing: 442, The_Lowestoft_Boat
+Analyzing: 443, Now_We_Are_Six
+Analyzing: 444, Maud_and_other_poems
+Analyzing: 445, Casabianca_(poem)
+Analyzing: 446, The_Death_of_Smail-aga_Čengić
+Analyzing: 447, Mother_Hubberd's_Tale
+Analyzing: 448, Royal_Winter_Music
+Analyzing: 449, Vammatar
+Analyzing: 450, The_Gentle_Shepherd
+Analyzing: 451, Eiga_Monogatari
+Analyzing: 452, The_Tempest_(opera)
+Analyzing: 453, Theriaca_(poem)
+Analyzing: 454, Yashoda
+Analyzing: 455, Geet_Ramayan
+Analyzing: 456, Château_de_Muzot
+Analyzing: 457, 1800_in_poetry
+Analyzing: 458, Mamoni_Raisom_Goswami
+Analyzing: 459, Hukumat
+Analyzing: 460, Aahuti_(1978_film)
+Analyzing: 461, The_Tale_of_the_Fisherman_and_the_Fish
+Analyzing: 462, Vanni_Fucci
+Analyzing: 463, Húsdrápa
+Analyzing: 464, Ich_hatt'_einen_Kameraden
+Analyzing: 465, Prosodion
+Analyzing: 466, Hua_Mulan
+Analyzing: 467, Childe_Roland_to_the_Dark_Tower_Came
+Analyzing: 468, Ovvoru_Pookalume
+Analyzing: 469, Ufens
+Analyzing: 470, Junglee
+Analyzing: 471, The_Woman's_Prize
+Analyzing: 472, Nowell_Codex
+Analyzing: 473, Ibis_(Ovid)
+Analyzing: 474, Karz_(film)
+Analyzing: 475, Sonnet_45
+Analyzing: 476, The_Giaour
+Analyzing: 477, One_Word_is_Too_Often_Profaned
+Analyzing: 478, The_Squire_of_Low_Degree
+Analyzing: 479, Panthous
+Analyzing: 480, The_Lay_of_Aotrou_and_Itroun
+Analyzing: 481, Sonnet_47
+Analyzing: 482, Prince_of_Ayodhya
+Analyzing: 483, Ramayana:_The_Legend_of_Prince_Rama
+Analyzing: 484, The_Mock_Tempest
+Analyzing: 485, A_Writer's_Prayer
+Analyzing: 486, Sonnet_46
+Analyzing: 487, The_Raven_(1915_film)
+Analyzing: 488, 1859_in_poetry
+Analyzing: 489, Sonnet_6
+Analyzing: 490, Linda_(Estonian_mythology)
+Analyzing: 491, Clancy_of_the_Overflow
+Analyzing: 492, Field_Work_(poetry)
+Analyzing: 493, Briggflatts
+Analyzing: 494, Jaimini_Sutras_(Hindu_astrology)
+Analyzing: 495, Les_Contemplations
+Analyzing: 496, Saptapadi_(1961_film)
+Analyzing: 497, Kaddish_(poem)
+Analyzing: 498, Divine_Songs_Attempted_in_Easy_Language_for_the_Use_of_Children
+Analyzing: 499, Sonnet_43
+Analyzing: 500, Narasimha_Satakam
+Found: 1145 contexts.
+-------------- RANKING ----------------
+0 |, | with freq: 46.0
+ 
+1 | and | with freq: 25.0
+ 
+2 | is one of 154 sonnets written by the English playwright and poet | with freq: 11.0
+ 
+3 |
+| with freq: 8.0
+ 
+4 |'s | with freq: 7.0
+ 
+5 |" is a poem from | with freq: 6.0
+ 
+6 | by | with freq: 6.0
+ 
+7 |
+
+| with freq: 6.0
+ 
+8 |" is a poem by | with freq: 5.0
+ 
+9 |'s "| with freq: 4.0
+ 
+10 | was the son of | with freq: 4.0
+ 
+11 | is a poem by | with freq: 4.0
+ 
+12 |, and | with freq: 3.0
+ 
+13 | and the | with freq: 3.0
+ 
+14 | and possibly (at least in the modern version of the text) in line 14 of | with freq: 3.0
+ 
+15 | | with freq: 3.0
+ 
+16 |
+Hetairideia - Thessalian Festival to | with freq: 3.0
+ 
+17 |7, | with freq: 2.0
+ 
+18 |," and the other mentions "Hermes Most Great"” and "| with freq: 2.0
+ 
+19 |, son of Alcinous
+In the | with freq: 2.0
+ 
+20 |, son of | with freq: 2.0
+ 
+21 |, as transpired at many other sites, and he came to be venerated in Crete as | with freq: 2.0
+ 
+22 |, and Richard Linche’s Poem collection entitled “Diella.” There is a great deal of similarity between sections of the Diella poem collection and Shakespeare’s “| with freq: 2.0
+ 
+23 |, Olympia
+References
+
+Further reading
+
+External links
+Greek Mythology Link, | with freq: 2.0
+ 
+24 |'s Odyssey, | with freq: 2.0
+ 
+25 |' other mentors, Vianu notes, were critics and academics of diverse backgrounds: | with freq: 2.0
+ 
+26 |' consort at Dodona was not Hera, but the goddess Dione — whose name is a feminine form of "| with freq: 2.0
+ 
+27 |", | with freq: 2.0
+ 
+28 |") is assumed by | with freq: 2.0
+ 
+29 |" received particular attention, with the poem being subtly alluded to through rhyme-scheme referencing by | with freq: 2.0
+ 
+30 | was a character in Shakespeare's | with freq: 2.0
+ 
+31 | states, “Mine eye my heart thy picture’s sight would bar” while | with freq: 2.0
+ 
+32 | shared the world with his elder brothers, Poseidon and Hades, by drawing lots: | with freq: 2.0
+ 
+33 | on Crete since the Mycenaean times, pertaining to the Dikte mountain range
+Bottiaeus: epithet of | with freq: 2.0
+ 
+34 | of Mount Kasios in Syria
+Ithomatas: the | with freq: 2.0
+ 
+35 | of | with freq: 2.0
+ 
+36 | is strongly connected to | with freq: 2.0
+ 
+37 | is continued in | with freq: 2.0
+ 
+38 | is continued from | with freq: 2.0
+ 
+39 | is a sonnet by | with freq: 2.0
+ 
+40 | is a poetry collection by | with freq: 2.0
+ 
+41 | is a poem written by | with freq: 2.0
+ 
+42 | is a narrative poem by | with freq: 2.0
+ 
+43 | in the Bible
+| with freq: 2.0
+ 
+44 | in philosophy
+In Neoplatonism, | with freq: 2.0
+ 
+45 | in myth
+Theoi Project, | with freq: 2.0
+ 
+46 | emphasized different aspects of his wide-ranging authority:
+| with freq: 2.0
+ 
+47 | depicts | with freq: 2.0
+ 
+48 | cult and statues
+Photo: Pagans Honor | with freq: 2.0
+ 
+49 | could actually be a satire of the Thomas Watson poem “Passionate Century of Love”, pointing out that the Watson poem contains all but one of the platitudes that Shakespeare is making fun of in | with freq: 2.0
+ 
