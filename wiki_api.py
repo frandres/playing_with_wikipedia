@@ -1,7 +1,6 @@
 from wikitools import wiki, api
 import pprint
-from ranking import get_ranking
-from dump_contexts import dump_contexts
+from extract_text import get_ranking
 import sys
 import cPickle as pickle
 
@@ -138,11 +137,37 @@ def group_pairs_into_dict(pair_list):
 
     return key_set_dict
 
+
+#Receives a page and returns a list with the names of its redirects.
+#Note that the query returns the names with spaces, and this method
+#will replace the spaces by the underscores before returning.
+def find_redirects(page):
+    site = wiki.Wiki("http://en.wikipedia.org/w/api.php")
+
+    params = {'action':'query',
+        'prop':'redirects',
+        'format':'json',
+        'rdprop':'title',
+        'rdnamespace':'0',
+        'rdlimit':'20',
+        'titles':page}
+    req = api.APIRequest(site, params)
+    res = req.query(querycontinue=False)
+    x = res['query']['pages'].keys()[0]
+    dict_of_redirects = res['query']['pages'][x]['redirects']
+
+    list_of_redirects = []
+    for elem in dict_of_redirects:
+        list_of_redirects.append(elem['title'].replace(" ","_"))
+
+    return list_of_redirects
+
+
 #Builds a list of triple (text, key, list).
 #Text is the text in the category 1 pages (of the key)
 #Key are the category 1 pages
-#List is  the list of pages in category 2 that appear in the category 1 page
-def tkl_triple(pair_list):
+#List is the list of pages in category 2 that appear in the category 1 page
+def tkl_triple_xml(pair_list, redirects):
     # Dictionary with category 1 pages as keys and category 2 pages
     # as values
     key_set_dict = group_pairs_into_dict(pair_list)
@@ -150,36 +175,7 @@ def tkl_triple(pair_list):
     # List that concatenates the result of each query and makes the tkl triple
     tkl_list = []
     i = 1
-    # Execute a query for each page in category 1 (first page of the tuple of pair_list)
-    for page_key in key_set_dict.keys():
-        site = wiki.Wiki("http://en.wikipedia.org/w/api.php")
-        params = {'action': 'query',
-            'prop': 'extracts',
-            'format': 'json',
-            'exlimit': '1',
-            'export':'',
-            'titles': page_key}
-        req = api.APIRequest(site, params)
-        res = req.query(querycontinue=False)
-        #pprint.pprint(res)
-        text = res['query']['export']['*']
-        tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
 
-        print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
-        i += 1
-
-    return tkl_list
-
-#Builds a list of triple (text, key, list).
-#Same as above method, retrieves the query result in XML and produces cleaner text.
-def tkl_triple_xml(pair_list):
-    # Dictionary with category 1 pages as keys and category 2 pages
-    # as values
-    key_set_dict = group_pairs_into_dict(pair_list)
-
-    # List that concatenates the result of each query and makes the tkl triple
-    tkl_list = []
-    i = 1
     # Execute a query for each page in category 1 (first page of the tuple of pair_list)
     for page_key in key_set_dict.keys():
         site = wiki.Wiki("http://en.wikipedia.org/w/api.php")
@@ -193,7 +189,21 @@ def tkl_triple_xml(pair_list):
         key = res['query']['pages'].keys()[0]
         text = res['query']['pages'][key]['extract']
 
-        tkl_list.append([text, [page_key], list(key_set_dict[page_key])])
+        list_of_pages = list(key_set_dict[page_key])
+
+        #If the redirects flag is true, the redirects for each of the page
+        #will be computed and added to the list of pages.
+        if redirects:
+            print "Computing redirects"
+            list_of_redirects = []
+            for page in list_of_pages:
+                try:
+                    list_of_redirects += find_redirects(page)
+                except Exception as e:
+                    pass
+            list_of_pages += list_of_redirects
+
+        tkl_list.append([text, [page_key], list_of_pages])
 
         print("Text query "+str(i)+" of "+str(len(key_set_dict.keys()))+" complete.")
         i += 1
@@ -201,14 +211,10 @@ def tkl_triple_xml(pair_list):
     return tkl_list
 
 
-def create_triplet_database():
+def create_triplet_database(pickle_filename, category1, category2, redirects):
     #Initialize writer to console and file
     f = open('output.txt', 'w')
     sys.stdout = Redirect(sys.stdout, f)
-
-    #Input files for the categories generated with Catscan2
-    category1 = "List_of_poems_depth_100.txt"
-    category2 = "List_of_poets_depth_100.txt"
 
     #Reads the category text files and generates a list with each line.
     cat1_page_list = read_category_to_list(category1)
@@ -231,14 +237,10 @@ def create_triplet_database():
     #Text is the text in the category 1 pages (of the key)
     #Key are the category 1 pages
     #List is  the list of pages in category 2 that appear in the category 1 page
-    # RAW TEXT TRIPLET
-    # tkl_triple_list = tkl_triple(pair_list)
-
-    # CLEAN TRIPLET
-    tkl_triple_list = tkl_triple_xml(pair_list)
+    tkl_triple_list = tkl_triple_xml(pair_list, redirects=redirects)
 
     #Once the queries are finished, will dump triplet object to file:
-    pickle.dump(tkl_triple_list, open("triplets_poems.pkl", 'wb'), -1)
+    pickle.dump(tkl_triple_list, open(pickle_filename, 'wb'), -1)
     print "Pickle dumped triplets successfully!"
 
     '''
@@ -255,11 +257,12 @@ def create_triplet_database():
 ###############
 #If the line below is enabled, all the queries will be executed, a "triplets_poems.pkl" file containing all the
 #triplets will be generated.
-#create_triplet_database()
+#Input files for the categories generated with Catscan2
+c1 = "List_of_poems_depth_100.txt"
+c2 = "List_of_poets_depth_100.txt"
+redirects = True
+create_triplet_database(pickle_filename="triplets_poems_redirects.pkl", category1=c1, category2=c2, redirects=redirects)
 
 #Loading the triplets from file and running the ranking function
-tkl_triple_list = pickle.load(open("triplets_poems.pkl", 'rb'))
-test = tkl_triple_list[0:500]
-#dump_contexts(test, 'poems_500.pkl')
-cs = pickle.load(open("poems_500.pkl", 'rb'))
-get_ranking(test,contexts= cs)
+#tkl_triple_list = pickle.load(open("triplets_poems.pkl", 'rb'))
+#get_ranking(tkl_triple_list)
