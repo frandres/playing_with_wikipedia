@@ -40,44 +40,97 @@ def str_contains(s1,s2):
         j+=1
 
     return j<=len(s1)
+'''
+    If every word of s2 is in s1, return the number of words that occur between every
+    two consecutive words of s1 in s2.
+    Otherwise, return None.
+'''
+def count_words_inbetween(s1,s2):
+    s1 = s1.split(' ')
+    s2 = s2.split(' ')
+
+    s_count = [None]*(len(s2)+1)
+
+    s2_i = 0
+    s1_i = 0
+    while(s1_i<len(s1) and s2[s2_i]!=s1[s1_i]):
+        s1_i+=1
+
+    '''
+    if s1_i == len(s1) and (len(s2)>1 or s2[s2_i]!=s1[s1_i]):
+        return None
+    '''
+
+    s_count[0] = s1_i
+
+    s2_i+=1
+
+    while(s2_i<len(s2) and s1_i<len(s1)):
+        tmp = s1_i
+        s1_i+=1
+        while(s1_i<len(s1) and s2[s2_i]!=s1[s1_i]):
+            s1_i+=1
+        s_count[s2_i] = s1_i-tmp-1
+        s2_i+=1
+
+    if (s2_i<len(s2)): 
+    # The previous while stopped without running through all the words of s2.
+        return None
+
+    if (s1_i==len(s1)):
+    # The previous while stopped in the last word of s2 and that word doesnt match
+    # a word in s1
+        return None
+
+    # Otherwise, they match.
+
+    s_count[len(s2)] = len(s1)-s1_i-1
+
+    return s_count
 
 '''
     Given a list of contexts, processes them by extracting all the pairwise longest subsequences and keeping a count of the words between each word of the longest subsequence. Then filter out words with low frequency and that are not useful, build a sorted frequency table and filter out contexts which can be expressed with a higher frequency.
-
-TODO: The in-between word counts is computed when finding the longest subsequence.
-This is probably not the best option as there might be contexts which although match that 
-subsequence, their in-between word count might not be computed.
 
 '''
 def build_ranking(contexts,minimum_freq, minimum_size = 3):
     lss = {}
     for i in range(0,len(contexts)):
         for j in range(i,len(contexts)):
-            glss = get_longest_subsequence(contexts[i],contexts[j])
-            if glss is not None:
-                t= glss[0]
-                word_counts = glss[1]
+            t = get_longest_subsequence(contexts[i],contexts[j])
+            if t is not None:
                 words = t.split(' ')
                 if len(words)>minimum_size:
                     if t in lss.keys():
-                       for i in range(0,len(word_counts)):
-                            lss[t][i].append(word_counts[i][0])
-                            lss[t][i].append(word_counts[i][1])
+                        lss[t]+=2
                     else: 
-                        lss[t]= []
-                        for i in range(0,len(word_counts)):
-                            lss[t].append([word_counts[i][0],word_counts[i][1]])
+                        lss[t]= 2
 
-    ''' Now we filter out contexts whose frequency are below are a certain threshold
+    ''' Now we do two things:
+
+        1) filter out contexts whose frequency are below are a certain threshold
         and that are not linguistically useful (contexts not containing content words
         and the such)
+
+        2) for every possible context and longest subsequence, find if the longest subsequence
+           matches that context and if so, count how many words are in between.
     '''
     sorted_text = []
     processed_contexts = {}
-    for (expression,word_counts) in lss.items():
-        freq = len(word_counts[0])/2
-        if freq>=minimum_freq and is_useful_context(expression):
-            sorted_text.append((freq,expression,word_counts))
+    for (lss_context,freq) in lss.items():
+        if freq>=minimum_freq and is_useful_context(lss_context):
+            real_freq = 0
+            w= lss_context.split(' ')
+            word_counts = [[] for x in range(0,len(w)+1)]
+            for c in contexts:
+                cw = count_words_inbetween(c,lss_context)
+                if cw is not None:
+                    real_freq+=1
+                    for i in range(0,len(cw)):
+                        count = cw[i]
+                        word_counts[i].append(count)
+
+            if real_freq> minimum_freq:
+                sorted_text.append((real_freq,lss_context,word_counts))
 
     '''
         We now sort by frequency.
@@ -95,7 +148,6 @@ def build_ranking(contexts,minimum_freq, minimum_size = 3):
                 contained = True
                 break
         if(not contained):
-            print text
             filtered_sorted_text.append((freq,text,word_counts))
 
 
@@ -122,7 +174,7 @@ def build_ranking(contexts,minimum_freq, minimum_size = 3):
 '''
     Given a list [(text,[id0,id1])] returns a ranking of the words
 '''
-def get_ranking(triplets, minimum_freq = 1,contexts=None):
+def get_ranking(triplets, minimum_freq = 2,contexts=None):
     if contexts == None:
         contexts = []
         i = 0
