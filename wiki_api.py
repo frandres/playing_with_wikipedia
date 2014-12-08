@@ -112,6 +112,7 @@ def find_outlinks(page_list, window_size):
 def find_pairs(outlinks_dict_of_category1, category2_list):
     tuple_list = []
 
+    print("Creating pairs...")
     for page_id in outlinks_dict_of_category1:
         list_of_pages = outlinks_dict_of_category1[page_id]
 
@@ -149,7 +150,7 @@ def find_redirects(page):
         'format':'json',
         'rdprop':'title',
         'rdnamespace':'0',
-        'rdlimit':'20',
+        'rdlimit':'10',
         'titles':page}
     req = api.APIRequest(site, params)
     res = req.query(querycontinue=False)
@@ -168,6 +169,8 @@ def find_redirects(page):
 #Key are the category 1 pages
 #List is the list of pages in category 2 that appear in the category 1 page
 def tkl_triple_xml(pair_list, redirects):
+    site = wiki.Wiki("http://en.wikipedia.org/w/api.php")
+
     # Dictionary with category 1 pages as keys and category 2 pages
     # as values
     key_set_dict = group_pairs_into_dict(pair_list)
@@ -178,7 +181,6 @@ def tkl_triple_xml(pair_list, redirects):
 
     # Execute a query for each page in category 1 (first page of the tuple of pair_list)
     for page_key in key_set_dict.keys():
-        site = wiki.Wiki("http://en.wikipedia.org/w/api.php")
         params = {'action': 'query',
             'prop': 'extracts',
             'format': 'xml',
@@ -196,11 +198,18 @@ def tkl_triple_xml(pair_list, redirects):
         if redirects:
             print "Computing redirects"
             list_of_redirects = []
-            for page in list_of_pages:
-                try:
-                    list_of_redirects += find_redirects(page)
-                except Exception as e:
-                    pass
+            redirect_size = len(list_of_pages)
+
+            for j, page in enumerate(list_of_pages):
+                if j < 10:                                      #Will search only first 10 redirs for first 10 elements
+                    try:
+                        list_of_redirects += find_redirects(page)
+                        print "Redirect "+str(j+1)+" of "+str(redirect_size)
+                    except Exception as e:
+                        print "Redirect exception: "+str(e)
+                else:
+                    break
+
             list_of_pages += list_of_redirects
 
         tkl_list.append([text, [page_key], list_of_pages])
