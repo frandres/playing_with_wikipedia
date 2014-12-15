@@ -1,0 +1,203 @@
+Found: 2081 base contexts.
+Found: 2919 contexts
+-------------- RANKING ----------------
+0 |(0 36)is(0 8)a(0 23)poem(0 16)by(0 32)| with freq: 691
+ 
+1 |(0 22)is(0 8)a(1 20)written(0 15)by(0 29)| with freq: 310
+ 
+2 |(0 29)is(0 6)a(1 23)by(0 11)poet(0 27)| with freq: 266
+ 
+3 |(0 27)is(2 18)by(0 10)the(0 4)poet(0 27)| with freq: 258
+ 
+4 |(0 27)is(1 18)poem(0 15)written(0 8)by(0 29)| with freq: 244
+ 
+5 |(0 31)is(0 10)a(1 17)by(0 21)the(0 31)| with freq: 223
+ 
+6 |(1 23)a(0 17)poem(0 15)written(0 8)by(0 29)| with freq: 218
+ 
+7 |(0 22)is(0 4)a(0 17)poem(0 21)written(1 30)| with freq: 217
+ 
+8 |(0 29)is(1 13)poem(0 13)by(0 11)poet(0 27)| with freq: 201
+ 
+9 |(0 27)is(2 13)written(0 5)by(0 11)poet(0 14)| with freq: 187
+ 
+10 |(0 27)is(2 13)written(0 5)by(0 21)the(0 16)| with freq: 181
+ 
+11 |(0 14)is(2 16)by(0 4)English(0 2)poet(0 21)| with freq: 178
+ 
+12 |(0 29)is(0 3)a(0 12)poem(1 17)poet(0 27)| with freq: 178
+ 
+13 |(0 31)is(0 9)a(1 16)of(1 19)by(0 13)| with freq: 177
+ 
+14 |(1 30)a(0 12)poem(0 13)by(0 11)poet(0 27)| with freq: 176
+ 
+15 |(0 27)is(1 13)poem(0 13)by(0 21)the(0 31)| with freq: 170
+ 
+16 |(0 14)is(2 16)by(0 0)the(0 3)English(1 22)| with freq: 165
+ 
+17 |(0 14)is(0 17)the(0 13)English(0 2)poet(0 21)| with freq: 161
+ 
+18 |(0 27)is(0 3)a(0 13)poem(0 23)the(0 31)| with freq: 161
+ 
+19 |(3 24)by(0 0)the(0 3)English(0 2)poet(0 21)| with freq: 161
+ 
+20 |(0 27)is(1 17)of(1 18)written(0 5)by(0 12)| with freq: 156
+ 
+21 |(0 27)is(0 6)a(2 16)the(0 14)poet(0 27)| with freq: 154
+ 
+22 |(1 28)a(1 23)by(0 10)the(0 4)poet(0 27)| with freq: 151
+ 
+23 |(1 35)written(0 5)by(0 10)the(0 3)poet(0 11)| with freq: 150
+ 
+24 |(0 27)is(2 13)written(1 11)the(0 6)poet(0 11)| with freq: 148
+ 
+25 |(0 27)is(1 12)of(1 12)by(0 4)poet(0 10)| with freq: 147
+ 
+26 |(1 28)a(0 12)poem(0 13)by(0 21)the(0 31)| with freq: 145
+ 
+27 |(1 23)of(1 35)by(0 10)the(0 4)poet(0 16)| with freq: 143
+ 
+28 |(0 31)is(1 18)of(1 24)by(0 2)the(0 11)| with freq: 142
+ 
+29 |(0 27)is(2 14)by(0 21)the(1 16)and(0 22)| with freq: 137
+ 
+30 |(0 27)is(1 11)of(0 10)the(0 16)poet(0 27)| with freq: 132
+ 
+31 |(0 13)is(0 5)a(0 4)collection(0 12)by(0 13)| with freq: 129
+ 
+32 |(0 14)is(2 13)written(0 2)by(0 7)English(1 12)| with freq: 126
+ 
+33 |(0 22)is(0 11)one(0 0)of(0 6)the(0 32)| with freq: 124
+ 
+34 |(0 29)is(0 8)a(0 9)poem(0 19)in(0 26)| with freq: 124
+ 
+35 |(0 23)of(1 32)written(0 4)by(0 14)the(0 11)| with freq: 123
+ 
+36 |(0 20)is(2 13)written(0 5)by(2 27)and(0 9)| with freq: 123
+ 
+37 |(0 29)is(0 8)a(1 14)in(1 14)by(0 24)| with freq: 123
+ 
+38 |(0 16)is(0 9)one(0 2)of(2 24)by(0 6)| with freq: 120
+ 
+39 |(2 23)of(1 32)written(0 4)by(1 11)poet(0 10)| with freq: 119
+ 
+40 |(0 27)is(1 13)poem(1 14)the(0 8)poet(0 27)| with freq: 115
+ 
+41 |(0 14)is(2 14)by(0 7)English(1 8)and(1 17)| with freq: 113
+ 
+42 |(1 18)of(1 20)by(0 2)English(0 2)poet(0 16)| with freq: 112
+ 
+43 |(2 18)of(1 20)by(0 0)the(0 1)English(1 17)| with freq: 111
+ 
+44 |(0 27)is(1 10)of(1 11)written(1 4)the(2 20)| with freq: 111
+ 
+45 |(0 14)is(1 18)of(0 6)the(1 29)and(0 15)| with freq: 111
+ 
+46 |(0 27)is(2 14)by(1 6)and(0 16)poet(0 4)| with freq: 111
+ 
+47 |(2 18)of(0 17)the(0 20)English(0 2)poet(0 16)| with freq: 110
+ 
+48 |(0 18)is(1 10)of(1 12)by(2 8)and(1 4)| with freq: 109
+ 
+49 |(0 14)is(1 10)of(1 12)by(0 2)English(1 5)| with freq: 109
+ 
+50 |(0 14)is(1 10)of(0 10)the(0 13)English(1 3)| with freq: 107
+ 
+51 |(0 14)is(1 10)of(1 14)English(0 2)poet(0 4)| with freq: 107
+ 
+52 |(2 23)written(0 4)by(0 21)the(1 9)and(1 17)| with freq: 104
+ 
+53 |(0 18)is(2 13)written(1 22)the(1 9)and(1 12)| with freq: 104
+ 
+54 |(0 29)is(1 16)poem(0 9)in(1 12)by(0 24)| with freq: 103
+ 
+55 |(0 14)is(0 9)one(0 0)of(1 14)English(1 3)| with freq: 102
+ 
+56 |(1 17)one(0 15)of(0 7)the(1 16)poet(0 0)| with freq: 101
+ 
+57 |(1 17)one(0 15)of(2 12)by(1 4)poet(0 0)| with freq: 101
+ 
+58 |(0 16)is(0 9)one(2 25)by(0 13)the(1 5)| with freq: 101
+ 
+59 |(0 13)is(0 3)a(0 10)poetry(0 3)by(0 6)| with freq: 101
+ 
+60 |(1 18)of(1 11)written(0 3)by(2 6)and(1 7)| with freq: 100
+ 
+61 |(0 14)is(0 9)one(3 13)by(0 2)English(1 3)| with freq: 100
+ 
+62 |(0 14)is(1 10)of(1 11)written(0 9)and(1 12)| with freq: 99
+ 
+63 |(0 14)is(4 14)by(0 1)English(0 2)playwright(0 2)| with freq: 99
+ 
+64 |(2 18)of(2 17)written(0 2)by(0 1)English(1 3)| with freq: 98
+ 
+65 |(0 18)is(2 13)written(0 5)by(1 6)playwright(0 2)| with freq: 98
+ 
+66 |(0 15)is(3 12)sonnets(0 4)written(0 0)by(0 8)| with freq: 98
+ 
+67 |(0 15)is(1 10)of(0 6)sonnets(0 5)by(0 5)| with freq: 98
+ 
+68 |(0 18)is(1 10)of(1 12)by(1 3)playwright(0 2)| with freq: 98
+ 
+69 |(0 14)is(1 10)of(0 9)154(1 4)by(0 5)| with freq: 98
+ 
+70 |(0 18)is(3 14)by(0 3)playwright(0 8)and(1 5)| with freq: 98
+ 
+71 |(0 14)is(4 16)English(0 4)and(0 16)poet(0 27)| with freq: 98
+ 
+72 |(2 23)of(0 8)the(1 10)and(0 15)poet(0 0)| with freq: 97
+ 
+73 |(0 14)is(0 9)one(0 0)of(1 6)sonnets(1 11)| with freq: 97
+ 
+74 |(0 14)is(0 9)one(0 0)of(0 9)154(0 10)| with freq: 97
+ 
+75 |(0 14)is(1 10)of(2 11)written(1 2)English(1 3)| with freq: 97
+ 
+76 |(0 14)is(2 14)by(0 0)the(1 3)playwright(0 2)| with freq: 97
+ 
+77 |(2 18)of(2 11)written(0 3)by(1 6)playwright(0 2)| with freq: 96
+ 
+78 |(1 18)of(2 12)by(0 0)the(1 3)playwright(0 2)| with freq: 96
+ 
+79 |(0 14)is(3 12)sonnets(0 5)by(3 7)and(0 1)| with freq: 96
+ 
+80 |(0 14)is(0 9)one(0 2)of(2 11)and(1 15)| with freq: 96
+ 
+81 |(0 27)is(0 9)a(1 12)by(0 27)and(0 22)| with freq: 91
+ 
+82 |(0 16)is(1 7)of(0 6)poems(0 18)by(0 13)| with freq: 90
+ 
+83 |(1 30)a(0 11)poem(0 9)in(1 12)by(0 24)| with freq: 89
+ 
+84 |(0 27)is(0 9)an(1 6)poem(0 12)by(0 28)| with freq: 88
+ 
+85 |(0 13)is(0 4)a(1 15)by(0 9)English(1 22)| with freq: 88
+ 
+86 |(1 20)a(1 18)written(0 5)by(0 11)poet(0 14)| with freq: 84
+ 
+87 |(0 19)is(0 3)a(1 22)written(1 12)poet(0 14)| with freq: 82
+ 
+88 |(1 17)a(1 7)of(0 6)poems(0 18)by(0 13)| with freq: 81
+ 
+89 |(0 13)is(1 6)collection(0 0)of(1 11)by(0 13)| with freq: 80
+ 
+90 |(0 14)is(0 6)a(1 6)of(0 6)poems(1 19)| with freq: 79
+ 
+91 |(0 13)is(0 5)a(0 3)collection(0 9)of(0 29)| with freq: 79
+ 
+92 |(0 31)is(0 6)a(1 28)of(0 10)the(0 30)| with freq: 78
+ 
+93 |(0 20)is(0 0)a(1 20)in(0 18)the(0 30)| with freq: 78
+ 
+94 |(1 14)a(0 3)collection(0 0)of(1 11)by(0 13)| with freq: 76
+ 
+95 |(1 14)a(1 15)by(0 2)English(0 2)poet(0 21)| with freq: 76
+ 
+96 |(0 13)is(0 4)a(1 17)English(0 6)poet(0 27)| with freq: 75
+ 
+97 |(0 22)is(0 3)a(1 12)written(1 22)the(0 14)| with freq: 73
+ 
+98 |(1 23)a(1 18)written(0 5)by(0 21)the(0 14)| with freq: 73
+ 
+99 |(0 27)of(2 29)is(0 3)a(1 16)by(0 19)| with freq: 70
+ 

@@ -180,7 +180,7 @@ def get_ranking(triplets, minimum_freq = 2,contexts=None):
         i = 0
         for (text,ids0,ids1) in triplets:
             i+=1
-            print 'Analyzing: ' + str(i)+ ', ' +ids0[0].encode('utf8')
+            #print 'Analyzing: ' + str(i)+ ', ' +ids0[0].encode('utf8')
         
             # Let's get rid of HTML:
 
@@ -191,7 +191,7 @@ def get_ranking(triplets, minimum_freq = 2,contexts=None):
                 t = preprocess_context(t)
                 contexts.append(t)
 
-        print 'Found: ' + str(len(contexts)) + ' contexts.'
+        print 'Found: ' + str(len(contexts)) + ' base contexts.'
     else:
         for i in range(0,len(contexts)):
             contexts[i] = preprocess_context(contexts[i])
@@ -199,6 +199,6 @@ def get_ranking(triplets, minimum_freq = 2,contexts=None):
     sorted_text = build_ranking(contexts,minimum_freq)
     print "Found: " + str(len(sorted_text)) + ' contexts'
     print '-------------- RANKING ----------------'
-    for i in range(0,min(5,len(sorted_text))):
+    for i in range(0,min(100,len(sorted_text))):
         print str(i) + ' |' + sorted_text[i][1].encode('utf8') + '| with freq: '+ str(sorted_text[i][0])
         print ' '

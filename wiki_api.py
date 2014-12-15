@@ -1,6 +1,6 @@
 from wikitools import wiki, api
 import pprint
-from extract_text import get_ranking
+from ranking import get_ranking
 import sys
 import cPickle as pickle
 
@@ -267,11 +267,12 @@ def create_triplet_database(pickle_filename, category1, category2, redirects):
 #If the line below is enabled, all the queries will be executed, a "triplets_poems.pkl" file containing all the
 #triplets will be generated.
 #Input files for the categories generated with Catscan2
+'''
 c1 = "List_of_poems_depth_100.txt"
 c2 = "List_of_poets_depth_100.txt"
 redirects = True
 create_triplet_database(pickle_filename="triplets_poems_redirects.pkl", category1=c1, category2=c2, redirects=redirects)
-
+'''
 #Loading the triplets from file and running the ranking function
-#tkl_triple_list = pickle.load(open("triplets_poems.pkl", 'rb'))
-#get_ranking(tkl_triple_list)
+tkl_triple_list = pickle.load(open("triplets_riverscountries_dbpedia.pkl", 'rb'))[0:2000]
+get_ranking(tkl_triple_list)
